@@ -51,10 +51,10 @@
                                         <div class="authorization-top">
 
                                             <div class="logo-wrapper">
-                                                <a href="../index.html" class="logo">
+                                                <a href="{{asset('')}}" class="logo">
                                                     <div class="logo-img">
-                                                        <img class="image"
-                                                            src="../../assets/optima/images/svg/logo.svg">
+                                                        <img class="image" style="width: 250px; height:100px;"
+                                                            src="{{asset('')}}assets/oora3/images/logo.png">
                                                     </div>
                                                 </a>
                                             </div>
