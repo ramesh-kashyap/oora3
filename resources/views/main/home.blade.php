@@ -14,20 +14,23 @@
                                 <div class="front-page-info-top-content">
                                     <div class="front-page-info-top-title-block">
                                         <h1 class="front-page-info-top-title">
-                                            Fintech Ecosystem.
+                                             OORA3 – Empowering
+
                                             <div class="gradient-text-wrapper">
                                                 <div class="gradient-text">
-                                                    Trusted Custodian.</div>
+                                                   Global Investments</div>
                                             </div>
                                         </h1>
                                     </div>
                                     <div class="front-page-info-top-descr-block">
                                         <div class="front-page-info-top-descr">
-                                            Smart staking powered by AI trading models, low-rate loans, and instant
-                                            crypto exchange within a single multi-currency wallet interface.
+                                             Step into a decentralized digital ecosystem powered by privacy, security, and advanced blockchain technology. 
+    Designed for transparency, scalability, and global participation, OORA3 redefines the future of digital finance.
                                         </div>
                                     </div>
                                 </div>
+
+                                
                                 <div class="front-page-info-feature-items-block">
                                     <div class="front-page-info-feature-items">
                                         <div class="front-page-info-feature-item-wrapper">
@@ -158,15 +161,15 @@
                                                     </div>
                                                     <div class="home-infographic-trade__content">
                                                         <div class="home-infographic-trade__title">
-                                                            AI trade completed
+                                                            AI-driven transaction executed
                                                         </div>
                                                         <div class="home-infographic-trade__descr">
-                                                            Algorithmic trading strategy
+                                                          Intelligent decentralized trading model
                                                         </div>
                                                         <div class="home-infographic-trade__info-block">
                                                             <div class="home-infographic-trade__info">
                                                                 <div class="home-infographic-trade__info__profit">
-                                                                    Earning +0.21%
+                                                                   Performance +0.21%
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -310,11 +313,10 @@
                                         <div class="front-features-top">
                                             <div class="front-features-top__left">
                                                 <h2 class="front-features-top__title">
-                                                    Key benefits
+                                                   Core Advantages
                                                 </h2>
                                                 <div class="front-features-top__descr">
-                                                    How we create an uncompromising environment for secure asset storage
-                                                    and transfer, and other high-yield crypto market interactions.
+                                                   Powering a secure, scalable, and high-performance ecosystem for digital asset protection, seamless transfers, and intelligent crypto growth.
                                                 </div>
 
                                             </div>
@@ -337,12 +339,10 @@
                                                             alt="">
                                                     </div>
                                                     <div class="front-feature-item__title">
-                                                        Secure asset protectionов
+                                                       Enterprise-Grade Security
                                                     </div>
                                                     <div class="front-feature-item__descr">
-                                                        A multi-layered security architecture featuring TLS data
-                                                        encryption, hybrid key management schemes, privilege control,
-                                                        and institutional-grade risk management systems.
+                                                     Built on a robust multi-layered architecture with advanced encryption, intelligent key management, and strict access controls to safeguard assets with uncompromising reliability.
                                                     </div>
                                                 </div>
                                             </div>
@@ -354,13 +354,11 @@
                                                             alt="">
                                                     </div>
                                                     <div class="front-feature-item__title">
-                                                        Autonomous AI Trading
-                                                    </div>
+ AI-Driven Autonomous Trading                                                    </div>
                                                     <div class="front-feature-item__descr">
-                                                        Automated algorithms of a high-performance AI-driven trading
-                                                        engine, trained on big data using deep learning, featuring
-                                                        universal market strategies and fully autonomous trading
-                                                        decisions.
+                                                              An intelligent trading system powered by advanced AI and machine learning, enabling real-time market analysis and fully automated trading decisions for optimized performance and efficiency.
+
+
                                                     </div>
                                                 </div>
                                             </div>
