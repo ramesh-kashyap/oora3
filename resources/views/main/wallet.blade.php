@@ -15,16 +15,15 @@
 
                                     <div class="front-page-info-top-title-block">
                                         <h1 class="front-page-info-top-title">
-                                            Crypto Wallet.
+                                        Digital Asset Layer
                                             <div class="gradient-text-wrapper">
-                                                <div class="gradient-text">Private transfers.</div>
+                                                <div class="gradient-text">Secure Interaction</div>
                                             </div>
                                         </h1>
                                     </div>
                                     <div class="front-page-info-top-descr-block">
                                         <div class="front-page-info-top-descr">
-                                            Safely store and manage your crypto in the Optima multi-currency wallet with
-                                            built-in AI solutions. Available via Web and Apps on any device.
+                                            A secure and integrated environment designed for managing, transferring, and interacting with digital assets across a decentralized ecosystem. Built on advanced blockchain architecture, it ensures transparency, reliability, and seamless asset accessibility across global infrastructure.
                                         </div>
                                     </div>
                                 </div>
@@ -36,8 +35,7 @@
                                                 <div class="front-page-info-feature-item__icon"></div>
                                                 <div class="front-page-info-feature-item__text">
 
-                                                    15+ cryptocurrencies
-
+Multi-Asset Support
                                                 </div>
                                             </div>
                                         </div>
@@ -47,7 +45,7 @@
                                                 <div class="front-page-info-feature-item__icon"></div>
                                                 <div class="front-page-info-feature-item__text">
 
-                                                    Safe & Secure
+Secure System Architecture  
 
                                                 </div>
                                             </div>
@@ -58,8 +56,7 @@
                                                 <div class="front-page-info-feature-item__icon"></div>
                                                 <div class="front-page-info-feature-item__text">
 
-                                                    Built-in crypto exchange
-
+Seamless Ecosystem Interaction
                                                 </div>
                                             </div>
                                         </div>
@@ -70,7 +67,7 @@
                                         <div class="front-page-info-top-button-wrapper">
                                             <a href="../sign-up/index.html"
                                                 class="front-page-info-top-button green-gradient-btn iconed-btn">
-                                                <div class="iconed-btn__text">Create Account</div>
+                                                <div class="iconed-btn__text">Access Ecosystem </div>
                                                 <div class="iconed-btn__icon"></div>
                                             </a>
                                         </div>
@@ -79,7 +76,7 @@
                                             <button type="button" data-bs-toggle="modal"
                                                 data-bs-target="#modalDownload"
                                                 class="download-button light-black-btn iconed-btn">
-                                                <div class="iconed-btn__text">Download</div>
+                                                <div class="iconed-btn__text">Download Overview</div>
                                                 <div class="iconed-btn__icon"></div>
                                             </button>
                                         </div>
@@ -138,11 +135,11 @@
                                                             </div>
                                                             <div class="fp-infographic-item__info__content">
                                                                 <div class="fp-infographic-item__info__title">
-                                                                    Security alert
+                                                                    System Integrity Alert  
                                                                 </div>
                                                                 <div class="fp-infographic-item__info__value"
                                                                     style="font-size:12px;">
-                                                                    Suspicious transaction
+                                                                   Unverified Activity Detected
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -161,7 +158,7 @@
                                                             </div>
                                                             <div class="fp-infographic-item__info__content">
                                                                 <div class="fp-infographic-item__info__title">
-                                                                    New transaction
+                                                                 Asset Interaction  
                                                                 </div>
                                                                 <div class="fp-infographic-item__new-deposit">
                                                                     <div class="fp-infographic-item__new-deposit__left">
@@ -176,7 +173,7 @@
                                                                             class="fp-infographic-item__new-deposit__status-wrapper">
                                                                             <div
                                                                                 class="fp-infographic-item__new-deposit__status fp-infographic-item__new-deposit__status--success">
-                                                                                Completed
+                                                                              Verified
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -196,12 +193,12 @@
                                                                     </div>
                                                                     <div
                                                                         class="fp-infographic-item__exchange-top__title__text">
-                                                                        Instant exchange</div>
+                                                                     Seamless Asset Flow  </div>
                                                                 </div>
                                                             </div>
                                                             <div class="fp-infographic-item__exchange-top__right">
                                                                 <div class="fp-infographic-item__exchange-top__time">
-                                                                    Just now</div>
+                                                                    Real-Time Interaction</div>
                                                             </div>
                                                         </div>
                                                         <div class="fp-infographic-item__exchange-pair-block">
@@ -273,11 +270,11 @@
                                         <div class="front-features-top">
                                             <div class="front-features-top__left">
                                                 <h2 class="front-features-top__title">
-                                                    Why choose Optima Wallet?
+                                                   Why Choose OORA3 Infrastructure?
                                                 </h2>
                                                 <div class="front-features-top__descr">
-                                                    Core crypto custody principles combined with banking industry
-                                                    standards to meet holder expectations.
+                                                   Built on advanced blockchain architecture and secure system design, OORA3 ensures reliable asset management, transparent interaction, and scalable performance across a decentralized digital ecosystem.
+
                                                 </div>
                                             </div>
                                             <div class="front-features-top__right">

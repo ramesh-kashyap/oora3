@@ -15,7 +15,7 @@
                                     </a>
                                 </div>
                                 <div class="footer-info">
-                                    Optima Business Limited<br />Optima Co PTY LTD<br />Optima Business Growth LTD
+                                  OORA3 Global Infrastructure  <br />OORA3 Technology Network  <br />OORA3 Ecosystem Development
                                 </div>
                                 <div class="footer-social-block">
                                     <div class="footer-social">
@@ -57,18 +57,18 @@
                                     <div class="footer-menu">
                                         <ul class="footer-menu-list">
                                             <li class="footer-menu-item">
-                                                <a href="crypto-wallet/index.html" class="footer-menu-link">Wallet</a>
+                                                <a href="crypto-wallet/index.html" class="footer-menu-link">Digital Asset Layer</a>
                                             </li>
                                             <li class="footer-menu-item">
-                                                <a href="ai-staking/index.html" class="footer-menu-link">AI Staking</a>
+                                                <a href="ai-staking/index.html" class="footer-menu-link">AI Intelligence Layer</a>
                                             </li>
                                             <li class="footer-menu-item">
-                                                <a href="crypto-loans/index.html" class="footer-menu-link">Crypto
-                                                    Loans</a>
+                                                <a href="crypto-loans/index.html" class="footer-menu-link">Liquidity Infrastructure
+                                                    </a>
                                             </li>
                                             <li class="footer-menu-item">
                                                 <a href="affiliate-program/index.html"
-                                                    class="footer-menu-link">Affiliate program</a>
+                                                    class="footer-menu-link">Ecosystem Program</a>
                                             </li>
                                         </ul>
                                     </div>
@@ -85,18 +85,18 @@
                                     <div class="footer-menu">
                                         <ul class="footer-menu-list">
                                             <li class="footer-menu-item">
-                                                <a href="fees-and-limits/index.html" class="footer-menu-link">Fees and
-                                                    Limits</a>
+                                                <a href="fees-and-limits/index.html" class="footer-menu-link">System Documentation
+                                                    </a>
                                             </li>
                                             <li class="footer-menu-item">
                                                 <a href="help-center/index.html" class="footer-menu-link">Help
                                                     center</a>
                                             </li>
                                             <li class="footer-menu-item">
-                                                <a href="learn/index.html" class="footer-menu-link">Optima Learn</a>
+                                                <a href="learn/index.html" class="footer-menu-link">Ecosystem Learn</a>
                                             </li>
                                             <li class="footer-menu-item">
-                                                <a href="bounty/index.html" class="footer-menu-link">Bounty</a>
+                                                <a href="bounty/index.html" class="footer-menu-link">Developer Programs</a>
                                             </li>
                                         </ul>
                                     </div>
@@ -114,13 +114,13 @@
                                     <div class="footer-menu">
                                         <ul class="footer-menu-list">
                                             <li class="footer-menu-item">
-                                                <a href="news/index.html" class="footer-menu-link">Blog</a>
+                                                <a href="news/index.html" class="footer-menu-link">Ecosystem Updates</a>
                                             </li>
                                             <li class="footer-menu-item">
-                                                <a href="about-us/index.html" class="footer-menu-link">About Us</a>
+                                                <a href="about-us/index.html" class="footer-menu-link">About OORA3</a>
                                             </li>
                                             <li class="footer-menu-item">
-                                                <a href="roadmap/index.html" class="footer-menu-link">Roadmap</a>
+                                                <a href="roadmap/index.html" class="footer-menu-link">Development Roadmap</a>
                                             </li>
                                             <li class="footer-menu-item">
                                                 <a href="contact-us/index.html" class="footer-menu-link">Contact Us</a>

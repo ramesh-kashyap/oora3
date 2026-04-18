@@ -93,7 +93,7 @@
                                         <a href="{{route('ai-staking')}}"
                                             class="mobile-topmenu-link mobile-topmenu-link--ai-staking">
                                             <div class="mobile-topmenu-link__icon"></div>
-                                            <div class="mobile-topmenu-link__text">AI Staking</div>
+                                            <div class="mobile-topmenu-link__text">AI Layer</div>
                                         </a>
                                     </li>
                                     <li class="mobile-topmenu-item">

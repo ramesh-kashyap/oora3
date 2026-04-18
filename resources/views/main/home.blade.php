@@ -144,13 +144,13 @@
                                         </div>
                                         <div class="home-infographic-content">
                                             <div class="home-infographic-label home-infographic-label--australia">
-                                                Australia
+                                                 Global Node 
                                             </div>
                                             <div class="home-infographic-label home-infographic-label--united-kingdom">
-                                                United Kingdom
+                                               EU Region 
                                             </div>
                                             <div class="home-infographic-label home-infographic-label--hong-kong">
-                                                Hong Kong
+                                               APAC Hub  
                                             </div>
                                             <div class="home-infographic-card home-infographic-card--trade">
                                                 <div class="home-infographic-trade">
@@ -183,8 +183,8 @@
                                                             <div class="home-infographic-shield-top__icon__image">
                                                             </div>
                                                         </div>
-                                                        <div class="home-infographic-shield-top__title">Trusted
-                                                            Custodian</div>
+                                                        <div class="home-infographic-shield-top__title">
+                                                             Secure Blockchain Custodian</div>
                                                     </div>
                                                     <div class="home-infographic-shield-progress">
                                                         <div class="home-infographic-shield-progress__progress"
@@ -192,7 +192,7 @@
                                                     </div>
                                                     <div class="home-infographic-shield-bottom">
                                                         <div class="home-infographic-shield-bottom__threats">
-                                                            Fully Regulated Operations
+                                                          Transparent & Decentralized Operations
                                                         </div>
                                                     </div>
                                                 </div>
@@ -210,7 +210,7 @@
                                                             <div class="home-infographic-pair-top__type-wrapper">
                                                                 <div
                                                                     class="home-infographic-pair-top__type home-infographic-pair-top__type--long">
-                                                                    Long</div>
+                                                                    AI Trend</div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -281,7 +281,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="home-infographic-pair-entry">
-                                                        Open: $1,240
+                                                    Market Entry: $1,240
                                                     </div>
                                                 </div>
                                             </div>
@@ -313,10 +313,10 @@
                                         <div class="front-features-top">
                                             <div class="front-features-top__left">
                                                 <h2 class="front-features-top__title">
-                                                   Core Advantages
+                                                  Decentralized Ecosystem Advantages
                                                 </h2>
                                                 <div class="front-features-top__descr">
-                                                   Powering a secure, scalable, and high-performance ecosystem for digital asset protection, seamless transfers, and intelligent crypto growth.
+                                                  Building a secure, transparent, and scalable digital infrastructure powered by advanced blockchain technology, enabling seamless asset interaction and intelligent participation in a decentralized financial ecosystem
                                                 </div>
 
                                             </div>
@@ -339,10 +339,11 @@
                                                             alt="">
                                                     </div>
                                                     <div class="front-feature-item__title">
-                                                       Enterprise-Grade Security
+                                                       Intelligent AI Ecosystem Engine
                                                     </div>
                                                     <div class="front-feature-item__descr">
-                                                     Built on a robust multi-layered architecture with advanced encryption, intelligent key management, and strict access controls to safeguard assets with uncompromising reliability.
+                                                     Built on a robust multi-layered architecture with advanced 
+                                                     encryption, intelligent key management, and strict access controls to safeguard assets with uncompromising reliability.
                                                     </div>
                                                 </div>
                                             </div>
@@ -354,9 +355,10 @@
                                                             alt="">
                                                     </div>
                                                     <div class="front-feature-item__title">
- AI-Driven Autonomous Trading                                                    </div>
+  Intelligent AI Ecosystem Engine                                                </div>
                                                     <div class="front-feature-item__descr">
-                                                              An intelligent trading system powered by advanced AI and machine learning, enabling real-time market analysis and fully automated trading decisions for optimized performance and efficiency.
+                                                                An advanced AI-powered system designed to process real-time data, analyze behavioral patterns, and enable autonomous decision-making within a decentralized digital ecosystem. 
+
 
 
                                                     </div>
@@ -370,12 +372,13 @@
                                                             alt="">
                                                     </div>
                                                     <div class="front-feature-item__title">
-                                                        Available liquidity
+                                                        Seamless Liquidity Infrastructure
                                                     </div>
                                                     <div class="front-feature-item__descr">
-                                                        Instant access to liquidity while keeping the growth potential
-                                                        of your collateral thanks to the integrated lending service with
-                                                        immediate crypto loan disbursement on favorable terms.
+                                                          A decentralized liquidity framework enabling continuous asset accessibility and efficient value movement across the ecosystem. 
+                                                          Designed to support real-time interaction, adaptive resource allocation.
+                                                         
+
                                                     </div>
                                                 </div>
                                             </div>
@@ -387,13 +390,12 @@
                                                             alt="">
                                                     </div>
                                                     <div class="front-feature-item__title">
-                                                        Low and transparent fees
+                                                       Transparent System Architecture
                                                     </div>
                                                     <div class="front-feature-item__descr">
-                                                        Predictable product expenses with minimal transaction fees for
-                                                        staking contracts, crypto loan servicing, or exchange
-                                                        transactions. 0% fees for sending or receiving funds from your
-                                                        wallet.
+                                                          Designed with a transparent and efficient framework that ensures predictable system operations, optimized resource utilization, and seamless value exchange across the decentralized ecosystem. Every interaction is structured for clarity.
+                         
+
 
                                                     </div>
                                                 </div>
@@ -411,13 +413,14 @@
                                         <div class="front-section-top__left">
                                             <div class="front-section-title-block">
                                                 <h2 class="front-section-title">
-                                                    Ecosystem Products
+                                                 Integrated Digital Ecosystem
                                                 </h2>
                                             </div>
                                             <div class="front-section-descr-block">
                                                 <div class="front-section-descr">
-                                                    A complete set of advanced tools for progressive crypto asset
-                                                    management.
+                                                   A unified and interconnected infrastructure composed of multiple intelligent layers, designed to enable seamless interaction, 
+                                                   scalable operations, and efficient value flow within a decentralized digital environment.
+
                                                 </div>
                                             </div>
                                         </div>
@@ -441,14 +444,15 @@
                                                             </div>
                                                             <div class="front-eco-product-item__title-block">
                                                                 <div class="front-eco-product-item__title h1">
-                                                                    Crypto Wallet
+                                                                    Digital Asset Management Layer
                                                                 </div>
                                                             </div>
                                                             <div class="front-eco-product-item__descr-block">
                                                                 <div class="front-eco-product-item__descr">
-                                                                    A fully protected environment for reliable custodial
-                                                                    asset storage, secure crypto transfers, and currency
-                                                                    exchange.
+                                                                      A secure and integrated environment designed for managing, transferring, and interacting with digital assets across a 
+                                                                      decentralized ecosystem. Built with advanced security protocols and 
+                                                                      blockchain-based architecture, it ensures reliability, transparency, and seamless asset accessibility.
+
                                                                 </div>
                                                             </div>
                                                             <div class="front-eco-product-item__features-block">
@@ -462,9 +466,8 @@
                                                                             <div
                                                                                 class="front-eco-product-item__feature__text">
                                                                                 <span
-                                                                                    class="text--white">Multicurrency:</span>
-                                                                                Support for 15+ most popular
-                                                                                cryptocurrencies.
+                                                                                    class="text--white"> Multi-asset:</span>
+                                                                                support across an integrated ecosystem
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -476,9 +479,7 @@
                                                                             </div>
                                                                             <div
                                                                                 class="front-eco-product-item__feature__text">
-                                                                                <span class="text--white">Private
-                                                                                    transfers:</span> Privacy of crypto
-                                                                                transfers and other activity.
+                                                                                <span class="text--white">Secure and:</span>  verifiable asset interactions
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -491,9 +492,8 @@
                                                                             <div
                                                                                 class="front-eco-product-item__feature__text">
                                                                                 <span
-                                                                                    class="text--white">Security:</span>
-                                                                                Ultimate protection for your assets
-                                                                                according to custodial standards.
+                                                                                    class="text--white">Advanced :</span>
+                                                                               custodial-grade protection infrastructure
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -505,9 +505,7 @@
                                                                             </div>
                                                                             <div
                                                                                 class="front-eco-product-item__feature__text">
-                                                                                <span class="text--white">Built-in
-                                                                                    exchange: </span> 100+ crypto pairs
-                                                                                for instant exchange.
+                                                                                <span class="text--white">Seamless asset : </span>transfer and ecosystem connectivity.
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -519,7 +517,7 @@
                                                                         class="front-eco-product-item__button-wrapper">
                                                                         <a href="sign-up/index.html"
                                                                             class="front-eco-product-item__wallet-button white-btn iconed-btn">
-                                                                            <div class="iconed-btn__text">Get wallet
+                                                                            <div class="iconed-btn__text">Access Ecosystem
                                                                             </div>
                                                                             <div class="iconed-btn__icon"></div>
                                                                         </a>
@@ -528,7 +526,7 @@
                                                                         class="front-eco-product-item__button-wrapper">
                                                                         <a href="crypto-wallet/index.html"
                                                                             class="front-eco-product-item__view-button light-black-btn iconed-btn">
-                                                                            <div class="iconed-btn__text">Read More
+                                                                            <div class="iconed-btn__text">Explore Infrastructure
                                                                             </div>
                                                                             <div class="iconed-btn__icon"></div>
                                                                         </a>
@@ -589,11 +587,11 @@
                                                                                         class="fp-infographic-item__info__content">
                                                                                         <div
                                                                                             class="fp-infographic-item__info__title">
-                                                                                            Security alert
+                                                                                             System Integrity Alert
                                                                                         </div>
                                                                                         <div class="fp-infographic-item__info__value"
                                                                                             style="font-size:12px;">
-                                                                                            Suspicious transaction
+                                                                                           Unverified activity detected
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
@@ -617,7 +615,7 @@
                                                                                         class="fp-infographic-item__info__content">
                                                                                         <div
                                                                                             class="fp-infographic-item__info__title">
-                                                                                            New transaction
+                                                                                              Asset Interaction
                                                                                         </div>
                                                                                         <div
                                                                                             class="fp-infographic-item__new-deposit">
@@ -625,7 +623,7 @@
                                                                                                 class="fp-infographic-item__new-deposit__left">
                                                                                                 <div
                                                                                                     class="fp-infographic-item__new-deposit__amount">
-                                                                                                    +1.45 ETH
+                                                                                                     +1.45 ETH
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div
@@ -634,7 +632,7 @@
                                                                                                     class="fp-infographic-item__new-deposit__status-wrapper">
                                                                                                     <div
                                                                                                         class="fp-infographic-item__new-deposit__status fp-infographic-item__new-deposit__status--success">
-                                                                                                        Completed
+                                                                                                        Verified
                                                                                                     </div>
                                                                                                 </div>
                                                                                             </div>
@@ -730,19 +728,18 @@
                                                     <div class="front-eco-product-item__left">
                                                         <div class="front-eco-product-item__content">
                                                             <div class="front-eco-product-item__type-block">
-                                                                <div class="front-eco-product-item__type">AI Staking
+                                                                <div class="front-eco-product-item__type">AI LAYER
                                                                 </div>
                                                             </div>
                                                             <div class="front-eco-product-item__title-block">
                                                                 <div class="front-eco-product-item__title h1">
-                                                                    AI-Powered Staking
+                                                                  Intelligent Ecosystem Layer   
                                                                 </div>
                                                             </div>
                                                             <div class="front-eco-product-item__descr-block">
                                                                 <div class="front-eco-product-item__descr">
-                                                                    High-yield staking managed by Optima AI trading
-                                                                    agents with instant contract activation, unlimited
-                                                                    potential profit, and capital protection.
+                                                                     An advanced intelligence layer designed to enhance ecosystem performance through real-time data analysis, predictive modeling, and adaptive system optimization. Built on machine learning frameworks, it enables efficient resource utilization, automated processes, and intelligent participation within a decentralized infrastructure.
+
                                                                 </div>
                                                             </div>
                                                             <div class="front-eco-product-item__features-block">
@@ -755,9 +752,7 @@
                                                                             </div>
                                                                             <div
                                                                                 class="front-eco-product-item__feature__text">
-                                                                                <span class="text--white">Unlimited
-                                                                                    profit: </span> Potential profit
-                                                                                with no maximum limit.
+                                                                                <span class="text--white">Real-time : </span>data analysis and predictive insights<
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -769,9 +764,7 @@
                                                                             </div>
                                                                             <div
                                                                                 class="front-eco-product-item__feature__text">
-                                                                                <span class="text--white">Multi-trend
-                                                                                    strategies:</span> Choosing an AI
-                                                                                trading tactic
+                                                                                <span class="text--white">Adaptive system :</span> optimization across ecosystem layers
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -783,10 +776,8 @@
                                                                             </div>
                                                                             <div
                                                                                 class="front-eco-product-item__feature__text">
-                                                                                <span class="text--white">Protection
-                                                                                    against capital loss:</span>
-                                                                                Maintaining yields above low-margin
-                                                                                levels.
+                                                                                <span class="text--white"> MAutomated process :</span>
+                                                                               execution within decentralized infrastructure
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -798,14 +789,14 @@
                                                                             </div>
                                                                             <div
                                                                                 class="front-eco-product-item__feature__text">
-                                                                                <span class="text--white">Rapid
-                                                                                    release:</span> Withdrawing funds
-                                                                                from stake with a short waiting period
+                                                                                <span class="text--white"> Enhanced efficiency:</span>stability, and intelligent interaction
                                                                             </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                             </div>
+
+
                                                             <div class="front-eco-product-item__buttons-block">
                                                                 <div class="front-eco-product-item__buttons">
                                                                     <div
@@ -885,8 +876,7 @@
                                                                                         class="fp-infographic-item__info__content">
                                                                                         <div
                                                                                             class="fp-infographic-item__info__value">
-                                                                                            Algorithmic trading
-                                                                                        </div>
+Activate AI Layer                                                                                        </div>
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
@@ -909,7 +899,7 @@
                                                                                         class="fp-infographic-item__info__content">
                                                                                         <div
                                                                                             class="fp-infographic-item__info__value">
-                                                                                            Medium term trading
+                                                                                          Explore Intelligence
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
@@ -933,7 +923,7 @@
                                                                                         class="fp-infographic-item__info__content">
                                                                                         <div
                                                                                             class="fp-infographic-item__info__value">
-                                                                                            Short term trading
+                                                                                             Intelligent Data Processing
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
@@ -957,7 +947,7 @@
                                                                                         class="fp-infographic-item__info__content">
                                                                                         <div
                                                                                             class="fp-infographic-item__info__value">
-                                                                                            Long term trading
+                                                                                            Adaptive System Optimization
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
@@ -976,18 +966,17 @@
                                                     <div class="front-eco-product-item__left">
                                                         <div class="front-eco-product-item__content">
                                                             <div class="front-eco-product-item__type-block">
-                                                                <div class="front-eco-product-item__type">Loans</div>
+                                                                <div class="front-eco-product-item__type">LIQUIDITY</div>
                                                             </div>
                                                             <div class="front-eco-product-item__title-block">
                                                                 <div class="front-eco-product-item__title h1">
-                                                                    Crypto Loans
+                                                                   Integrated Liquidity Access Layer
                                                                 </div>
                                                             </div>
                                                             <div class="front-eco-product-item__descr-block">
                                                                 <div class="front-eco-product-item__descr">
-                                                                    Urgent crypto-backed loans with 100% approval of the
-                                                                    requested amount, instant funding to your account
-                                                                    balance, and competitive APR and LTV terms.
+                                                                     A decentralized liquidity layer designed to enable seamless access to digital value within the ecosystem. It supports efficient asset utilization, real-time interaction, and flexible participation while maintaining transparency, control, and system integrity across blockchain infrastructure.
+
                                                                 </div>
                                                             </div>
                                                             <div class="front-eco-product-item__features-block">
@@ -1000,9 +989,7 @@
                                                                             </div>
                                                                             <div
                                                                                 class="front-eco-product-item__feature__text">
-                                                                                <span class="text--white">Instant
-                                                                                    transactions: </span> Fully
-                                                                                automated loan issuance process
+                                                                                <span class="text--white">Real-time : </span>asset accessibility within the ecosystem
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -1014,9 +1001,7 @@
                                                                             </div>
                                                                             <div
                                                                                 class="front-eco-product-item__feature__text">
-                                                                                <span class="text--white">Low APR
-                                                                                    rates:</span> Loan servicing fee
-                                                                                from 0.2% per annum
+                                                                                <span class="text--white">Efficient value:</span>Efficient value utilization through integrated infrastructure
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -1028,9 +1013,7 @@
                                                                             </div>
                                                                             <div
                                                                                 class="front-eco-product-item__feature__text">
-                                                                                <span class="text--white">High
-                                                                                    LTV:</span> Loan-to-Value ratio up
-                                                                                to 80%
+                                                                                <span class="text--white">Flexible participation:</span> with controlled asset interaction
 
                                                                             </div>
                                                                         </div>
@@ -1043,9 +1026,7 @@
                                                                             </div>
                                                                             <div
                                                                                 class="front-eco-product-item__feature__text">
-                                                                                <span class="text--white">Control over
-                                                                                    assets:</span> Maintaining control
-                                                                                over collateral
+                                                                                <span class="text--white">Transparent and :</span> verifiable system operations
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -1057,7 +1038,7 @@
                                                                         class="front-eco-product-item__button-wrapper">
                                                                         <a href="sign-up/index.html"
                                                                             class="front-eco-product-item__loan-button white-btn iconed-btn">
-                                                                            <div class="iconed-btn__text">Borrow Now
+                                                                            <div class="iconed-btn__text">Access Liquidity
                                                                             </div>
                                                                             <div class="iconed-btn__icon"></div>
                                                                         </a>
@@ -1075,6 +1056,9 @@
                                                             </div>
                                                         </div>
                                                     </div>
+
+
+
                                                     <div class="front-eco-product-item__right">
 
                                                         <div class="fp-infographic-block">
@@ -1127,11 +1111,11 @@
                                                                                         class="fp-infographic-item__info__content">
                                                                                         <div
                                                                                             class="fp-infographic-item__info__title">
-                                                                                            Annual interest rate
+                                                                                            System Efficiency
                                                                                         </div>
                                                                                         <div
                                                                                             class="fp-infographic-item__info__value">
-                                                                                            0.2%
+                                                                                          Optimized Flow
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
@@ -1145,7 +1129,7 @@
                                                                                         class="fp-infographic-item__top-left">
                                                                                         <div
                                                                                             class="fp-infographic-item__top-title">
-                                                                                            Available credit line
+                                                                                             Liquidity Access
                                                                                         </div>
                                                                                     </div>
                                                                                     <div
@@ -1173,11 +1157,11 @@
                                                                                         class="fp-infographic-item__info__content">
                                                                                         <div
                                                                                             class="fp-infographic-item__info__title">
-                                                                                            Instant
+                                                                                            Real-Time
                                                                                         </div>
                                                                                         <div
                                                                                             class="fp-infographic-item__info__value">
-                                                                                            Unlimited amount
+                                                                                              Adaptive Allocation
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
@@ -1201,11 +1185,11 @@
                                                                                         class="fp-infographic-item__info__content">
                                                                                         <div
                                                                                             class="fp-infographic-item__info__title">
-                                                                                            Collateral
+                                                                                           Asset Layer
                                                                                         </div>
                                                                                         <div
                                                                                             class="fp-infographic-item__info__value">
-                                                                                            1 BTC
+                                                                                          Decentralized Value
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
@@ -1230,19 +1214,17 @@
                                                     <div class="front-eco-product-item__left">
                                                         <div class="front-eco-product-item__content">
                                                             <div class="front-eco-product-item__type-block">
-                                                                <div class="front-eco-product-item__type">Affiliate
-                                                                    program</div>
+                                                                <div class="front-eco-product-item__type">Integrated Liquidity Infrastructure</div>
                                                             </div>
                                                             <div class="front-eco-product-item__title-block">
                                                                 <div class="front-eco-product-item__title h1">
-                                                                    Affiliate program
+                                                                   Integrated Liquidity Infrastructure
                                                                 </div>
                                                             </div>
                                                             <div class="front-eco-product-item__descr-block">
                                                                 <div class="front-eco-product-item__descr">
-                                                                    Exclusive Optima Ambassador program with affiliate
-                                                                    rewards up to 40% of platform fees, a multiline
-                                                                    structure, and cash bonuses up to 1 000 000 USDT.
+                                                                   A decentralized liquidity infrastructure designed to enable seamless access to digital value across the ecosystem. 
+It supports efficient asset utilization, real-time interaction, and adaptive participation while ensuring transparency, control, and system integrity within a scalable blockchain environment.
                                                                 </div>
                                                             </div>
                                                             <div class="front-eco-product-item__features-block">
@@ -1255,9 +1237,7 @@
                                                                             </div>
                                                                             <div
                                                                                 class="front-eco-product-item__feature__text">
-                                                                                <span class="text--white">Instant
-                                                                                    rewards:</span> Automatic affiliate
-                                                                                payouts
+                                                                                <span class="text--white"> Real-times:</span> access to digital assets within the ecosystem  
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -1269,9 +1249,7 @@
                                                                             </div>
                                                                             <div
                                                                                 class="front-eco-product-item__feature__text">
-                                                                                <span class="text--white">Multiline
-                                                                                    structure:</span> Scaling the
-                                                                                affiliate network to 7 lines
+                                                                                <span class="text--white">Optimized:</span> value flow through integrated infrastructure 
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -1283,10 +1261,7 @@
                                                                             </div>
                                                                             <div
                                                                                 class="front-eco-product-item__feature__text">
-                                                                                <span class="text--white">Promotional
-                                                                                    materials:</span> Access to
-                                                                                advertising banners and PDF
-                                                                                presentations
+                                                                                <span class="text--white">Adaptive participation:</span> with controlled asset interaction  
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -1298,9 +1273,7 @@
                                                                             </div>
                                                                             <div
                                                                                 class="front-eco-product-item__feature__text">
-                                                                                <span class="text--white">Campaign
-                                                                                    Customization:</span> Original
-                                                                                invite code and cashback setup
+                                                                                <span class="text--white">Transparent and :</span> verifiable system operations  
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -1312,7 +1285,7 @@
                                                                         class="front-eco-product-item__button-wrapper">
                                                                         <a href="sign-up/index.html"
                                                                             class="front-eco-product-item__affiliate-button white-btn iconed-btn">
-                                                                            <div class="iconed-btn__text">Join Now
+                                                                            <div class="iconed-btn__text">Access Liquidity  
                                                                             </div>
                                                                             <div class="iconed-btn__icon"></div>
                                                                         </a>
@@ -1321,7 +1294,7 @@
                                                                         class="front-eco-product-item__button-wrapper">
                                                                         <a href="affiliate-program/index.html"
                                                                             class="front-eco-product-item__view-button light-black-btn iconed-btn">
-                                                                            <div class="iconed-btn__text">Read More
+                                                                            <div class="iconed-btn__text">Explore Infrastructure
                                                                             </div>
                                                                             <div class="iconed-btn__icon"></div>
                                                                         </a>
@@ -1383,11 +1356,11 @@
                                                                                         class="fp-infographic-item__info__content">
                                                                                         <div
                                                                                             class="fp-infographic-item__info__title">
-                                                                                            Additional reward
+                                                                                           System Efficiency
                                                                                         </div>
                                                                                         <div
                                                                                             class="fp-infographic-item__info__value">
-                                                                                            1000000 USDT
+                                                                                           Optimized Flow
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
@@ -1401,7 +1374,7 @@
                                                                                         class="fp-infographic-item__top-left">
                                                                                         <div
                                                                                             class="fp-infographic-item__top-title">
-                                                                                            New partner
+                                                                                        Liquidity Access  
                                                                                         </div>
                                                                                     </div>
                                                                                     <div
@@ -1410,7 +1383,7 @@
                                                                                             class="fp-infographic-item__top-label-wrapper">
                                                                                             <div
                                                                                                 class="fp-infographic-item__top-label fp-infographic-item__top-label--green">
-                                                                                                Active</div>
+                                                                                              Adaptive Allocation (Real-Time)</div>
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
@@ -1429,11 +1402,11 @@
                                                                                         class="fp-infographic-item__info__content">
                                                                                         <div
                                                                                             class="fp-infographic-item__info__title">
-                                                                                            Instant
+                                                                                            Asset Layer  
                                                                                         </div>
                                                                                         <div
                                                                                             class="fp-infographic-item__info__value">
-                                                                                            Up to 40% by fees
+                                                                                          Decentralized Value
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
@@ -1506,334 +1479,7 @@
 
 
 
-                            <div class="front-section-block">
-                                <div class="front-section-title-block">
-                                    <h2 class="front-section-title">
-                                        Available coins
-                                    </h2>
-                                </div>
-                                <div class="front-section-descr-block">
-                                    <div class="front-section-descr">
-                                        We support the most popular blockchains and regularly work on integrating new
-                                        coins into our infrastructure.
-                                    </div>
-                                </div>
-                                <div class="front-section">
-                                    <div class="front-currency-list-block">
-                                        <div class="front-currency-list">
-
-                                            <div class="front-currency-list-item-wrapper">
-                                                <div class="front-currency-list-item">
-                                                    <div class="currency-item">
-                                                        <div class="currency-icon currency-icon--usdt">
-                                                            <img class="image"
-                                                                src="{{ asset('') }}assets/oora3/images/svg/currency/usdt.svg"
-                                                                alt="">
-                                                        </div>
-                                                        <div class="currency-item__content">
-                                                            <div class="currency-item__title">
-                                                                Tether
-                                                            </div>
-                                                            <div class="currency-item__abbr">
-                                                                USDT
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="front-currency-list-item-wrapper">
-                                                <div class="front-currency-list-item">
-                                                    <div class="currency-item">
-                                                        <div class="currency-icon currency-icon--usdc">
-                                                            <img class="image"
-                                                                src="{{ asset('') }}assets/oora3/images/svg/currency/usdc.svg"
-                                                                alt="">
-                                                        </div>
-                                                        <div class="currency-item__content">
-                                                            <div class="currency-item__title">
-                                                                USDC
-                                                            </div>
-                                                            <div class="currency-item__abbr">
-                                                                USDC
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="front-currency-list-item-wrapper">
-                                                <div class="front-currency-list-item">
-                                                    <div class="currency-item">
-                                                        <div class="currency-icon currency-icon--btc">
-                                                            <img class="image"
-                                                                src="{{ asset('') }}assets/oora3/images/svg/currency/btc.svg"
-                                                                alt="">
-                                                        </div>
-                                                        <div class="currency-item__content">
-                                                            <div class="currency-item__title">
-                                                                Bitcoin
-                                                            </div>
-                                                            <div class="currency-item__abbr">
-                                                                BTC
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="front-currency-list-item-wrapper">
-                                                <div class="front-currency-list-item">
-                                                    <div class="currency-item">
-                                                        <div class="currency-icon currency-icon--eth">
-                                                            <img class="image"
-                                                                src="{{ asset('') }}assets/oora3/images/svg/currency/eth.svg"
-                                                                alt="">
-                                                        </div>
-                                                        <div class="currency-item__content">
-                                                            <div class="currency-item__title">
-                                                                Ethereum
-                                                            </div>
-                                                            <div class="currency-item__abbr">
-                                                                ETH
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="front-currency-list-item-wrapper">
-                                                <div class="front-currency-list-item">
-                                                    <div class="currency-item">
-                                                        <div class="currency-icon currency-icon--bnb">
-                                                            <img class="image"
-                                                                src="{{ asset('') }}assets/oora3/images/svg/currency/bnb.svg"
-                                                                alt="">
-                                                        </div>
-                                                        <div class="currency-item__content">
-                                                            <div class="currency-item__title">
-                                                                BNB
-                                                            </div>
-                                                            <div class="currency-item__abbr">
-                                                                BNB
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="front-currency-list-item-wrapper">
-                                                <div class="front-currency-list-item">
-                                                    <div class="currency-item">
-                                                        <div class="currency-icon currency-icon--sol">
-                                                            <img class="image"
-                                                                src="{{ asset('') }}assets/oora3/images/svg/currency/sol.svg"
-                                                                alt="">
-                                                        </div>
-                                                        <div class="currency-item__content">
-                                                            <div class="currency-item__title">
-                                                                Solana
-                                                            </div>
-                                                            <div class="currency-item__abbr">
-                                                                SOL
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="front-currency-list-item-wrapper">
-                                                <div class="front-currency-list-item">
-                                                    <div class="currency-item">
-                                                        <div class="currency-icon currency-icon--dot">
-                                                            <img class="image"
-                                                                src="{{ asset('') }}assets/oora3/images/svg/currency/dot.svg"
-                                                                alt="">
-                                                        </div>
-                                                        <div class="currency-item__content">
-                                                            <div class="currency-item__title">
-                                                                Polkadot
-                                                            </div>
-                                                            <div class="currency-item__abbr">
-                                                                DOT
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="front-currency-list-item-wrapper">
-                                                <div class="front-currency-list-item">
-                                                    <div class="currency-item">
-                                                        <div class="currency-icon currency-icon--ltc">
-                                                            <img class="image"
-                                                                src="{{ asset('') }}assets/oora3/images/svg/currency/ltc.svg"
-                                                                alt="">
-                                                        </div>
-                                                        <div class="currency-item__content">
-                                                            <div class="currency-item__title">
-                                                                Litecoin
-                                                            </div>
-                                                            <div class="currency-item__abbr">
-                                                                LTC
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="front-currency-list-item-wrapper">
-                                                <div class="front-currency-list-item">
-                                                    <div class="currency-item">
-                                                        <div class="currency-icon currency-icon--doge">
-                                                            <img class="image"
-                                                                src="{{ asset('') }}assets/oora3/images/svg/currency/doge.svg"
-                                                                alt="">
-                                                        </div>
-                                                        <div class="currency-item__content">
-                                                            <div class="currency-item__title">
-                                                                Dogecoin
-                                                            </div>
-                                                            <div class="currency-item__abbr">
-                                                                DOGE
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="front-currency-list-item-wrapper">
-                                                <div class="front-currency-list-item">
-                                                    <div class="currency-item">
-                                                        <div class="currency-icon currency-icon--trx">
-                                                            <img class="image"
-                                                                src="{{ asset('') }}assets/oora3/images/svg/currency/trx.svg"
-                                                                alt="">
-                                                        </div>
-                                                        <div class="currency-item__content">
-                                                            <div class="currency-item__title">
-                                                                TRON
-                                                            </div>
-                                                            <div class="currency-item__abbr">
-                                                                TRX
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="front-currency-list-item-wrapper">
-                                                <div class="front-currency-list-item">
-                                                    <div class="currency-item">
-                                                        <div class="currency-icon currency-icon--xlm">
-                                                            <img class="image"
-                                                                src="{{ asset('') }}assets/oora3/images/svg/currency/xlm.svg"
-                                                                alt="">
-                                                        </div>
-                                                        <div class="currency-item__content">
-                                                            <div class="currency-item__title">
-                                                                Stellar
-                                                            </div>
-                                                            <div class="currency-item__abbr">
-                                                                XLM
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="front-currency-list-item-wrapper">
-                                                <div class="front-currency-list-item">
-                                                    <div class="currency-item">
-                                                        <div class="currency-icon currency-icon--xrp">
-                                                            <img class="image"
-                                                                src="{{ asset('') }}assets/oora3/images/svg/currency/xrp.svg"
-                                                                alt="">
-                                                        </div>
-                                                        <div class="currency-item__content">
-                                                            <div class="currency-item__title">
-                                                                XRP
-                                                            </div>
-                                                            <div class="currency-item__abbr">
-                                                                XRP
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="front-currency-list-item-wrapper">
-                                                <div class="front-currency-list-item">
-                                                    <div class="currency-item">
-                                                        <div class="currency-icon currency-icon--ada">
-                                                            <img class="image"
-                                                                src="{{ asset('') }}assets/oora3/images/svg/currency/ada.svg"
-                                                                alt="">
-                                                        </div>
-                                                        <div class="currency-item__content">
-                                                            <div class="currency-item__title">
-                                                                Cardano
-                                                            </div>
-                                                            <div class="currency-item__abbr">
-                                                                ADA
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="front-currency-list-item-wrapper">
-                                                <div class="front-currency-list-item">
-                                                    <div class="currency-item">
-                                                        <div class="currency-icon currency-icon--bch">
-                                                            <img class="image"
-                                                                src="{{ asset('') }}assets/oora3/images/svg/currency/bch.svg"
-                                                                alt="">
-                                                        </div>
-                                                        <div class="currency-item__content">
-                                                            <div class="currency-item__title">
-                                                                Bitcoin Cash
-                                                            </div>
-                                                            <div class="currency-item__abbr">
-                                                                BCH
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="front-currency-list-item-wrapper">
-                                                <div class="front-currency-list-item">
-                                                    <div class="currency-item">
-                                                        <div class="currency-icon currency-icon--chainlink">
-                                                            <img class="image"
-                                                                src="{{ asset('') }}assets/oora3/images/svg/currency/chainlink.svg"
-                                                                alt="">
-                                                        </div>
-                                                        <div class="currency-item__content">
-                                                            <div class="currency-item__title">
-                                                                Chainlink
-                                                            </div>
-                                                            <div class="currency-item__abbr">
-                                                                LINK
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="front-currency-list-item-wrapper">
-                                                <div class="front-currency-list-item">
-                                                    <div class="currency-item">
-                                                        <div class="currency-icon currency-icon--pol">
-                                                            <img class="image"
-                                                                src="{{ asset('') }}assets/oora3/images/svg/currency/pol.svg"
-                                                                alt="">
-                                                        </div>
-                                                        <div class="currency-item__content">
-                                                            <div class="currency-item__title">
-                                                                Polygon
-                                                            </div>
-                                                            <div class="currency-item__abbr">
-                                                                POL
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-
-
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
+                            
                             <div class="front-section-block">
                                 <div class="front-section-top-block">
                                     <div class="front-section-top">
@@ -2007,14 +1653,13 @@
 
                                 <div class="front-section-title-block">
                                     <h2 class="front-section-title">
-                                        Corporate Partners
+                                       Strategic Ecosystem Partners
                                     </h2>
                                 </div>
                                 <div class="front-section-descr-block">
                                     <div class="front-section-descr">
-                                        Optima Group partners with trusted cryptocurrency exchanges and other
-                                        infrastructure providers with a proven track record of meeting security and
-                                        operational reliability standards.
+                                     Collaborating with global technology providers and infrastructure networks to ensure security, scalability, and operational integrity across the decentralized ecosystem. Our partnerships strengthen reliability, enhance system performance, and support continuous innovation.
+
                                     </div>
                                 </div>
 
@@ -2145,13 +1790,13 @@
                                 <div class="front-cta">
                                     <div class="front-cta__title-block">
                                         <div class="h1 front-cta__title">
-                                            Build Your Crypto Strategy with AI
+                                          Build the Future with OORA3
                                         </div>
                                     </div>
                                     <div class="front-cta__descr-block">
                                         <div class="front-cta__descr">
-                                            Join Optima and get access to a full-stack AI-powered crypto financial
-                                            ecosystem - from private transfers and staking to loans and exchange.
+                                       Join a decentralized digital ecosystem powered by advanced technology, enabling secure interaction, intelligent systems, and scalable infrastructure for global participation.
+
                                         </div>
                                     </div>
                                     <div class="front-cta-features-block">
@@ -2159,21 +1804,21 @@
                                             <div class="front-cta-feature-wrapper">
                                                 <div class="front-cta-feature">
                                                     <div class="front-cta-feature__icon"></div>
-                                                    <div class="front-cta-feature__text">Fintech Products
+                                                    <div class="front-cta-feature__text">Decentralized Infrastructure
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="front-cta-feature-wrapper">
                                                 <div class="front-cta-feature">
                                                     <div class="front-cta-feature__icon"></div>
-                                                    <div class="front-cta-feature__text">Secure Custodian
+                                                    <div class="front-cta-feature__text">Secure Ecosystem
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="front-cta-feature-wrapper">
                                                 <div class="front-cta-feature">
                                                     <div class="front-cta-feature__icon"></div>
-                                                    <div class="front-cta-feature__text">AI Tech
+                                                    <div class="front-cta-feature__text">AI-Powered Technology
                                                     </div>
                                                 </div>
                                             </div>
@@ -2184,7 +1829,7 @@
                                             <div class="front-cta-button-wrapper">
                                                 <a href="sign-up/index.html"
                                                     class="front-cta-button green-gradient-btn iconed-btn">
-                                                    <div class="iconed-btn__text">Create Account</div>
+                                                    <div class="iconed-btn__text">Get Started</div>
                                                     <div class="iconed-btn__icon"></div>
                                                 </a>
                                             </div>
@@ -2192,7 +1837,7 @@
                                                 <button type="button" data-bs-toggle="modal"
                                                     data-bs-target="#modalDownload"
                                                     class="download-button light-black-btn iconed-btn">
-                                                    <div class="iconed-btn__text">Download</div>
+                                                    <div class="iconed-btn__text">Download Overview</div>
                                                     <div class="iconed-btn__icon"></div>
                                                 </button>
                                             </div>
