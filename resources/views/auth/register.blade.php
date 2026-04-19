@@ -1483,17 +1483,6 @@
                                     </div>
 
 
-
-
-
-
-
-
-
-
-
-
-
                                 </div>
                             </div>
                             <div class="optima-benefit-items-block">
