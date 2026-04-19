@@ -37,7 +37,7 @@
                                             <div
                                                 class="front-page-info-feature-item front-page-info-feature-item--home-uptime">
                                                 <div class="front-page-info-feature-item__icon"></div>
-                                                <div class="front-page-info-feature-item__text">Fintech Products
+                                                <div class="front-page-info-feature-item__text">Decentralized 
                                                 </div>
                                             </div>
                                         </div>
@@ -45,14 +45,14 @@
                                             <div
                                                 class="front-page-info-feature-item front-page-info-feature-item--home-audited">
                                                 <div class="front-page-info-feature-item__icon"></div>
-                                                <div class="front-page-info-feature-item__text">Secure Custodian</div>
+                                                <div class="front-page-info-feature-item__text">Security</div>
                                             </div>
                                         </div>
                                         <div class="front-page-info-feature-item-wrapper">
                                             <div
                                                 class="front-page-info-feature-item front-page-info-feature-item--home-ai-active">
                                                 <div class="front-page-info-feature-item__icon"></div>
-                                                <div class="front-page-info-feature-item__text">AI Tech</div>
+                                                <div class="front-page-info-feature-item__text">AI automation</div>
                                             </div>
                                         </div>
                                     </div>
