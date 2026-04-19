@@ -100,8 +100,9 @@ management from submission to resolution.
                                                                   Partnerships & Collaboration
                                                                 </div>
                                                                 <div class="contact-department-radio__descr">
-                                                                    Explore blockchain integrations, strategic partnerships,
-    and global collaboration opportunities within the OORA3 ecosystem.
+                                                                    Collaborations, cross-marketing and
+                                                                    institutional cooperation.
+                                                                </div>
                                                                 <div class="contact-department-radio__mail-block">
                                                                     <div class="contact-department-radio__mail">
                                                                         <a href="https://optima.cc/cdn-cgi/l/email-protection"
@@ -127,11 +128,11 @@ management from submission to resolution.
                                                                     </div>
                                                                 </div>
                                                                 <div class="contact-department-radio__title">
-                                                                 OORA3 Earning Program
+                                                                    Affiliate & Bounty
                                                                 </div>
                                                                 <div class="contact-department-radio__descr">
-                                                                   Participate in our multi-level reward system, earn commissions,
-    referral bonuses, and maximize your income through network expansion.
+                                                                    Affiliate program, promotions, commissions
+                                                                    and bounty tasks.
                                                                 </div>
                                                                 <div class="contact-department-radio__mail-block">
                                                                     <div class="contact-department-radio__mail">
