@@ -72,13 +72,7 @@ management from submission to resolution.
                                                                        Get assistance with your wallet, staking, transactions, and OORA3 ecosystem services.
 
                                                                 </div>
-                                                                <div class="contact-department-radio__mail-block">
-                                                                    <div class="contact-department-radio__mail">
-                                                                        <a href="https://optima.cc/cdn-cgi/l/email-protection"
-                                                                            class="__cf_email__"
-                                                                            data-cfemail="fb939e978bbb948b8f92969ad59898">[email&#160;protected]</a>
-                                                                    </div>
-                                                                </div>
+                                                               
                                                             </div>
                                                         </div>
                                                     </div>
@@ -103,13 +97,7 @@ management from submission to resolution.
                                                                     Build powerful collaborations with OORA3 through blockchain integration,
     institutional partnerships, and global ecosystem expansion initiatives.
                                                                 </div>
-                                                                <div class="contact-department-radio__mail-block">
-                                                                    <div class="contact-department-radio__mail">
-                                                                        <a href="https://optima.cc/cdn-cgi/l/email-protection"
-                                                                            class="__cf_email__"
-                                                                            data-cfemail="d2b0a7a1bbbcb7a1a192bda2a6bbbfb3fcb1b1">[email&#160;protected]</a>
-                                                                    </div>
-                                                                </div>
+                                                               
                                                             </div>
                                                         </div>
                                                     </div>
@@ -134,13 +122,7 @@ management from submission to resolution.
                                                                     Earn through referrals, commissions, staking rewards,
     and network growth within the OORA3 ecosystem.
                                                                 </div>
-                                                                <div class="contact-department-radio__mail-block">
-                                                                    <div class="contact-department-radio__mail">
-                                                                        <a href="https://optima.cc/cdn-cgi/l/email-protection"
-                                                                            class="__cf_email__"
-                                                                            data-cfemail="30515656595c59514455705f4044595d511e5353">[email&#160;protected]</a>
-                                                                    </div>
-                                                                </div>
+                                                               
                                                             </div>
                                                         </div>
                                                     </div>
@@ -165,13 +147,7 @@ management from submission to resolution.
                                                                      Participate in our multi-level reward system, earn commissions,
     referral bonuses, and maximize your income through network expansion.
                                                                 </div>
-                                                                <div class="contact-department-radio__mail-block">
-                                                                    <div class="contact-department-radio__mail">
-                                                                        <a href="https://optima.cc/cdn-cgi/l/email-protection"
-                                                                            class="__cf_email__"
-                                                                            data-cfemail="147871737578547b64607d79753a7777">[email&#160;protected]</a>
-                                                                    </div>
-                                                                </div>
+                                                               
                                                             </div>
                                                         </div>
                                                     </div>
