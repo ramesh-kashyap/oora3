@@ -93,7 +93,8 @@
                                         <a href="{{route('ai-staking')}}"
                                             class="mobile-topmenu-link mobile-topmenu-link--ai-staking">
                                             <div class="mobile-topmenu-link__icon"></div>
-                                            <div class="mobile-topmenu-link__text">AI Layer</div>
+                                            <div class="mobile-topmenu-link__text">AI Staking
+</div>
                                         </a>
                                     </li>
                                     <li class="mobile-topmenu-item">
@@ -103,23 +104,23 @@
                                             <div class="mobile-topmenu-link__text">About us</div>
                                         </a>
                                     </li>
-                                    <li class="mobile-topmenu-item">
+                                    <!-- <li class="mobile-topmenu-item">
                                         <a href="{{route('affiliate')}}"
                                             class="mobile-topmenu-link mobile-topmenu-link--affiliate-program">
                                             <div class="mobile-topmenu-link__icon"></div>
                                             <div class="mobile-topmenu-link__text">Affiliate program</div>
                                         </a>
-                                    </li>
+                                    </li> -->
                                     <li class="mobile-topmenu-item mobile-topmenu-item--has-menu">
                                         <a href="javascript:void(0)" class="mobile-topmenu-link">
                                             <div class="mobile-topmenu-link__text">More</div>
                                         </a>
                                         <div class="mobile-submenu">
                                           
-                                            <div class="mobile-submenu-item">
+                                            <!-- <div class="mobile-submenu-item">
                                                 <a href="{{route('help-center')}}" class="mobile-submenu-link">Help
                                                     center</a>
-                                            </div>
+                                            </div> -->
                                            
                                             <div class="mobile-submenu-item">
                                                 <a href="{{route('roadmap')}}" class="mobile-submenu-link">Roadmap</a>
@@ -205,16 +206,15 @@
                                                 <li class="topmenu-item">
                                                     <a href="{{route('affiliate')}}"
                                                         class="topmenu-link topmenu-link--affiliate-program">
-                                                        <div class="topmenu-link__icon"></div>
-                                                        <div class="topmenu-link__text">Affiliate program</div>
+                                                        
                                                     </a>
                                                 </li>
                                               
-                                                <li class="topmenu-item">
+                                                <!-- <li class="topmenu-item">
                                                     <a href="{{route('help-center')}}" class="topmenu-link">
                                                         <div class="topmenu-link__text">Help center</div>
                                                     </a>
-                                                </li>
+                                                </li> -->
                                         
                                                 <li class="topmenu-item">
                                                     <a href="{{route('roadmap')}}" class="topmenu-link">
