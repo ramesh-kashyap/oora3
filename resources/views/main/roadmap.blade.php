@@ -427,7 +427,7 @@
                                             </div>
 
                                             <!-- BUTTON 2 -->
-                                            <div class="front-cta-button-wrapper d-none optimaHideTabletAndMobile">
+                                            <div class="front-cta-button-wrapper d-none OORA3HideTabletAndMobile">
                                                 <button type="button"
                                                     class="download-button light-black-btn iconed-btn">
                                                     <div class="iconed-btn__text">Explore Ecosystem</div>
@@ -436,7 +436,7 @@
                                             </div>
 
                                             <!-- BUTTON 3 -->
-                                            <div class="front-cta-button-wrapper d-none optimaShowTabletAndMobile">
+                                            <div class="front-cta-button-wrapper d-none OORA3ShowTabletAndMobile">
                                                 <a href="https://t.me/" target="_blank"
                                                    class="telegram-app-button iconed-btn">
                                                     <div class="iconed-btn__icon"></div>

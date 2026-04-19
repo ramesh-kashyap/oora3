@@ -10,7 +10,9 @@
                                     <a href="index.html" class="logo">
                                         <div class="logo-img">
                                             <img class="image"
-                                                src="{{ asset('') }}assets/oora3/images/svg/logo.svg">
+                                                src="{{ asset('') }}assets/oora3/images/svg/logo.png" style="
+    width: 115px;
+">
                                         </div>
                                     </a>
                                 </div>
@@ -20,7 +22,7 @@
                                 <div class="footer-social-block">
                                     <div class="footer-social">
                                         <div class="footer-social-item">
-                                            <a href="https://x.com/optima_updates" target="_blank"
+                                            <a href="https://x.com/OORA3_updates" target="_blank"
                                                 class="footer-social-link footer-social-link--x">
                                                 <img class="image"
                                                     src="{{ asset('') }}assets/oora3/images/svg/social/social-link-icon--x.svg"
@@ -28,7 +30,7 @@
                                             </a>
                                         </div>
                                         <div class="footer-social-item">
-                                            <a href="https://t.me/optima_updates" target="_blank"
+                                            <a href="https://t.me/OORA3_updates" target="_blank"
                                                 class="footer-social-link footer-social-link--telegram">
                                                 <img class="image"
                                                     src="{{ asset('') }}assets/oora3/images/svg/social/social-link-icon--telegram.svg"
@@ -36,7 +38,7 @@
                                             </a>
                                         </div>
                                         <div class="footer-social-item">
-                                            <a href="https://www.youtube.com/@optima_updates" target="_blank"
+                                            <a href="https://www.youtube.com/@OORA3_updates" target="_blank"
                                                 class="footer-social-link footer-social-link--youtube">
                                                 <img class="image"
                                                     src="{{ asset('') }}assets/oora3/images/svg/social/social-link-icon--youtube.svg"
@@ -141,7 +143,7 @@
                                 <div class="footer-contact-items-block">
                                     <div class="footer-contact-items">
                                         <div class="footer-contact-item-wrapper">
-                                            <a href="https://optima.cc/cdn-cgi/l/email-protection#026a676e72426d72766b6f632c6161"
+                                            <a href="https://OORA3.cc/cdn-cgi/l/email-protection#026a676e72426d72766b6f632c6161"
                                                 class="footer-contact-item footer-contact-item--mail">
                                                 <div class="footer-contact-item__icon"></div>
                                                 <div class="footer-contact-item__text"><span class="__cf_email__"
@@ -150,10 +152,10 @@
                                             </a>
                                         </div>
                                         <div class="footer-contact-item-wrapper">
-                                            <a href="https://t.me/optima_help_center" target="_blank"
+                                            <a href="https://t.me/OORA3_help_center" target="_blank"
                                                 class="footer-contact-item footer-contact-item--telegram">
                                                 <div class="footer-contact-item__icon"></div>
-                                                <div class="footer-contact-item__text">@optima_help_center</div>
+                                                <div class="footer-contact-item__text">@OORA3_help_center</div>
                                             </a>
                                         </div>
                                         <div class="footer-contact-item-wrapper">
@@ -16612,122 +16614,122 @@
             "levels": {
                 "1": {
                     "name": {
-                        "default": "Optima 2"
+                        "default": "OORA3 2"
                     },
                     "stat_partner_usd": 50,
-                    "title": "Optima 2"
+                    "title": "OORA3 2"
                 },
                 "2": {
                     "name": {
-                        "default": "Optima 3"
+                        "default": "OORA3 3"
                     },
                     "stat_partner_usd": 100,
-                    "title": "Optima 3"
+                    "title": "OORA3 3"
                 },
                 "3": {
                     "name": {
-                        "default": "Optima 4"
+                        "default": "OORA3 4"
                     },
                     "stat_partner_usd": 250,
-                    "title": "Optima 4"
+                    "title": "OORA3 4"
                 },
                 "4": {
                     "name": {
-                        "default": "Optima 5"
+                        "default": "OORA3 5"
                     },
                     "stat_partner_usd": 500,
-                    "title": "Optima 5"
+                    "title": "OORA3 5"
                 },
                 "5": {
                     "name": {
-                        "default": "Optima 6"
+                        "default": "OORA3 6"
                     },
                     "stat_partner_usd": 1000,
-                    "title": "Optima 6"
+                    "title": "OORA3 6"
                 },
                 "6": {
                     "name": {
-                        "default": "Optima 7"
+                        "default": "OORA3 7"
                     },
                     "stat_partner_usd": 2500,
-                    "title": "Optima 7"
+                    "title": "OORA3 7"
                 },
                 "7": {
                     "name": {
-                        "default": "Optima 8"
+                        "default": "OORA3 8"
                     },
                     "stat_partner_usd": 5000,
-                    "title": "Optima 8"
+                    "title": "OORA3 8"
                 },
                 "8": {
                     "name": {
-                        "default": "Optima 9"
+                        "default": "OORA3 9"
                     },
                     "stat_partner_usd": 10000,
-                    "title": "Optima 9"
+                    "title": "OORA3 9"
                 },
                 "9": {
                     "name": {
-                        "default": "Optima 10"
+                        "default": "OORA3 10"
                     },
                     "stat_partner_usd": 25000,
-                    "title": "Optima 10"
+                    "title": "OORA3 10"
                 },
                 "10": {
                     "name": {
-                        "default": "Optima 11"
+                        "default": "OORA3 11"
                     },
                     "stat_partner_usd": 50000,
-                    "title": "Optima 11"
+                    "title": "OORA3 11"
                 },
                 "11": {
                     "name": {
-                        "default": "Optima 12"
+                        "default": "OORA3 12"
                     },
                     "stat_partner_usd": 100000,
-                    "title": "Optima 12"
+                    "title": "OORA3 12"
                 },
                 "12": {
                     "name": {
-                        "default": "Optima 13"
+                        "default": "OORA3 13"
                     },
                     "stat_partner_usd": 250000,
-                    "title": "Optima 13"
+                    "title": "OORA3 13"
                 },
                 "13": {
                     "name": {
-                        "default": "Optima 14"
+                        "default": "OORA3 14"
                     },
                     "stat_partner_usd": 500000,
-                    "title": "Optima 14"
+                    "title": "OORA3 14"
                 },
                 "14": {
                     "name": {
-                        "default": "Optima 15"
+                        "default": "OORA3 15"
                     },
                     "stat_partner_usd": 1000000,
-                    "title": "Optima 15"
+                    "title": "OORA3 15"
                 },
                 "15": {
                     "name": {
-                        "default": "Optima 16"
+                        "default": "OORA3 16"
                     },
                     "stat_partner_usd": 2500000,
-                    "title": "Optima 16"
+                    "title": "OORA3 16"
                 },
                 "16": {
                     "name": {
-                        "default": "Optima 17"
+                        "default": "OORA3 17"
                     },
                     "stat_partner_usd": 5000000,
-                    "title": "Optima 17"
+                    "title": "OORA3 17"
                 },
                 "17": {
                     "name": {
-                        "default": "Optima 18"
+                        "default": "OORA3 18"
                     },
                     "stat_partner_usd": 10000000,
-                    "title": "Optima 18"
+                    "title": "OORA3 18"
                 }
             }
         },
@@ -17022,7 +17024,7 @@
             "flexible": null
         }
     };
-    globalFolder = 'optima';
+    globalFolder = 'OORA3';
 
     $(document).ready(function() {
         if ($('#pay_form').length) {
@@ -17386,7 +17388,7 @@
             $('#modalLoanCol').modal('hide');
         }
         if (ans.pay_loan) {
-            $('#optimaLoanRepay').modal('hide');
+            $('#OORA3LoanRepay').modal('hide');
         }
         if (ans.task_sended) {
             $('#modalTask').modal('hide');
@@ -17398,8 +17400,8 @@
 
     function setActivePartnerLevel(userActivePartnerLevel) {
         userActivePartnerLevel = parseInt(userActivePartnerLevel);
-        $('.globalAccountPartnersActiveLevelTitle').html('Optima ' + (userActivePartnerLevel + 1));
-        $('.globalAccountPartnersNextLevelTitle').html('Optima ' + (userActivePartnerLevel + 2));
+        $('.globalAccountPartnersActiveLevelTitle').html('OORA3 ' + (userActivePartnerLevel + 1));
+        $('.globalAccountPartnersNextLevelTitle').html('OORA3 ' + (userActivePartnerLevel + 2));
         lines = globalAffiliate.by_plan[userActivePartnerLevel];
         nextLines = globalAffiliate.by_plan[userActivePartnerLevel + 1];
         bonuses = globalAffiliate['career_bonuses']['bonuses'];
@@ -18533,8 +18535,8 @@
             item.find('.db-task-item-heading-icon img').attr('src', mask);
             item.find('.db-task-item-heading-title').html(value.title);
             valueDesc = value.description;
-            item.find('.db-task-item__descr').html(valueDesc.replace('@optima_updates',
-                '<a href="https://t.me/optima_updates" target="_blank">@optima_updates</a>'));
+            item.find('.db-task-item__descr').html(valueDesc.replace('@OORA3_updates',
+                '<a href="https://t.me/OORA3_updates" target="_blank">@OORA3_updates</a>'));
             reqHtml = '';
             $.each(value.reqs, function(index2, value2) {
                 reqHtml +=
@@ -18595,7 +18597,7 @@
                 mask = item.find('.globalAccountTasksItemsItemAffiliateLevel').find('.text--white').data(
                 'text');
                 partnerLevel = parseInt(value.partner_level) + 1;
-                item.find('.globalAccountTasksItemsItemAffiliateLevel').find('.text--white').html('Optima ' +
+                item.find('.globalAccountTasksItemsItemAffiliateLevel').find('.text--white').html('OORA3 ' +
                     partnerLevel + ' ' + mask);
                 item.find('.globalAccountTasksItemsItemAffiliateLevel').removeClass('d-none');
             }
@@ -18604,8 +18606,8 @@
             item.find('.globalAccountTasksItemsItemSendNotAuth').addClass('d-none');
             item.find('.globalAccountTasksItemsItemNotAvailable').addClass('d-none');
             item.find('.globalAccountTasksItemsItemNeedTime').addClass('d-none');
-            item.find('.optimaTimer').data('value', 0);
-            item.find('.optimaTimer').data('active', '');
+            item.find('.OORA3Timer').data('value', 0);
+            item.find('.OORA3Timer').data('active', '');
             mask = item.find('.globalAccountTasksItemsItemSend').find('iconed-btn__text').data('text');
             item.find('.globalAccountTasksItemsItemSend').find('iconed-btn__text').html(mask);
             button = item.find('.globalAccountTasksItemsItemSend button');
@@ -18616,8 +18618,8 @@
             if (value['status'] == 'not_available') {
                 item.find('.globalAccountTasksItemsItemNotAvailable').removeClass('d-none');
             } else if (value.status == 'need_time') {
-                item.find('.optimaTimer').data('value', value.seconds_left);
-                item.find('.optimaTimer').data('active', 1);
+                item.find('.OORA3Timer').data('value', value.seconds_left);
+                item.find('.OORA3Timer').data('active', 1);
                 item.find('.globalAccountTasksItemsItemNeedTime').removeClass('d-none');
             } else if (value.status == 'waiting') {
                 item.find('.globalAccountTasksItemsItemWaiting').find('input[name=id]').val(value.id);
@@ -18640,7 +18642,7 @@
         } else {
             uidOrContract = value.contract_or_uid;
             if (uidOrContract == 0) {
-                uidOrContract = 'Optima';
+                uidOrContract = 'OORA3';
             }
             item.find('.ai-activity-t-i-user').html(uidOrContract);
         }
@@ -18751,28 +18753,28 @@
 
         item.find('.globalAccountLoansNotEmptyItemsItemStarted').html(value.date_create_text);
         item.find('.globalAccountLoansNotEmptyItemsItemEnded').closest('.loan-item-param-wrapper').addClass('d-none');
-        item.find('.optimaLoanRAC').addClass('d-none');
+        item.find('.OORA3LoanRAC').addClass('d-none');
 
         if (value.date_end > 0) {
             item.find('.globalAccountLoansNotEmptyItemsItemEnded').closest('.loan-item-param-wrapper').removeClass(
                 'd-none');
             item.find('.globalAccountLoansNotEmptyItemsItemEnded').html(value.date_end_text);
         } else {
-            item.find('.optimaLoanAddColButton').data('currency', value.currency);
-            item.find('.optimaLoanAddColButton').data('currency-col', value.currency_col);
-            item.find('.optimaLoanAddColButton').data('amount-for-payment', value.amount_for_payment);
-            item.find('.optimaLoanAddColButton').data('amount-col', value.amount_col);
-            item.find('.optimaLoanAddColButton').data('ltv', value.ltv);
-            item.find('.optimaLoanAddColButton').data('id', value.id);
+            item.find('.OORA3LoanAddColButton').data('currency', value.currency);
+            item.find('.OORA3LoanAddColButton').data('currency-col', value.currency_col);
+            item.find('.OORA3LoanAddColButton').data('amount-for-payment', value.amount_for_payment);
+            item.find('.OORA3LoanAddColButton').data('amount-col', value.amount_col);
+            item.find('.OORA3LoanAddColButton').data('ltv', value.ltv);
+            item.find('.OORA3LoanAddColButton').data('id', value.id);
 
-            item.find('.optimaLoanRepayButton').data('currency', value.currency);
-            item.find('.optimaLoanRepayButton').data('currency-col', value.currency_col);
-            item.find('.optimaLoanRepayButton').data('amount-for-payment', value.amount_for_payment);
-            item.find('.optimaLoanRepayButton').data('amount-col', value.amount_col);
-            item.find('.optimaLoanRepayButton').data('amount', value.amount);
-            item.find('.optimaLoanRepayButton').data('id', value.id);
+            item.find('.OORA3LoanRepayButton').data('currency', value.currency);
+            item.find('.OORA3LoanRepayButton').data('currency-col', value.currency_col);
+            item.find('.OORA3LoanRepayButton').data('amount-for-payment', value.amount_for_payment);
+            item.find('.OORA3LoanRepayButton').data('amount-col', value.amount_col);
+            item.find('.OORA3LoanRepayButton').data('amount', value.amount);
+            item.find('.OORA3LoanRepayButton').data('id', value.id);
 
-            item.find('.optimaLoanRAC').removeClass('d-none');
+            item.find('.OORA3LoanRAC').removeClass('d-none');
         }
 
     }
@@ -19048,8 +19050,8 @@
         item.find('.globalAccountStakingNotEmptyItemsItemRelease .ai-staking-item-param__in-release-amount').addClass(
             'd-none');
 
-        item.find('.optimaTimer').data('value', 0);
-        item.find('.optimaTimer').data('active', '');
+        item.find('.OORA3Timer').data('value', 0);
+        item.find('.OORA3Timer').data('active', '');
 
 
         showButtons = false;
@@ -19071,8 +19073,8 @@
                 item.find('.globalAccountStakingNotEmptyItemsItemRelease').removeClass('d-none');
                 holdSeconds = parseInt(planInfo['return_any_time_array'][0]['hold_seconds']);
                 timerValue = parseInt(value.date_hold) + holdSeconds - parseInt(value.timestamp);
-                item.find('.optimaTimer').data('value', timerValue);
-                item.find('.optimaTimer').data('active', '1');
+                item.find('.OORA3Timer').data('value', timerValue);
+                item.find('.OORA3Timer').data('active', '1');
             } else {
                 item.find('.globalAccountStakingNotEmptyItemsItemRelease .ai-staking-item-param').addClass(
                     'ai-staking-item-param--release');
@@ -19088,8 +19090,8 @@
                             dateStart = parseInt(value.date_create);
                         }
                         timerValue = dateStart + minSeconds - parseInt(value.timestamp);
-                        item.find('.optimaTimer').data('value', timerValue);
-                        item.find('.optimaTimer').data('active', '1');
+                        item.find('.OORA3Timer').data('value', timerValue);
+                        item.find('.OORA3Timer').data('active', '1');
                         item.find('.globalAccountStakingNotEmptyItemsItemRelease').removeClass('d-none');
                     }
                 } else {
@@ -19131,23 +19133,23 @@
 
         item.find('input[name=id]').val(value.id);
 
-        item.find('.optimaStakingAddButton').data('id', value.id);
-        item.find('.optimaStakingAddButton').data('currency', value.currency);
-        item.find('.optimaStakingAddButton').data('plan', value.plan);
-        item.find('.optimaStakingAddButton').data('amount', value.amount);
-        item.find('.optimaStakingAddButton').data('percents', JSON.stringify(value.percents));
-        item.find('.optimaStakingAddButton').data('percent-id', value.percent_id);
+        item.find('.OORA3StakingAddButton').data('id', value.id);
+        item.find('.OORA3StakingAddButton').data('currency', value.currency);
+        item.find('.OORA3StakingAddButton').data('plan', value.plan);
+        item.find('.OORA3StakingAddButton').data('amount', value.amount);
+        item.find('.OORA3StakingAddButton').data('percents', JSON.stringify(value.percents));
+        item.find('.OORA3StakingAddButton').data('percent-id', value.percent_id);
 
-        item.find('.optimaStakingReleaseButton').data('id', value.id);
-        item.find('.optimaStakingReleaseButton').data('currency', value.currency);
-        item.find('.optimaStakingReleaseButton').data('plan', value.plan);
-        item.find('.optimaStakingReleaseButton').data('amount', value.amount);
-        item.find('.optimaStakingReleaseButton').data('percents', JSON.stringify(value.percents));
-        item.find('.optimaStakingReleaseButton').data('percent-id', value.percent_id);
+        item.find('.OORA3StakingReleaseButton').data('id', value.id);
+        item.find('.OORA3StakingReleaseButton').data('currency', value.currency);
+        item.find('.OORA3StakingReleaseButton').data('plan', value.plan);
+        item.find('.OORA3StakingReleaseButton').data('amount', value.amount);
+        item.find('.OORA3StakingReleaseButton').data('percents', JSON.stringify(value.percents));
+        item.find('.OORA3StakingReleaseButton').data('percent-id', value.percent_id);
     }
 
     function dynamicTimer() {
-        $('.optimaTimer').each(function() {
+        $('.OORA3Timer').each(function() {
             el = $(this);
             if (el.data('active') == '1') {
                 value = el.data('value');
@@ -19178,7 +19180,7 @@
     }
 
     function dynamicAmount() {
-        $('.optimaDynamicAmount').each(function() {
+        $('.OORA3DynamicAmount').each(function() {
             el = $(this);
             if (el.data('active') == '1') {
                 value = el.data('value');
@@ -20537,7 +20539,7 @@
         form.find('[data-module=user-balance]').addClass('d-none');
         form.find('[data-module=user-balance][data-currency=' + currency + ']').removeClass('d-none');
 
-        form.find('.optimaDepositButton').data('currency', currency);
+        form.find('.OORA3DepositButton').data('currency', currency);
         $.each(globalPlans[plan]['percents_array'], function(index, value) {
             label = form.find('input[name=percent_id][value=' + index + ']').closest('label');
             label.find('.form-commission-radio__amount').html(value['min_max']['min_' + currency + '_text'] +
@@ -20954,7 +20956,7 @@
         currencyInfo = globalCurrencies[currency];
         currencyCol = form.find('select[name=currency_col]').selectpicker('val');
         currencyColInfo = globalCurrencies[currencyCol];
-        form.find('.optimaDepositButton').data('currency', currencyCol);
+        form.find('.OORA3DepositButton').data('currency', currencyCol);
         amountColUsd = getUsdAmount(currencyCol, amountCol, 12);
         loanRate = globalLoanRates[currency][type];
         loanAPR = BigNumber(loanRate).multipliedBy('100').toFixed(2);
@@ -21780,7 +21782,7 @@
             }
         })
 
-        $('.optimaDepositButton').on('click', function() {
+        $('.OORA3DepositButton').on('click', function() {
             modal = $('#modalDeposit');
             resetDepositModal(modal);
             form = modal.find('form');
@@ -21833,7 +21835,7 @@
             modal.modal('show');
         })
 
-        $('.optimaStakingAddButton').on('click', function() {
+        $('.OORA3StakingAddButton').on('click', function() {
             modal = $('#modalStakingAdd');
             beforeSubmitForm(modal.find('form'), true);
             form = modal.find('form');
@@ -21848,7 +21850,7 @@
             modal.find('.currency-icon img').attr('src', currencyIconSrc.replace('[icon]', currencyInfo[
                 'config']['data']['icon']));
             modal.find('input[name=id]').val($(this).data('id'));
-            modal.find('.optimaDepositButton').data('currency', currentCurrency);
+            modal.find('.OORA3DepositButton').data('currency', currentCurrency);
             initStakingAddForm(form, $(this).data('currency'));
             form.find('input[name=percent_id]').prop('checked', false);
             form.find('.modalStakingAddFormFeesItemsItem').addClass('d-none');
@@ -21903,8 +21905,8 @@
         })
 
 
-        $('.optimaLoanRepayButton').on('click', function() {
-            modal = $('#optimaLoanRepay');
+        $('.OORA3LoanRepayButton').on('click', function() {
+            modal = $('#OORA3LoanRepay');
             beforeSubmitForm(modal.find('form'), true);
             form = modal.find('form');
             currentCurrencyCol = $(this).data('currency-col');
@@ -21920,20 +21922,20 @@
             modal.find('.currency-icon img').attr('src', currencyIconSrc.replace('[icon]', currencyInfo[
                 'config']['data']['icon']));
             modal.find('input[name=id]').val($(this).data('id'));
-            modal.find('.optimaLoanRepayAmount').html(convert(parseFloat(BigNumber($(this).data(
+            modal.find('.OORA3LoanRepayAmount').html(convert(parseFloat(BigNumber($(this).data(
                     'amount')).toFixed(currencyInfo['round']))) + ' ' + currencyInfo['currency']
                 .toUpperCase());
-            modal.find('.optimaLoanRepayPayAmount').html(convert(parseFloat(BigNumber($(this).data(
+            modal.find('.OORA3LoanRepayPayAmount').html(convert(parseFloat(BigNumber($(this).data(
                 'amount-for-payment')).toFixed(currencyInfo['round']))) + ' ' + currencyInfo[
                 'currency'].toUpperCase());
-            modal.find('.optimaLoanRepayAmountCol').html(convert(parseFloat(BigNumber($(this).data(
+            modal.find('.OORA3LoanRepayAmountCol').html(convert(parseFloat(BigNumber($(this).data(
                 'amount-col')).toFixed(currencyColInfo['round']))) + ' ' + currencyColInfo[
                 'currency'].toUpperCase());
             modal.modal('show');
         })
 
 
-        $('.optimaLoanAddColButton').on('click', function() {
+        $('.OORA3LoanAddColButton').on('click', function() {
             modal = $('#modalLoanCol');
             beforeSubmitForm(modal.find('form'), true);
             form = modal.find('form');
@@ -21950,7 +21952,7 @@
             modal.find('.currency-icon img').attr('src', currencyIconSrc.replace('[icon]',
                 currencyColInfo['config']['data']['icon']));
             modal.find('input[name=id]').val($(this).data('id'));
-            modal.find('.optimaDepositButton').data('currency', currentCurrencyCol);
+            modal.find('.OORA3DepositButton').data('currency', currentCurrencyCol);
 
             form.find('input[name=amount]').val('');
             form.find('.inputAmountCurrency').html(currencyColInfo['currency'].toUpperCase());
@@ -21970,7 +21972,7 @@
             modal.modal('show');
         })
 
-        $('.optimaStakingReleaseButton').on('click', function() {
+        $('.OORA3StakingReleaseButton').on('click', function() {
             modal = $('#modalStakingRelease');
             beforeSubmitForm(modal.find('form'), true);
             form = modal.find('form');
@@ -21985,7 +21987,7 @@
             modal.find('.currency-icon img').attr('src', currencyIconSrc.replace('[icon]', currencyInfo[
                 'config']['data']['icon']));
             modal.find('input[name=id]').val($(this).data('id'));
-            modal.find('.optimaDepositButton').data('currency', currentCurrency);
+            modal.find('.OORA3DepositButton').data('currency', currentCurrency);
 
             initStakingReleaseForm(form, $(this).data('currency'));
             form.find('input[name=percent_id]').prop('checked', false);
@@ -22099,10 +22101,10 @@
             return false;
         };
 
-        $('.optimaTelegramAuth').on('click', function() {
+        $('.OORA3TelegramAuth').on('click', function() {
             window.Telegram.Login.auth({
                 "bot_id": 8603243499,
-                "origin": "https://optima.cc",
+                "origin": "https://OORA3.cc",
                 "request_access": true
             }, function(tgData) {
                 if (tgData.hash) {
@@ -22125,20 +22127,20 @@
 
         md = new MobileDetect(window.navigator.userAgent);
         if (md.tablet() || md.mobile() || md.tablet()) {
-            $('.optimaShowTabletAndMobile').removeClass('d-none');
-            $('.optimaHideTabletAndMobile').addClass('d-none');
+            $('.OORA3ShowTabletAndMobile').removeClass('d-none');
+            $('.OORA3HideTabletAndMobile').addClass('d-none');
         } else {
-            $('.optimaShowTabletAndMobile').addClass('d-none');
-            $('.optimaHideTabletAndMobile').removeClass('d-none');
+            $('.OORA3ShowTabletAndMobile').addClass('d-none');
+            $('.OORA3HideTabletAndMobile').removeClass('d-none');
         }
 
-        if ($('.optimaPrice24Change').length) {
+        if ($('.OORA3Price24Change').length) {
             $.ajax({
                 url: "https://api.binance.com/api/v3/ticker/24hr",
                 success: function(responseAns) {
                     if (!responseAns.msg) {
                         $.each(responseAns, function(index, value) {
-                            el = $('.optimaPrice24Change .front-page-info-top-currency-change-item[data-pair="' +
+                            el = $('.OORA3Price24Change .front-page-info-top-currency-change-item[data-pair="' +
                                 value.symbol + '"]');
                             if (el.length) {
                                 el.html(el.data('currency') + ' $' + convert(parseFloat(

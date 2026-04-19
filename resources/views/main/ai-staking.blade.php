@@ -67,7 +67,7 @@
                                             </a>
                                         </div>
                                         <div
-                                            class="front-page-info-top-button-wrapper d-none optimaHideTabletAndMobile">
+                                            class="front-page-info-top-button-wrapper d-none OORA3HideTabletAndMobile">
                                             <button type="button" data-bs-toggle="modal"
                                                 data-bs-target="#modalDownload"
                                                 class="download-button light-black-btn iconed-btn">
@@ -77,8 +77,8 @@
                                             </button>
                                         </div>
                                         <div
-                                            class="front-page-info-top-button-wrapper d-none optimaShowTabletAndMobile">
-                                            <a href="https://t.me/optima_crypto_bot/app?startapp=" target="_blank"
+                                            class="front-page-info-top-button-wrapper d-none OORA3ShowTabletAndMobile">
+                                            <a href="https://t.me/OORA3_crypto_bot/app?startapp=" target="_blank"
                                                 class="telegram-app-button iconed-btn">
                                                 <div class="iconed-btn__icon"></div>
                                                 <div class="iconed-btn__text">Estimate Returns  </div>
@@ -2576,7 +2576,7 @@
                                                                                                 <div
                                                                                                     class="ai-staking-form-calc-return__amount">
                                                                                                     <span
-                                                                                                        class="text--green optimaDynamicAmount globalAccountStakingFormCalcMinRealAmount"></span>
+                                                                                                        class="text--green OORA3DynamicAmount globalAccountStakingFormCalcMinRealAmount"></span>
                                                                                                 </div>
                                                                                                 <div
                                                                                                     class="ai-staking-form-calc-return__percent">
@@ -2692,7 +2692,7 @@
                                                                                                 <div
                                                                                                     class="ai-staking-form-calc-return__amount">
                                                                                                     <span
-                                                                                                        class="text--green optimaDynamicAmount globalAccountStakingFormCalcEstRealAmount"></span>
+                                                                                                        class="text--green OORA3DynamicAmount globalAccountStakingFormCalcEstRealAmount"></span>
                                                                                                 </div>
                                                                                                 <div
                                                                                                     class="ai-staking-form-calc-return__percent">
@@ -11244,7 +11244,7 @@
                                 </div>
                                 <div class="front-section-descr-block">
                                     <div class="front-section-descr">
-                                        Optima Group partners with trusted cryptocurrency exchanges and other
+                                        OORA3 Group partners with trusted cryptocurrency exchanges and other
                                         infrastructure providers with a proven track record of meeting security and
                                         operational reliability standards.
                                     </div>
@@ -11382,7 +11382,7 @@
                                     </div>
                                     <div class="front-cta__descr-block">
                                         <div class="front-cta__descr">
-                                            Start earning with AI-powered algorithms from Optima, unlocking market
+                                            Start earning with AI-powered algorithms from OORA3, unlocking market
                                             opportunities unavailable to manual trading.
                                         </div>
                                     </div>
@@ -11423,7 +11423,7 @@
                                                     <div class="iconed-btn__icon"></div>
                                                 </a>
                                             </div>
-                                            <div class="front-cta-button-wrapper d-none optimaHideTabletAndMobile">
+                                            <div class="front-cta-button-wrapper d-none OORA3HideTabletAndMobile">
                                                 <button type="button" data-bs-toggle="modal"
                                                     data-bs-target="#modalDownload"
                                                     class="download-button light-black-btn iconed-btn">
@@ -11431,8 +11431,8 @@
                                                     <div class="iconed-btn__icon"></div>
                                                 </button>
                                             </div>
-                                            <div class="front-cta-button-wrapper d-none optimaShowTabletAndMobile">
-                                                <a href="https://t.me/optima_crypto_bot/app?startapp="
+                                            <div class="front-cta-button-wrapper d-none OORA3ShowTabletAndMobile">
+                                                <a href="https://t.me/OORA3_crypto_bot/app?startapp="
                                                     target="_blank" class="telegram-app-button iconed-btn">
                                                     <div class="iconed-btn__icon"></div>
                                                     <div class="iconed-btn__text">Telegram app</div>

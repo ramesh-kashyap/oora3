@@ -15,7 +15,7 @@
 	        <div class="db-task-item-heading">
 	         <div class="db-task-item-heading-icon-block">
 	          <div class="db-task-item-heading-icon">
-	           <img class="image" data-src="https://optima.cc/assets/oora3/images/svg/dashboard/db-task-item-icon--%5Bicon%5D.svg" alt="">
+	           <img class="image" data-src="https://OORA3.cc/assets/oora3/images/svg/dashboard/db-task-item-icon--%5Bicon%5D.svg" alt="">
 	          </div>
 	         </div>
 	         <div class="db-task-item-heading-content">
@@ -106,7 +106,7 @@
 	         </div>
 	        </div>
 	        <div class="modal-title-block">
-		         <div class="modal-title h2 modalPartnerTotalAmount optimaDynamicAmount" data-mask="$[amount]" data-round="8"></div>
+		         <div class="modal-title h2 modalPartnerTotalAmount OORA3DynamicAmount" data-mask="$[amount]" data-round="8"></div>
 	         <div class="modal-title h2"></div>
 	        </div>
 	
@@ -142,7 +142,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] USDT" data-round="8"  data-currency="usdt">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] USDT" data-round="8"  data-currency="usdt">
 	               
 	              </div>
 	             </div>
@@ -166,7 +166,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] USDC" data-round="8"  data-currency="usdc">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] USDC" data-round="8"  data-currency="usdc">
 	               
 	              </div>
 	             </div>
@@ -190,7 +190,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] BTC" data-round="8"  data-currency="btc">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] BTC" data-round="8"  data-currency="btc">
 	               
 	              </div>
 	             </div>
@@ -214,7 +214,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] ETH" data-round="8"  data-currency="eth">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] ETH" data-round="8"  data-currency="eth">
 	               
 	              </div>
 	             </div>
@@ -238,7 +238,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] BNB" data-round="8"  data-currency="bnb">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] BNB" data-round="8"  data-currency="bnb">
 	               
 	              </div>
 	             </div>
@@ -262,7 +262,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] SOL" data-round="8"  data-currency="sol">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] SOL" data-round="8"  data-currency="sol">
 	               
 	              </div>
 	             </div>
@@ -286,7 +286,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] DOT" data-round="8"  data-currency="dot">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] DOT" data-round="8"  data-currency="dot">
 	               
 	              </div>
 	             </div>
@@ -310,7 +310,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] LTC" data-round="8"  data-currency="ltc">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] LTC" data-round="8"  data-currency="ltc">
 	               
 	              </div>
 	             </div>
@@ -334,7 +334,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] DOGE" data-round="8"  data-currency="doge">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] DOGE" data-round="8"  data-currency="doge">
 	               
 	              </div>
 	             </div>
@@ -358,7 +358,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] TRX" data-round="6"  data-currency="trx">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] TRX" data-round="6"  data-currency="trx">
 	               
 	              </div>
 	             </div>
@@ -382,7 +382,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] XLM" data-round="7"  data-currency="xlm">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] XLM" data-round="7"  data-currency="xlm">
 	               
 	              </div>
 	             </div>
@@ -406,7 +406,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] XRP" data-round="6"  data-currency="xrp">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] XRP" data-round="6"  data-currency="xrp">
 	               
 	              </div>
 	             </div>
@@ -430,7 +430,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] ADA" data-round="6"  data-currency="ada">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] ADA" data-round="6"  data-currency="ada">
 	               
 	              </div>
 	             </div>
@@ -454,7 +454,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] BCH" data-round="8"  data-currency="bch">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] BCH" data-round="8"  data-currency="bch">
 	               
 	              </div>
 	             </div>
@@ -478,7 +478,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] LINK" data-round="8"  data-currency="link">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] LINK" data-round="8"  data-currency="link">
 	               
 	              </div>
 	             </div>
@@ -502,7 +502,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] POL" data-round="8"  data-currency="pol">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] POL" data-round="8"  data-currency="pol">
 	               
 	              </div>
 	             </div>
@@ -543,7 +543,7 @@
 	         </div>
 	        </div>
 	        <div class="modal-title-block">
-		         <div class="modal-title h2 modalPartnerTotalAmount optimaDynamicAmount" data-mask="$[amount]" data-round="8"></div>
+		         <div class="modal-title h2 modalPartnerTotalAmount OORA3DynamicAmount" data-mask="$[amount]" data-round="8"></div>
 	         <div class="modal-title h2"></div>
 	        </div>
 	
@@ -579,7 +579,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] USDT" data-round="8"  data-currency="usdt">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] USDT" data-round="8"  data-currency="usdt">
 	               
 	              </div>
 	             </div>
@@ -603,7 +603,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] USDC" data-round="8"  data-currency="usdc">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] USDC" data-round="8"  data-currency="usdc">
 	               
 	              </div>
 	             </div>
@@ -627,7 +627,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] BTC" data-round="8"  data-currency="btc">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] BTC" data-round="8"  data-currency="btc">
 	               
 	              </div>
 	             </div>
@@ -651,7 +651,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] ETH" data-round="8"  data-currency="eth">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] ETH" data-round="8"  data-currency="eth">
 	               
 	              </div>
 	             </div>
@@ -675,7 +675,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] BNB" data-round="8"  data-currency="bnb">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] BNB" data-round="8"  data-currency="bnb">
 	               
 	              </div>
 	             </div>
@@ -699,7 +699,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] SOL" data-round="8"  data-currency="sol">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] SOL" data-round="8"  data-currency="sol">
 	               
 	              </div>
 	             </div>
@@ -723,7 +723,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] DOT" data-round="8"  data-currency="dot">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] DOT" data-round="8"  data-currency="dot">
 	               
 	              </div>
 	             </div>
@@ -747,7 +747,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] LTC" data-round="8"  data-currency="ltc">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] LTC" data-round="8"  data-currency="ltc">
 	               
 	              </div>
 	             </div>
@@ -771,7 +771,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] DOGE" data-round="8"  data-currency="doge">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] DOGE" data-round="8"  data-currency="doge">
 	               
 	              </div>
 	             </div>
@@ -795,7 +795,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] TRX" data-round="6"  data-currency="trx">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] TRX" data-round="6"  data-currency="trx">
 	               
 	              </div>
 	             </div>
@@ -819,7 +819,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] XLM" data-round="7"  data-currency="xlm">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] XLM" data-round="7"  data-currency="xlm">
 	               
 	              </div>
 	             </div>
@@ -843,7 +843,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] XRP" data-round="6"  data-currency="xrp">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] XRP" data-round="6"  data-currency="xrp">
 	               
 	              </div>
 	             </div>
@@ -867,7 +867,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] ADA" data-round="6"  data-currency="ada">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] ADA" data-round="6"  data-currency="ada">
 	               
 	              </div>
 	             </div>
@@ -891,7 +891,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] BCH" data-round="8"  data-currency="bch">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] BCH" data-round="8"  data-currency="bch">
 	               
 	              </div>
 	             </div>
@@ -915,7 +915,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] LINK" data-round="8"  data-currency="link">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] LINK" data-round="8"  data-currency="link">
 	               
 	              </div>
 	             </div>
@@ -939,7 +939,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] POL" data-round="8"  data-currency="pol">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] POL" data-round="8"  data-currency="pol">
 	               
 	              </div>
 	             </div>
@@ -980,7 +980,7 @@
 	         </div>
 	        </div>
 	        <div class="modal-title-block">
-		         <div class="modal-title h2 modalPartnerTotalAmount optimaDynamicAmount" data-mask="$[amount]" data-round="8"></div>
+		         <div class="modal-title h2 modalPartnerTotalAmount OORA3DynamicAmount" data-mask="$[amount]" data-round="8"></div>
 	         <div class="modal-title h2"></div>
 	        </div>
 	
@@ -1016,7 +1016,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] USDT" data-round="8"  data-currency="usdt">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] USDT" data-round="8"  data-currency="usdt">
 	               
 	              </div>
 	             </div>
@@ -1040,7 +1040,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] USDC" data-round="8"  data-currency="usdc">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] USDC" data-round="8"  data-currency="usdc">
 	               
 	              </div>
 	             </div>
@@ -1064,7 +1064,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] BTC" data-round="8"  data-currency="btc">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] BTC" data-round="8"  data-currency="btc">
 	               
 	              </div>
 	             </div>
@@ -1088,7 +1088,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] ETH" data-round="8"  data-currency="eth">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] ETH" data-round="8"  data-currency="eth">
 	               
 	              </div>
 	             </div>
@@ -1112,7 +1112,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] BNB" data-round="8"  data-currency="bnb">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] BNB" data-round="8"  data-currency="bnb">
 	               
 	              </div>
 	             </div>
@@ -1136,7 +1136,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] SOL" data-round="8"  data-currency="sol">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] SOL" data-round="8"  data-currency="sol">
 	               
 	              </div>
 	             </div>
@@ -1160,7 +1160,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] DOT" data-round="8"  data-currency="dot">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] DOT" data-round="8"  data-currency="dot">
 	               
 	              </div>
 	             </div>
@@ -1184,7 +1184,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] LTC" data-round="8"  data-currency="ltc">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] LTC" data-round="8"  data-currency="ltc">
 	               
 	              </div>
 	             </div>
@@ -1208,7 +1208,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] DOGE" data-round="8"  data-currency="doge">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] DOGE" data-round="8"  data-currency="doge">
 	               
 	              </div>
 	             </div>
@@ -1232,7 +1232,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] TRX" data-round="6"  data-currency="trx">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] TRX" data-round="6"  data-currency="trx">
 	               
 	              </div>
 	             </div>
@@ -1256,7 +1256,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] XLM" data-round="7"  data-currency="xlm">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] XLM" data-round="7"  data-currency="xlm">
 	               
 	              </div>
 	             </div>
@@ -1280,7 +1280,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] XRP" data-round="6"  data-currency="xrp">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] XRP" data-round="6"  data-currency="xrp">
 	               
 	              </div>
 	             </div>
@@ -1304,7 +1304,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] ADA" data-round="6"  data-currency="ada">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] ADA" data-round="6"  data-currency="ada">
 	               
 	              </div>
 	             </div>
@@ -1328,7 +1328,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] BCH" data-round="8"  data-currency="bch">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] BCH" data-round="8"  data-currency="bch">
 	               
 	              </div>
 	             </div>
@@ -1352,7 +1352,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] LINK" data-round="8"  data-currency="link">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] LINK" data-round="8"  data-currency="link">
 	               
 	              </div>
 	             </div>
@@ -1376,7 +1376,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] POL" data-round="8"  data-currency="pol">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] POL" data-round="8"  data-currency="pol">
 	               
 	              </div>
 	             </div>
@@ -1417,7 +1417,7 @@
 	         </div>
 	        </div>
 	        <div class="modal-title-block">
-		         <div class="modal-title h2 modalPartnerTotalAmount optimaDynamicAmount" data-mask="$[amount]" data-round="8"></div>
+		         <div class="modal-title h2 modalPartnerTotalAmount OORA3DynamicAmount" data-mask="$[amount]" data-round="8"></div>
 	         <div class="modal-title h2"></div>
 	        </div>
 	
@@ -1453,7 +1453,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] USDT" data-round="8"  data-currency="usdt">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] USDT" data-round="8"  data-currency="usdt">
 	               
 	              </div>
 	             </div>
@@ -1477,7 +1477,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] USDC" data-round="8"  data-currency="usdc">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] USDC" data-round="8"  data-currency="usdc">
 	               
 	              </div>
 	             </div>
@@ -1501,7 +1501,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] BTC" data-round="8"  data-currency="btc">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] BTC" data-round="8"  data-currency="btc">
 	               
 	              </div>
 	             </div>
@@ -1525,7 +1525,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] ETH" data-round="8"  data-currency="eth">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] ETH" data-round="8"  data-currency="eth">
 	               
 	              </div>
 	             </div>
@@ -1549,7 +1549,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] BNB" data-round="8"  data-currency="bnb">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] BNB" data-round="8"  data-currency="bnb">
 	               
 	              </div>
 	             </div>
@@ -1573,7 +1573,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] SOL" data-round="8"  data-currency="sol">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] SOL" data-round="8"  data-currency="sol">
 	               
 	              </div>
 	             </div>
@@ -1597,7 +1597,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] DOT" data-round="8"  data-currency="dot">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] DOT" data-round="8"  data-currency="dot">
 	               
 	              </div>
 	             </div>
@@ -1621,7 +1621,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] LTC" data-round="8"  data-currency="ltc">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] LTC" data-round="8"  data-currency="ltc">
 	               
 	              </div>
 	             </div>
@@ -1645,7 +1645,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] DOGE" data-round="8"  data-currency="doge">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] DOGE" data-round="8"  data-currency="doge">
 	               
 	              </div>
 	             </div>
@@ -1669,7 +1669,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] TRX" data-round="6"  data-currency="trx">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] TRX" data-round="6"  data-currency="trx">
 	               
 	              </div>
 	             </div>
@@ -1693,7 +1693,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] XLM" data-round="7"  data-currency="xlm">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] XLM" data-round="7"  data-currency="xlm">
 	               
 	              </div>
 	             </div>
@@ -1717,7 +1717,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] XRP" data-round="6"  data-currency="xrp">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] XRP" data-round="6"  data-currency="xrp">
 	               
 	              </div>
 	             </div>
@@ -1741,7 +1741,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] ADA" data-round="6"  data-currency="ada">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] ADA" data-round="6"  data-currency="ada">
 	               
 	              </div>
 	             </div>
@@ -1765,7 +1765,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] BCH" data-round="8"  data-currency="bch">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] BCH" data-round="8"  data-currency="bch">
 	               
 	              </div>
 	             </div>
@@ -1789,7 +1789,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] LINK" data-round="8"  data-currency="link">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] LINK" data-round="8"  data-currency="link">
 	               
 	              </div>
 	             </div>
@@ -1813,7 +1813,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] POL" data-round="8"  data-currency="pol">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] POL" data-round="8"  data-currency="pol">
 	               
 	              </div>
 	             </div>
@@ -1854,7 +1854,7 @@
 	         </div>
 	        </div>
 	        <div class="modal-title-block">
-		         <div class="modal-title h2 modalPartnerTotalAmount optimaDynamicAmount" data-mask="$[amount]" data-round="8"></div>
+		         <div class="modal-title h2 modalPartnerTotalAmount OORA3DynamicAmount" data-mask="$[amount]" data-round="8"></div>
 	         <div class="modal-title h2"></div>
 	        </div>
 	
@@ -1890,7 +1890,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] USDT" data-round="8"  data-currency="usdt">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] USDT" data-round="8"  data-currency="usdt">
 	               
 	              </div>
 	             </div>
@@ -1914,7 +1914,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] USDC" data-round="8"  data-currency="usdc">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] USDC" data-round="8"  data-currency="usdc">
 	               
 	              </div>
 	             </div>
@@ -1938,7 +1938,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] BTC" data-round="8"  data-currency="btc">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] BTC" data-round="8"  data-currency="btc">
 	               
 	              </div>
 	             </div>
@@ -1962,7 +1962,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] ETH" data-round="8"  data-currency="eth">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] ETH" data-round="8"  data-currency="eth">
 	               
 	              </div>
 	             </div>
@@ -1986,7 +1986,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] BNB" data-round="8"  data-currency="bnb">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] BNB" data-round="8"  data-currency="bnb">
 	               
 	              </div>
 	             </div>
@@ -2010,7 +2010,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] SOL" data-round="8"  data-currency="sol">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] SOL" data-round="8"  data-currency="sol">
 	               
 	              </div>
 	             </div>
@@ -2034,7 +2034,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] DOT" data-round="8"  data-currency="dot">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] DOT" data-round="8"  data-currency="dot">
 	               
 	              </div>
 	             </div>
@@ -2058,7 +2058,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] LTC" data-round="8"  data-currency="ltc">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] LTC" data-round="8"  data-currency="ltc">
 	               
 	              </div>
 	             </div>
@@ -2082,7 +2082,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] DOGE" data-round="8"  data-currency="doge">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] DOGE" data-round="8"  data-currency="doge">
 	               
 	              </div>
 	             </div>
@@ -2106,7 +2106,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] TRX" data-round="6"  data-currency="trx">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] TRX" data-round="6"  data-currency="trx">
 	               
 	              </div>
 	             </div>
@@ -2130,7 +2130,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] XLM" data-round="7"  data-currency="xlm">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] XLM" data-round="7"  data-currency="xlm">
 	               
 	              </div>
 	             </div>
@@ -2154,7 +2154,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] XRP" data-round="6"  data-currency="xrp">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] XRP" data-round="6"  data-currency="xrp">
 	               
 	              </div>
 	             </div>
@@ -2178,7 +2178,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] ADA" data-round="6"  data-currency="ada">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] ADA" data-round="6"  data-currency="ada">
 	               
 	              </div>
 	             </div>
@@ -2202,7 +2202,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] BCH" data-round="8"  data-currency="bch">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] BCH" data-round="8"  data-currency="bch">
 	               
 	              </div>
 	             </div>
@@ -2226,7 +2226,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] LINK" data-round="8"  data-currency="link">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] LINK" data-round="8"  data-currency="link">
 	               
 	              </div>
 	             </div>
@@ -2250,7 +2250,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] POL" data-round="8"  data-currency="pol">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] POL" data-round="8"  data-currency="pol">
 	               
 	              </div>
 	             </div>
@@ -2291,7 +2291,7 @@
 	         </div>
 	        </div>
 	        <div class="modal-title-block">
-		         <div class="modal-title h2 modalPartnerTotalAmount optimaDynamicAmount" data-mask="$[amount]" data-round="8"></div>
+		         <div class="modal-title h2 modalPartnerTotalAmount OORA3DynamicAmount" data-mask="$[amount]" data-round="8"></div>
 	         <div class="modal-title h2"></div>
 	        </div>
 	
@@ -2327,7 +2327,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] USDT" data-round="8"  data-currency="usdt">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] USDT" data-round="8"  data-currency="usdt">
 	               
 	              </div>
 	             </div>
@@ -2351,7 +2351,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] USDC" data-round="8"  data-currency="usdc">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] USDC" data-round="8"  data-currency="usdc">
 	               
 	              </div>
 	             </div>
@@ -2375,7 +2375,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] BTC" data-round="8"  data-currency="btc">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] BTC" data-round="8"  data-currency="btc">
 	               
 	              </div>
 	             </div>
@@ -2399,7 +2399,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] ETH" data-round="8"  data-currency="eth">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] ETH" data-round="8"  data-currency="eth">
 	               
 	              </div>
 	             </div>
@@ -2423,7 +2423,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] BNB" data-round="8"  data-currency="bnb">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] BNB" data-round="8"  data-currency="bnb">
 	               
 	              </div>
 	             </div>
@@ -2447,7 +2447,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] SOL" data-round="8"  data-currency="sol">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] SOL" data-round="8"  data-currency="sol">
 	               
 	              </div>
 	             </div>
@@ -2471,7 +2471,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] DOT" data-round="8"  data-currency="dot">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] DOT" data-round="8"  data-currency="dot">
 	               
 	              </div>
 	             </div>
@@ -2495,7 +2495,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] LTC" data-round="8"  data-currency="ltc">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] LTC" data-round="8"  data-currency="ltc">
 	               
 	              </div>
 	             </div>
@@ -2519,7 +2519,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] DOGE" data-round="8"  data-currency="doge">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] DOGE" data-round="8"  data-currency="doge">
 	               
 	              </div>
 	             </div>
@@ -2543,7 +2543,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] TRX" data-round="6"  data-currency="trx">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] TRX" data-round="6"  data-currency="trx">
 	               
 	              </div>
 	             </div>
@@ -2567,7 +2567,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] XLM" data-round="7"  data-currency="xlm">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] XLM" data-round="7"  data-currency="xlm">
 	               
 	              </div>
 	             </div>
@@ -2591,7 +2591,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] XRP" data-round="6"  data-currency="xrp">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] XRP" data-round="6"  data-currency="xrp">
 	               
 	              </div>
 	             </div>
@@ -2615,7 +2615,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] ADA" data-round="6"  data-currency="ada">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] ADA" data-round="6"  data-currency="ada">
 	               
 	              </div>
 	             </div>
@@ -2639,7 +2639,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] BCH" data-round="8"  data-currency="bch">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] BCH" data-round="8"  data-currency="bch">
 	               
 	              </div>
 	             </div>
@@ -2663,7 +2663,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] LINK" data-round="8"  data-currency="link">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] LINK" data-round="8"  data-currency="link">
 	               
 	              </div>
 	             </div>
@@ -2687,7 +2687,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] POL" data-round="8"  data-currency="pol">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] POL" data-round="8"  data-currency="pol">
 	               
 	              </div>
 	             </div>
@@ -2728,7 +2728,7 @@
 	         </div>
 	        </div>
 	        <div class="modal-title-block">
-		         <div class="modal-title h2 modalPartnerTotalAmount optimaDynamicAmount" data-mask="$[amount]" data-round="8"></div>
+		         <div class="modal-title h2 modalPartnerTotalAmount OORA3DynamicAmount" data-mask="$[amount]" data-round="8"></div>
 	         <div class="modal-title h2"></div>
 	        </div>
 	
@@ -2764,7 +2764,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] USDT" data-round="8"  data-currency="usdt">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] USDT" data-round="8"  data-currency="usdt">
 	               
 	              </div>
 	             </div>
@@ -2788,7 +2788,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] USDC" data-round="8"  data-currency="usdc">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] USDC" data-round="8"  data-currency="usdc">
 	               
 	              </div>
 	             </div>
@@ -2812,7 +2812,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] BTC" data-round="8"  data-currency="btc">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] BTC" data-round="8"  data-currency="btc">
 	               
 	              </div>
 	             </div>
@@ -2836,7 +2836,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] ETH" data-round="8"  data-currency="eth">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] ETH" data-round="8"  data-currency="eth">
 	               
 	              </div>
 	             </div>
@@ -2860,7 +2860,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] BNB" data-round="8"  data-currency="bnb">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] BNB" data-round="8"  data-currency="bnb">
 	               
 	              </div>
 	             </div>
@@ -2884,7 +2884,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] SOL" data-round="8"  data-currency="sol">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] SOL" data-round="8"  data-currency="sol">
 	               
 	              </div>
 	             </div>
@@ -2908,7 +2908,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] DOT" data-round="8"  data-currency="dot">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] DOT" data-round="8"  data-currency="dot">
 	               
 	              </div>
 	             </div>
@@ -2932,7 +2932,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] LTC" data-round="8"  data-currency="ltc">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] LTC" data-round="8"  data-currency="ltc">
 	               
 	              </div>
 	             </div>
@@ -2956,7 +2956,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] DOGE" data-round="8"  data-currency="doge">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] DOGE" data-round="8"  data-currency="doge">
 	               
 	              </div>
 	             </div>
@@ -2980,7 +2980,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] TRX" data-round="6"  data-currency="trx">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] TRX" data-round="6"  data-currency="trx">
 	               
 	              </div>
 	             </div>
@@ -3004,7 +3004,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] XLM" data-round="7"  data-currency="xlm">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] XLM" data-round="7"  data-currency="xlm">
 	               
 	              </div>
 	             </div>
@@ -3028,7 +3028,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] XRP" data-round="6"  data-currency="xrp">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] XRP" data-round="6"  data-currency="xrp">
 	               
 	              </div>
 	             </div>
@@ -3052,7 +3052,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] ADA" data-round="6"  data-currency="ada">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] ADA" data-round="6"  data-currency="ada">
 	               
 	              </div>
 	             </div>
@@ -3076,7 +3076,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] BCH" data-round="8"  data-currency="bch">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] BCH" data-round="8"  data-currency="bch">
 	               
 	              </div>
 	             </div>
@@ -3100,7 +3100,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] LINK" data-round="8"  data-currency="link">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] LINK" data-round="8"  data-currency="link">
 	               
 	              </div>
 	             </div>
@@ -3124,7 +3124,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] POL" data-round="8"  data-currency="pol">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] POL" data-round="8"  data-currency="pol">
 	               
 	              </div>
 	             </div>
@@ -3165,7 +3165,7 @@
 	         </div>
 	        </div>
 	        <div class="modal-title-block">
-		         <div class="modal-title h2 modalPartnerTotalAmount optimaDynamicAmount" data-mask="$[amount]" data-round="8"></div>
+		         <div class="modal-title h2 modalPartnerTotalAmount OORA3DynamicAmount" data-mask="$[amount]" data-round="8"></div>
 	         <div class="modal-title h2"></div>
 	        </div>
 	
@@ -3201,7 +3201,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] USDT" data-round="8"  data-currency="usdt">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] USDT" data-round="8"  data-currency="usdt">
 	               
 	              </div>
 	             </div>
@@ -3225,7 +3225,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] USDC" data-round="8"  data-currency="usdc">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] USDC" data-round="8"  data-currency="usdc">
 	               
 	              </div>
 	             </div>
@@ -3249,7 +3249,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] BTC" data-round="8"  data-currency="btc">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] BTC" data-round="8"  data-currency="btc">
 	               
 	              </div>
 	             </div>
@@ -3273,7 +3273,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] ETH" data-round="8"  data-currency="eth">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] ETH" data-round="8"  data-currency="eth">
 	               
 	              </div>
 	             </div>
@@ -3297,7 +3297,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] BNB" data-round="8"  data-currency="bnb">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] BNB" data-round="8"  data-currency="bnb">
 	               
 	              </div>
 	             </div>
@@ -3321,7 +3321,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] SOL" data-round="8"  data-currency="sol">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] SOL" data-round="8"  data-currency="sol">
 	               
 	              </div>
 	             </div>
@@ -3345,7 +3345,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] DOT" data-round="8"  data-currency="dot">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] DOT" data-round="8"  data-currency="dot">
 	               
 	              </div>
 	             </div>
@@ -3369,7 +3369,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] LTC" data-round="8"  data-currency="ltc">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] LTC" data-round="8"  data-currency="ltc">
 	               
 	              </div>
 	             </div>
@@ -3393,7 +3393,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] DOGE" data-round="8"  data-currency="doge">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] DOGE" data-round="8"  data-currency="doge">
 	               
 	              </div>
 	             </div>
@@ -3417,7 +3417,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] TRX" data-round="6"  data-currency="trx">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] TRX" data-round="6"  data-currency="trx">
 	               
 	              </div>
 	             </div>
@@ -3441,7 +3441,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] XLM" data-round="7"  data-currency="xlm">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] XLM" data-round="7"  data-currency="xlm">
 	               
 	              </div>
 	             </div>
@@ -3465,7 +3465,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] XRP" data-round="6"  data-currency="xrp">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] XRP" data-round="6"  data-currency="xrp">
 	               
 	              </div>
 	             </div>
@@ -3489,7 +3489,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] ADA" data-round="6"  data-currency="ada">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] ADA" data-round="6"  data-currency="ada">
 	               
 	              </div>
 	             </div>
@@ -3513,7 +3513,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] BCH" data-round="8"  data-currency="bch">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] BCH" data-round="8"  data-currency="bch">
 	               
 	              </div>
 	             </div>
@@ -3537,7 +3537,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] LINK" data-round="8"  data-currency="link">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] LINK" data-round="8"  data-currency="link">
 	               
 	              </div>
 	             </div>
@@ -3561,7 +3561,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] POL" data-round="8"  data-currency="pol">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] POL" data-round="8"  data-currency="pol">
 	               
 	              </div>
 	             </div>
@@ -3602,7 +3602,7 @@
 	         </div>
 	        </div>
 	        <div class="modal-title-block">
-		         <div class="modal-title h2 modalPartnerTotalAmount optimaDynamicAmount" data-mask="$[amount]" data-round="8"></div>
+		         <div class="modal-title h2 modalPartnerTotalAmount OORA3DynamicAmount" data-mask="$[amount]" data-round="8"></div>
 	         <div class="modal-title h2"></div>
 	        </div>
 	
@@ -3638,7 +3638,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] USDT" data-round="8"  data-currency="usdt">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] USDT" data-round="8"  data-currency="usdt">
 	               
 	              </div>
 	             </div>
@@ -3662,7 +3662,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] USDC" data-round="8"  data-currency="usdc">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] USDC" data-round="8"  data-currency="usdc">
 	               
 	              </div>
 	             </div>
@@ -3686,7 +3686,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] BTC" data-round="8"  data-currency="btc">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] BTC" data-round="8"  data-currency="btc">
 	               
 	              </div>
 	             </div>
@@ -3710,7 +3710,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] ETH" data-round="8"  data-currency="eth">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] ETH" data-round="8"  data-currency="eth">
 	               
 	              </div>
 	             </div>
@@ -3734,7 +3734,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] BNB" data-round="8"  data-currency="bnb">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] BNB" data-round="8"  data-currency="bnb">
 	               
 	              </div>
 	             </div>
@@ -3758,7 +3758,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] SOL" data-round="8"  data-currency="sol">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] SOL" data-round="8"  data-currency="sol">
 	               
 	              </div>
 	             </div>
@@ -3782,7 +3782,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] DOT" data-round="8"  data-currency="dot">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] DOT" data-round="8"  data-currency="dot">
 	               
 	              </div>
 	             </div>
@@ -3806,7 +3806,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] LTC" data-round="8"  data-currency="ltc">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] LTC" data-round="8"  data-currency="ltc">
 	               
 	              </div>
 	             </div>
@@ -3830,7 +3830,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] DOGE" data-round="8"  data-currency="doge">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] DOGE" data-round="8"  data-currency="doge">
 	               
 	              </div>
 	             </div>
@@ -3854,7 +3854,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] TRX" data-round="6"  data-currency="trx">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] TRX" data-round="6"  data-currency="trx">
 	               
 	              </div>
 	             </div>
@@ -3878,7 +3878,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] XLM" data-round="7"  data-currency="xlm">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] XLM" data-round="7"  data-currency="xlm">
 	               
 	              </div>
 	             </div>
@@ -3902,7 +3902,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] XRP" data-round="6"  data-currency="xrp">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] XRP" data-round="6"  data-currency="xrp">
 	               
 	              </div>
 	             </div>
@@ -3926,7 +3926,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] ADA" data-round="6"  data-currency="ada">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] ADA" data-round="6"  data-currency="ada">
 	               
 	              </div>
 	             </div>
@@ -3950,7 +3950,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] BCH" data-round="8"  data-currency="bch">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] BCH" data-round="8"  data-currency="bch">
 	               
 	              </div>
 	             </div>
@@ -3974,7 +3974,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] LINK" data-round="8"  data-currency="link">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] LINK" data-round="8"  data-currency="link">
 	               
 	              </div>
 	             </div>
@@ -3998,7 +3998,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] POL" data-round="8"  data-currency="pol">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] POL" data-round="8"  data-currency="pol">
 	               
 	              </div>
 	             </div>
@@ -4039,7 +4039,7 @@
 	         </div>
 	        </div>
 	        <div class="modal-title-block">
-		         <div class="modal-title h2 modalPartnerTotalAmount optimaDynamicAmount" data-mask="$[amount]" data-round="8"></div>
+		         <div class="modal-title h2 modalPartnerTotalAmount OORA3DynamicAmount" data-mask="$[amount]" data-round="8"></div>
 	         <div class="modal-title h2"></div>
 	        </div>
 	
@@ -4075,7 +4075,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] USDT" data-round="8"  data-currency="usdt">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] USDT" data-round="8"  data-currency="usdt">
 	               
 	              </div>
 	             </div>
@@ -4099,7 +4099,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] USDC" data-round="8"  data-currency="usdc">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] USDC" data-round="8"  data-currency="usdc">
 	               
 	              </div>
 	             </div>
@@ -4123,7 +4123,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] BTC" data-round="8"  data-currency="btc">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] BTC" data-round="8"  data-currency="btc">
 	               
 	              </div>
 	             </div>
@@ -4147,7 +4147,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] ETH" data-round="8"  data-currency="eth">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] ETH" data-round="8"  data-currency="eth">
 	               
 	              </div>
 	             </div>
@@ -4171,7 +4171,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] BNB" data-round="8"  data-currency="bnb">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] BNB" data-round="8"  data-currency="bnb">
 	               
 	              </div>
 	             </div>
@@ -4195,7 +4195,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] SOL" data-round="8"  data-currency="sol">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] SOL" data-round="8"  data-currency="sol">
 	               
 	              </div>
 	             </div>
@@ -4219,7 +4219,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] DOT" data-round="8"  data-currency="dot">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] DOT" data-round="8"  data-currency="dot">
 	               
 	              </div>
 	             </div>
@@ -4243,7 +4243,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] LTC" data-round="8"  data-currency="ltc">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] LTC" data-round="8"  data-currency="ltc">
 	               
 	              </div>
 	             </div>
@@ -4267,7 +4267,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] DOGE" data-round="8"  data-currency="doge">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] DOGE" data-round="8"  data-currency="doge">
 	               
 	              </div>
 	             </div>
@@ -4291,7 +4291,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] TRX" data-round="6"  data-currency="trx">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] TRX" data-round="6"  data-currency="trx">
 	               
 	              </div>
 	             </div>
@@ -4315,7 +4315,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] XLM" data-round="7"  data-currency="xlm">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] XLM" data-round="7"  data-currency="xlm">
 	               
 	              </div>
 	             </div>
@@ -4339,7 +4339,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] XRP" data-round="6"  data-currency="xrp">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] XRP" data-round="6"  data-currency="xrp">
 	               
 	              </div>
 	             </div>
@@ -4363,7 +4363,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] ADA" data-round="6"  data-currency="ada">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] ADA" data-round="6"  data-currency="ada">
 	               
 	              </div>
 	             </div>
@@ -4387,7 +4387,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] BCH" data-round="8"  data-currency="bch">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] BCH" data-round="8"  data-currency="bch">
 	               
 	              </div>
 	             </div>
@@ -4411,7 +4411,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] LINK" data-round="8"  data-currency="link">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] LINK" data-round="8"  data-currency="link">
 	               
 	              </div>
 	             </div>
@@ -4435,7 +4435,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount optimaDynamicAmount" data-mask="[amount] POL" data-round="8"  data-currency="pol">
+	              <div class="modal-affiliate-profit-list-item__amount modalPartnerAmount OORA3DynamicAmount" data-mask="[amount] POL" data-round="8"  data-currency="pol">
 	               
 	              </div>
 	             </div>
@@ -4477,7 +4477,7 @@
 	         <div class="modal-affiliate-profit-icon modal-affiliate-profit-icon--staking"></div>
 	        </div>
 	        <div class="modal-title-block">
-	         <div class="modal-title h2 optimaDynamicAmount modalAffiliateEarningStakingAmount" data-module="user-affiliate-staking-usd" data-mask="$[amount]" data-round="2"></div>
+	         <div class="modal-title h2 OORA3DynamicAmount modalAffiliateEarningStakingAmount" data-module="user-affiliate-staking-usd" data-mask="$[amount]" data-round="2"></div>
 	        </div>
 	        <div class="modal-affiliate-profit-title-block">
 	         <div class="modal-affiliate-profit-title">
@@ -4516,7 +4516,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] USDT" data-round="8" data-module="user-affiliate-staking" data-currency="usdt">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] USDT" data-round="8" data-module="user-affiliate-staking" data-currency="usdt">
 	               
 	              </div>
 	             </div>
@@ -4540,7 +4540,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] USDC" data-round="8" data-module="user-affiliate-staking" data-currency="usdc">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] USDC" data-round="8" data-module="user-affiliate-staking" data-currency="usdc">
 	               
 	              </div>
 	             </div>
@@ -4564,7 +4564,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] BTC" data-round="8" data-module="user-affiliate-staking" data-currency="btc">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] BTC" data-round="8" data-module="user-affiliate-staking" data-currency="btc">
 	               
 	              </div>
 	             </div>
@@ -4588,7 +4588,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] ETH" data-round="8" data-module="user-affiliate-staking" data-currency="eth">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] ETH" data-round="8" data-module="user-affiliate-staking" data-currency="eth">
 	               
 	              </div>
 	             </div>
@@ -4612,7 +4612,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] BNB" data-round="8" data-module="user-affiliate-staking" data-currency="bnb">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] BNB" data-round="8" data-module="user-affiliate-staking" data-currency="bnb">
 	               
 	              </div>
 	             </div>
@@ -4636,7 +4636,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] SOL" data-round="8" data-module="user-affiliate-staking" data-currency="sol">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] SOL" data-round="8" data-module="user-affiliate-staking" data-currency="sol">
 	               
 	              </div>
 	             </div>
@@ -4660,7 +4660,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] DOT" data-round="8" data-module="user-affiliate-staking" data-currency="dot">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] DOT" data-round="8" data-module="user-affiliate-staking" data-currency="dot">
 	               
 	              </div>
 	             </div>
@@ -4684,7 +4684,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] LTC" data-round="8" data-module="user-affiliate-staking" data-currency="ltc">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] LTC" data-round="8" data-module="user-affiliate-staking" data-currency="ltc">
 	               
 	              </div>
 	             </div>
@@ -4708,7 +4708,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] DOGE" data-round="8" data-module="user-affiliate-staking" data-currency="doge">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] DOGE" data-round="8" data-module="user-affiliate-staking" data-currency="doge">
 	               
 	              </div>
 	             </div>
@@ -4732,7 +4732,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] TRX" data-round="6" data-module="user-affiliate-staking" data-currency="trx">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] TRX" data-round="6" data-module="user-affiliate-staking" data-currency="trx">
 	               
 	              </div>
 	             </div>
@@ -4756,7 +4756,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] XLM" data-round="7" data-module="user-affiliate-staking" data-currency="xlm">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] XLM" data-round="7" data-module="user-affiliate-staking" data-currency="xlm">
 	               
 	              </div>
 	             </div>
@@ -4780,7 +4780,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] XRP" data-round="6" data-module="user-affiliate-staking" data-currency="xrp">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] XRP" data-round="6" data-module="user-affiliate-staking" data-currency="xrp">
 	               
 	              </div>
 	             </div>
@@ -4804,7 +4804,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] ADA" data-round="6" data-module="user-affiliate-staking" data-currency="ada">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] ADA" data-round="6" data-module="user-affiliate-staking" data-currency="ada">
 	               
 	              </div>
 	             </div>
@@ -4828,7 +4828,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] BCH" data-round="8" data-module="user-affiliate-staking" data-currency="bch">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] BCH" data-round="8" data-module="user-affiliate-staking" data-currency="bch">
 	               
 	              </div>
 	             </div>
@@ -4852,7 +4852,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] LINK" data-round="8" data-module="user-affiliate-staking" data-currency="link">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] LINK" data-round="8" data-module="user-affiliate-staking" data-currency="link">
 	               
 	              </div>
 	             </div>
@@ -4876,7 +4876,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] POL" data-round="8" data-module="user-affiliate-staking" data-currency="pol">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] POL" data-round="8" data-module="user-affiliate-staking" data-currency="pol">
 	               
 	              </div>
 	             </div>
@@ -4920,7 +4920,7 @@
 	         <div class="modal-affiliate-profit-icon modal-affiliate-profit-icon--exchange"></div>
 	        </div>
 	        <div class="modal-title-block">
-	         <div class="modal-title h2 optimaDynamicAmount modalAffiliateEarningExchangeAmount" data-module="user-affiliate-exchange-usd" data-mask="$[amount]" data-round="2"></div>
+	         <div class="modal-title h2 OORA3DynamicAmount modalAffiliateEarningExchangeAmount" data-module="user-affiliate-exchange-usd" data-mask="$[amount]" data-round="2"></div>
 	        </div>
 	        <div class="modal-affiliate-profit-title-block">
 	         <div class="modal-affiliate-profit-title">
@@ -4959,7 +4959,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] USDT" data-round="8" data-module="user-affiliate-exchange" data-currency="usdt">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] USDT" data-round="8" data-module="user-affiliate-exchange" data-currency="usdt">
 	               
 	              </div>
 	             </div>
@@ -4983,7 +4983,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] USDC" data-round="8" data-module="user-affiliate-exchange" data-currency="usdc">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] USDC" data-round="8" data-module="user-affiliate-exchange" data-currency="usdc">
 	               
 	              </div>
 	             </div>
@@ -5007,7 +5007,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] BTC" data-round="8" data-module="user-affiliate-exchange" data-currency="btc">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] BTC" data-round="8" data-module="user-affiliate-exchange" data-currency="btc">
 	               
 	              </div>
 	             </div>
@@ -5031,7 +5031,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] ETH" data-round="8" data-module="user-affiliate-exchange" data-currency="eth">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] ETH" data-round="8" data-module="user-affiliate-exchange" data-currency="eth">
 	               
 	              </div>
 	             </div>
@@ -5055,7 +5055,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] BNB" data-round="8" data-module="user-affiliate-exchange" data-currency="bnb">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] BNB" data-round="8" data-module="user-affiliate-exchange" data-currency="bnb">
 	               
 	              </div>
 	             </div>
@@ -5079,7 +5079,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] SOL" data-round="8" data-module="user-affiliate-exchange" data-currency="sol">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] SOL" data-round="8" data-module="user-affiliate-exchange" data-currency="sol">
 	               
 	              </div>
 	             </div>
@@ -5103,7 +5103,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] DOT" data-round="8" data-module="user-affiliate-exchange" data-currency="dot">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] DOT" data-round="8" data-module="user-affiliate-exchange" data-currency="dot">
 	               
 	              </div>
 	             </div>
@@ -5127,7 +5127,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] LTC" data-round="8" data-module="user-affiliate-exchange" data-currency="ltc">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] LTC" data-round="8" data-module="user-affiliate-exchange" data-currency="ltc">
 	               
 	              </div>
 	             </div>
@@ -5151,7 +5151,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] DOGE" data-round="8" data-module="user-affiliate-exchange" data-currency="doge">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] DOGE" data-round="8" data-module="user-affiliate-exchange" data-currency="doge">
 	               
 	              </div>
 	             </div>
@@ -5175,7 +5175,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] TRX" data-round="6" data-module="user-affiliate-exchange" data-currency="trx">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] TRX" data-round="6" data-module="user-affiliate-exchange" data-currency="trx">
 	               
 	              </div>
 	             </div>
@@ -5199,7 +5199,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] XLM" data-round="7" data-module="user-affiliate-exchange" data-currency="xlm">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] XLM" data-round="7" data-module="user-affiliate-exchange" data-currency="xlm">
 	               
 	              </div>
 	             </div>
@@ -5223,7 +5223,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] XRP" data-round="6" data-module="user-affiliate-exchange" data-currency="xrp">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] XRP" data-round="6" data-module="user-affiliate-exchange" data-currency="xrp">
 	               
 	              </div>
 	             </div>
@@ -5247,7 +5247,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] ADA" data-round="6" data-module="user-affiliate-exchange" data-currency="ada">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] ADA" data-round="6" data-module="user-affiliate-exchange" data-currency="ada">
 	               
 	              </div>
 	             </div>
@@ -5271,7 +5271,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] BCH" data-round="8" data-module="user-affiliate-exchange" data-currency="bch">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] BCH" data-round="8" data-module="user-affiliate-exchange" data-currency="bch">
 	               
 	              </div>
 	             </div>
@@ -5295,7 +5295,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] LINK" data-round="8" data-module="user-affiliate-exchange" data-currency="link">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] LINK" data-round="8" data-module="user-affiliate-exchange" data-currency="link">
 	               
 	              </div>
 	             </div>
@@ -5319,7 +5319,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] POL" data-round="8" data-module="user-affiliate-exchange" data-currency="pol">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] POL" data-round="8" data-module="user-affiliate-exchange" data-currency="pol">
 	               
 	              </div>
 	             </div>
@@ -5363,7 +5363,7 @@
 	         <div class="modal-affiliate-profit-icon modal-affiliate-profit-icon--loans"></div>
 	        </div>
 	        <div class="modal-title-block">
-	         <div class="modal-title h2 optimaDynamicAmount modalAffiliateEarningLoansAmount" data-module="user-affiliate-loans-usd" data-mask="$[amount]" data-round="2"></div>
+	         <div class="modal-title h2 OORA3DynamicAmount modalAffiliateEarningLoansAmount" data-module="user-affiliate-loans-usd" data-mask="$[amount]" data-round="2"></div>
 	        </div>
 	        <div class="modal-affiliate-profit-title-block">
 	         <div class="modal-affiliate-profit-title">
@@ -5402,7 +5402,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] USDT" data-round="8" data-module="user-affiliate-loans" data-currency="usdt">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] USDT" data-round="8" data-module="user-affiliate-loans" data-currency="usdt">
 	               
 	              </div>
 	             </div>
@@ -5426,7 +5426,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] USDC" data-round="8" data-module="user-affiliate-loans" data-currency="usdc">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] USDC" data-round="8" data-module="user-affiliate-loans" data-currency="usdc">
 	               
 	              </div>
 	             </div>
@@ -5450,7 +5450,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] BTC" data-round="8" data-module="user-affiliate-loans" data-currency="btc">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] BTC" data-round="8" data-module="user-affiliate-loans" data-currency="btc">
 	               
 	              </div>
 	             </div>
@@ -5474,7 +5474,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] ETH" data-round="8" data-module="user-affiliate-loans" data-currency="eth">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] ETH" data-round="8" data-module="user-affiliate-loans" data-currency="eth">
 	               
 	              </div>
 	             </div>
@@ -5498,7 +5498,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] BNB" data-round="8" data-module="user-affiliate-loans" data-currency="bnb">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] BNB" data-round="8" data-module="user-affiliate-loans" data-currency="bnb">
 	               
 	              </div>
 	             </div>
@@ -5522,7 +5522,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] SOL" data-round="8" data-module="user-affiliate-loans" data-currency="sol">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] SOL" data-round="8" data-module="user-affiliate-loans" data-currency="sol">
 	               
 	              </div>
 	             </div>
@@ -5546,7 +5546,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] DOT" data-round="8" data-module="user-affiliate-loans" data-currency="dot">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] DOT" data-round="8" data-module="user-affiliate-loans" data-currency="dot">
 	               
 	              </div>
 	             </div>
@@ -5570,7 +5570,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] LTC" data-round="8" data-module="user-affiliate-loans" data-currency="ltc">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] LTC" data-round="8" data-module="user-affiliate-loans" data-currency="ltc">
 	               
 	              </div>
 	             </div>
@@ -5594,7 +5594,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] DOGE" data-round="8" data-module="user-affiliate-loans" data-currency="doge">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] DOGE" data-round="8" data-module="user-affiliate-loans" data-currency="doge">
 	               
 	              </div>
 	             </div>
@@ -5618,7 +5618,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] TRX" data-round="6" data-module="user-affiliate-loans" data-currency="trx">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] TRX" data-round="6" data-module="user-affiliate-loans" data-currency="trx">
 	               
 	              </div>
 	             </div>
@@ -5642,7 +5642,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] XLM" data-round="7" data-module="user-affiliate-loans" data-currency="xlm">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] XLM" data-round="7" data-module="user-affiliate-loans" data-currency="xlm">
 	               
 	              </div>
 	             </div>
@@ -5666,7 +5666,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] XRP" data-round="6" data-module="user-affiliate-loans" data-currency="xrp">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] XRP" data-round="6" data-module="user-affiliate-loans" data-currency="xrp">
 	               
 	              </div>
 	             </div>
@@ -5690,7 +5690,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] ADA" data-round="6" data-module="user-affiliate-loans" data-currency="ada">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] ADA" data-round="6" data-module="user-affiliate-loans" data-currency="ada">
 	               
 	              </div>
 	             </div>
@@ -5714,7 +5714,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] BCH" data-round="8" data-module="user-affiliate-loans" data-currency="bch">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] BCH" data-round="8" data-module="user-affiliate-loans" data-currency="bch">
 	               
 	              </div>
 	             </div>
@@ -5738,7 +5738,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] LINK" data-round="8" data-module="user-affiliate-loans" data-currency="link">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] LINK" data-round="8" data-module="user-affiliate-loans" data-currency="link">
 	               
 	              </div>
 	             </div>
@@ -5762,7 +5762,7 @@
 	              </div>
 	             </div>
 	             <div class="modal-affiliate-profit-list-item__right">
-	              <div class="modal-affiliate-profit-list-item__amount optimaDynamicAmount" data-mask="[amount] POL" data-round="8" data-module="user-affiliate-loans" data-currency="pol">
+	              <div class="modal-affiliate-profit-list-item__amount OORA3DynamicAmount" data-mask="[amount] POL" data-round="8" data-module="user-affiliate-loans" data-currency="pol">
 	               
 	              </div>
 	             </div>
@@ -5808,7 +5808,7 @@
 	         <div class="modal-transaction-icon modal-transaction-icon--canceled"></div>
 	        </div>
 	        <div class="modal-title-block">
-	         <div class="modal-title h2 modalTransactionAmount optimaDynamicAmount" data-module="transaction-balance" data-transaction-id="" data-mask="[amount]" data-round=""></div>
+	         <div class="modal-title h2 modalTransactionAmount OORA3DynamicAmount" data-module="transaction-balance" data-transaction-id="" data-mask="[amount]" data-round=""></div>
 	        </div>
 	        <div class="modal-transaction-status-block">
 	         <div class="modal-transaction-status modal-transaction-status--completed">
@@ -5854,7 +5854,7 @@
 	              <div class="modal-transaction-param-currency">
 	               <div class="currency-item">
 	                <div class="currency-icon">
-	                 <img class="image" data-src="https://optima.cc/assets/oora3/images/svg/currency/%5Bicon%5D.svg" alt="">
+	                 <img class="image" data-src="https://OORA3.cc/assets/oora3/images/svg/currency/%5Bicon%5D.svg" alt="">
 	                </div>
 	                <div class="currency-item__content">
 	                 <div class="currency-item__title">
@@ -6109,7 +6109,7 @@
 	         <div class="modal-transaction-icon modal-transaction-icon--canceled"></div>
 	        </div>
 	        <div class="modal-title-block">
-	         <div class="modal-title h2 modalTransactionAmount optimaDynamicAmount" data-module="transaction-balance" data-transaction-id="" data-mask="[amount]" data-round=""></div>
+	         <div class="modal-title h2 modalTransactionAmount OORA3DynamicAmount" data-module="transaction-balance" data-transaction-id="" data-mask="[amount]" data-round=""></div>
 	        </div>
 	        <div class="modal-transaction-status-block">
 	         <div class="modal-transaction-status modal-transaction-status--completed">
@@ -6155,7 +6155,7 @@
 	              <div class="modal-transaction-param-currency">
 	               <div class="currency-item">
 	                <div class="currency-icon">
-	                 <img class="image" data-src="https://optima.cc/assets/oora3/images/svg/currency/%5Bicon%5D.svg" alt="">
+	                 <img class="image" data-src="https://OORA3.cc/assets/oora3/images/svg/currency/%5Bicon%5D.svg" alt="">
 	                </div>
 	                <div class="currency-item__content">
 	                 <div class="currency-item__title">
@@ -6410,7 +6410,7 @@
 	         <div class="modal-transaction-icon modal-transaction-icon--canceled"></div>
 	        </div>
 	        <div class="modal-title-block">
-	         <div class="modal-title h2 modalTransactionAmount optimaDynamicAmount" data-module="transaction-balance" data-transaction-id="" data-mask="[amount]" data-round=""></div>
+	         <div class="modal-title h2 modalTransactionAmount OORA3DynamicAmount" data-module="transaction-balance" data-transaction-id="" data-mask="[amount]" data-round=""></div>
 	        </div>
 	        <div class="modal-transaction-status-block">
 	         <div class="modal-transaction-status modal-transaction-status--completed">
@@ -6456,7 +6456,7 @@
 	              <div class="modal-transaction-param-currency">
 	               <div class="currency-item">
 	                <div class="currency-icon">
-	                 <img class="image" data-src="https://optima.cc/assets/oora3/images/svg/currency/%5Bicon%5D.svg" alt="">
+	                 <img class="image" data-src="https://OORA3.cc/assets/oora3/images/svg/currency/%5Bicon%5D.svg" alt="">
 	                </div>
 	                <div class="currency-item__content">
 	                 <div class="currency-item__title">
@@ -6711,7 +6711,7 @@
 	         <div class="modal-transaction-icon modal-transaction-icon--canceled"></div>
 	        </div>
 	        <div class="modal-title-block">
-	         <div class="modal-title h2 modalTransactionAmount optimaDynamicAmount" data-module="transaction-balance" data-transaction-id="" data-mask="[amount]" data-round=""></div>
+	         <div class="modal-title h2 modalTransactionAmount OORA3DynamicAmount" data-module="transaction-balance" data-transaction-id="" data-mask="[amount]" data-round=""></div>
 	        </div>
 	        <div class="modal-transaction-status-block">
 	         <div class="modal-transaction-status modal-transaction-status--completed">
@@ -6757,7 +6757,7 @@
 	              <div class="modal-transaction-param-currency">
 	               <div class="currency-item">
 	                <div class="currency-icon">
-	                 <img class="image" data-src="https://optima.cc/assets/oora3/images/svg/currency/%5Bicon%5D.svg" alt="">
+	                 <img class="image" data-src="https://OORA3.cc/assets/oora3/images/svg/currency/%5Bicon%5D.svg" alt="">
 	                </div>
 	                <div class="currency-item__content">
 	                 <div class="currency-item__title">
@@ -7012,7 +7012,7 @@
 	         <div class="modal-transaction-icon modal-transaction-icon--canceled"></div>
 	        </div>
 	        <div class="modal-title-block">
-	         <div class="modal-title h2 modalTransactionAmount optimaDynamicAmount" data-module="transaction-balance" data-transaction-id="" data-mask="[amount]" data-round=""></div>
+	         <div class="modal-title h2 modalTransactionAmount OORA3DynamicAmount" data-module="transaction-balance" data-transaction-id="" data-mask="[amount]" data-round=""></div>
 	        </div>
 	        <div class="modal-transaction-status-block">
 	         <div class="modal-transaction-status modal-transaction-status--completed">
@@ -7058,7 +7058,7 @@
 	              <div class="modal-transaction-param-currency">
 	               <div class="currency-item">
 	                <div class="currency-icon">
-	                 <img class="image" data-src="https://optima.cc/assets/oora3/images/svg/currency/%5Bicon%5D.svg" alt="">
+	                 <img class="image" data-src="https://OORA3.cc/assets/oora3/images/svg/currency/%5Bicon%5D.svg" alt="">
 	                </div>
 	                <div class="currency-item__content">
 	                 <div class="currency-item__title">
@@ -7313,7 +7313,7 @@
 	         <div class="modal-transaction-icon modal-transaction-icon--canceled"></div>
 	        </div>
 	        <div class="modal-title-block">
-	         <div class="modal-title h2 modalTransactionAmount optimaDynamicAmount" data-module="transaction-balance" data-transaction-id="" data-mask="[amount]" data-round=""></div>
+	         <div class="modal-title h2 modalTransactionAmount OORA3DynamicAmount" data-module="transaction-balance" data-transaction-id="" data-mask="[amount]" data-round=""></div>
 	        </div>
 	        <div class="modal-transaction-status-block">
 	         <div class="modal-transaction-status modal-transaction-status--completed">
@@ -7359,7 +7359,7 @@
 	              <div class="modal-transaction-param-currency">
 	               <div class="currency-item">
 	                <div class="currency-icon">
-	                 <img class="image" data-src="https://optima.cc/assets/oora3/images/svg/currency/%5Bicon%5D.svg" alt="">
+	                 <img class="image" data-src="https://OORA3.cc/assets/oora3/images/svg/currency/%5Bicon%5D.svg" alt="">
 	                </div>
 	                <div class="currency-item__content">
 	                 <div class="currency-item__title">
@@ -7614,7 +7614,7 @@
 	         <div class="modal-transaction-icon modal-transaction-icon--canceled"></div>
 	        </div>
 	        <div class="modal-title-block">
-	         <div class="modal-title h2 modalTransactionAmount optimaDynamicAmount" data-module="transaction-balance" data-transaction-id="" data-mask="[amount]" data-round=""></div>
+	         <div class="modal-title h2 modalTransactionAmount OORA3DynamicAmount" data-module="transaction-balance" data-transaction-id="" data-mask="[amount]" data-round=""></div>
 	        </div>
 	        <div class="modal-transaction-status-block">
 	         <div class="modal-transaction-status modal-transaction-status--completed">
@@ -7660,7 +7660,7 @@
 	              <div class="modal-transaction-param-currency">
 	               <div class="currency-item">
 	                <div class="currency-icon">
-	                 <img class="image" data-src="https://optima.cc/assets/oora3/images/svg/currency/%5Bicon%5D.svg" alt="">
+	                 <img class="image" data-src="https://OORA3.cc/assets/oora3/images/svg/currency/%5Bicon%5D.svg" alt="">
 	                </div>
 	                <div class="currency-item__content">
 	                 <div class="currency-item__title">
@@ -7915,7 +7915,7 @@
 	         <div class="modal-transaction-icon modal-transaction-icon--canceled"></div>
 	        </div>
 	        <div class="modal-title-block">
-	         <div class="modal-title h2 modalTransactionAmount optimaDynamicAmount" data-module="transaction-balance" data-transaction-id="" data-mask="[amount]" data-round=""></div>
+	         <div class="modal-title h2 modalTransactionAmount OORA3DynamicAmount" data-module="transaction-balance" data-transaction-id="" data-mask="[amount]" data-round=""></div>
 	        </div>
 	        <div class="modal-transaction-status-block">
 	         <div class="modal-transaction-status modal-transaction-status--completed">
@@ -7961,7 +7961,7 @@
 	              <div class="modal-transaction-param-currency">
 	               <div class="currency-item">
 	                <div class="currency-icon">
-	                 <img class="image" data-src="https://optima.cc/assets/oora3/images/svg/currency/%5Bicon%5D.svg" alt="">
+	                 <img class="image" data-src="https://OORA3.cc/assets/oora3/images/svg/currency/%5Bicon%5D.svg" alt="">
 	                </div>
 	                <div class="currency-item__content">
 	                 <div class="currency-item__title">
@@ -8216,7 +8216,7 @@
 	         <div class="modal-transaction-icon modal-transaction-icon--canceled"></div>
 	        </div>
 	        <div class="modal-title-block">
-	         <div class="modal-title h2 modalTransactionAmount optimaDynamicAmount" data-module="transaction-balance" data-transaction-id="" data-mask="[amount]" data-round=""></div>
+	         <div class="modal-title h2 modalTransactionAmount OORA3DynamicAmount" data-module="transaction-balance" data-transaction-id="" data-mask="[amount]" data-round=""></div>
 	        </div>
 	        <div class="modal-transaction-status-block">
 	         <div class="modal-transaction-status modal-transaction-status--completed">
@@ -8262,7 +8262,7 @@
 	              <div class="modal-transaction-param-currency">
 	               <div class="currency-item">
 	                <div class="currency-icon">
-	                 <img class="image" data-src="https://optima.cc/assets/oora3/images/svg/currency/%5Bicon%5D.svg" alt="">
+	                 <img class="image" data-src="https://OORA3.cc/assets/oora3/images/svg/currency/%5Bicon%5D.svg" alt="">
 	                </div>
 	                <div class="currency-item__content">
 	                 <div class="currency-item__title">
@@ -8517,7 +8517,7 @@
 	         <div class="modal-transaction-icon modal-transaction-icon--canceled"></div>
 	        </div>
 	        <div class="modal-title-block">
-	         <div class="modal-title h2 modalTransactionAmount optimaDynamicAmount" data-module="transaction-balance" data-transaction-id="" data-mask="[amount]" data-round=""></div>
+	         <div class="modal-title h2 modalTransactionAmount OORA3DynamicAmount" data-module="transaction-balance" data-transaction-id="" data-mask="[amount]" data-round=""></div>
 	        </div>
 	        <div class="modal-transaction-status-block">
 	         <div class="modal-transaction-status modal-transaction-status--completed">
@@ -8563,7 +8563,7 @@
 	              <div class="modal-transaction-param-currency">
 	               <div class="currency-item">
 	                <div class="currency-icon">
-	                 <img class="image" data-src="https://optima.cc/assets/oora3/images/svg/currency/%5Bicon%5D.svg" alt="">
+	                 <img class="image" data-src="https://OORA3.cc/assets/oora3/images/svg/currency/%5Bicon%5D.svg" alt="">
 	                </div>
 	                <div class="currency-item__content">
 	                 <div class="currency-item__title">
@@ -8805,7 +8805,7 @@
 		
 	
 	
-	<div class="modal custom-modal fade modal--repay-loan" id="optimaLoanRepay" tabindex="-1" aria-hidden="true">
+	<div class="modal custom-modal fade modal--repay-loan" id="OORA3LoanRepay" tabindex="-1" aria-hidden="true">
 	   <div class="modal-dialog modal-dialog-centered">
 	    <div class="modal-content-block">
 	     <div class="modal-content">
@@ -8818,7 +8818,7 @@
 	         <div class="modal-currency-heading">
 	          <div class="modal-currency-heading__icon">
 	           <div class="currency-icon currency-icon--usdt">
-	            <img class="image" data-src="https://optima.cc/assets/oora3/images/svg/currency/%5Bicon%5D.svg" alt="">
+	            <img class="image" data-src="https://OORA3.cc/assets/oora3/images/svg/currency/%5Bicon%5D.svg" alt="">
 	           </div>
 	          </div>
 	          <div class="modal-currency-heading__content">
@@ -8847,7 +8847,7 @@
 	              </div>
 	              <div class="loan-item-param__right">
 	               <div class="loan-item-param__value ">
-	                <div class="loan-item-param__value__amount optimaLoanRepayAmount">
+	                <div class="loan-item-param__value__amount OORA3LoanRepayAmount">
 	                 
 	                </div>
 	               </div>
@@ -8863,7 +8863,7 @@
 	              </div>
 	              <div class="loan-item-param__right">
 	               <div class="loan-item-param__value">
-	                <div class="loan-item-param__value__amount optimaLoanRepayPayAmount">
+	                <div class="loan-item-param__value__amount OORA3LoanRepayPayAmount">
 	                 
 	                </div>
 	               </div>
@@ -8879,7 +8879,7 @@
 	              </div>
 	              <div class="loan-item-param__right">
 	               <div class="loan-item-param__value">
-	                <div class="loan-item-param__value__amount optimaLoanRepayAmountCol">
+	                <div class="loan-item-param__value__amount OORA3LoanRepayAmountCol">
 	                 
 	                </div>
 	               </div>
@@ -8940,7 +8940,7 @@
 	         <div class="modal-currency-heading">
 	          <div class="modal-currency-heading__icon">
 	           <div class="currency-icon">
-	            <img class="image" data-src="https://optima.cc/assets/oora3/images/svg/currency/%5Bicon%5D.svg" alt="">
+	            <img class="image" data-src="https://OORA3.cc/assets/oora3/images/svg/currency/%5Bicon%5D.svg" alt="">
 	           </div>
 	          </div>
 	          <div class="modal-currency-heading__content">
@@ -9038,58 +9038,58 @@
 	            <div class="form-amount__bottom">
 	             <div class="form-amount__bottom-left">
 	              							<div class="form-amount__available d-none" data-module="user-balance" data-currency="usdt" style="font-size:12px;">
-								Available: <span class="optimaDynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
+								Available: <span class="OORA3DynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
 							</div>
 				  							<div class="form-amount__available d-none" data-module="user-balance" data-currency="usdc" style="font-size:12px;">
-								Available: <span class="optimaDynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
+								Available: <span class="OORA3DynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
 							</div>
 				  							<div class="form-amount__available d-none" data-module="user-balance" data-currency="btc" style="font-size:12px;">
-								Available: <span class="optimaDynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
+								Available: <span class="OORA3DynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
 							</div>
 				  							<div class="form-amount__available d-none" data-module="user-balance" data-currency="eth" style="font-size:12px;">
-								Available: <span class="optimaDynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
+								Available: <span class="OORA3DynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
 							</div>
 				  							<div class="form-amount__available d-none" data-module="user-balance" data-currency="bnb" style="font-size:12px;">
-								Available: <span class="optimaDynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
+								Available: <span class="OORA3DynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
 							</div>
 				  							<div class="form-amount__available d-none" data-module="user-balance" data-currency="sol" style="font-size:12px;">
-								Available: <span class="optimaDynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
+								Available: <span class="OORA3DynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
 							</div>
 				  							<div class="form-amount__available d-none" data-module="user-balance" data-currency="dot" style="font-size:12px;">
-								Available: <span class="optimaDynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
+								Available: <span class="OORA3DynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
 							</div>
 				  							<div class="form-amount__available d-none" data-module="user-balance" data-currency="ltc" style="font-size:12px;">
-								Available: <span class="optimaDynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
+								Available: <span class="OORA3DynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
 							</div>
 				  							<div class="form-amount__available d-none" data-module="user-balance" data-currency="doge" style="font-size:12px;">
-								Available: <span class="optimaDynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
+								Available: <span class="OORA3DynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
 							</div>
 				  							<div class="form-amount__available d-none" data-module="user-balance" data-currency="trx" style="font-size:12px;">
-								Available: <span class="optimaDynamicAmount text--green" data-mask="[amount]" data-round="6" data-type="currency"></span>
+								Available: <span class="OORA3DynamicAmount text--green" data-mask="[amount]" data-round="6" data-type="currency"></span>
 							</div>
 				  							<div class="form-amount__available d-none" data-module="user-balance" data-currency="xlm" style="font-size:12px;">
-								Available: <span class="optimaDynamicAmount text--green" data-mask="[amount]" data-round="7" data-type="currency"></span>
+								Available: <span class="OORA3DynamicAmount text--green" data-mask="[amount]" data-round="7" data-type="currency"></span>
 							</div>
 				  							<div class="form-amount__available d-none" data-module="user-balance" data-currency="xrp" style="font-size:12px;">
-								Available: <span class="optimaDynamicAmount text--green" data-mask="[amount]" data-round="6" data-type="currency"></span>
+								Available: <span class="OORA3DynamicAmount text--green" data-mask="[amount]" data-round="6" data-type="currency"></span>
 							</div>
 				  							<div class="form-amount__available d-none" data-module="user-balance" data-currency="ada" style="font-size:12px;">
-								Available: <span class="optimaDynamicAmount text--green" data-mask="[amount]" data-round="6" data-type="currency"></span>
+								Available: <span class="OORA3DynamicAmount text--green" data-mask="[amount]" data-round="6" data-type="currency"></span>
 							</div>
 				  							<div class="form-amount__available d-none" data-module="user-balance" data-currency="bch" style="font-size:12px;">
-								Available: <span class="optimaDynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
+								Available: <span class="OORA3DynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
 							</div>
 				  							<div class="form-amount__available d-none" data-module="user-balance" data-currency="link" style="font-size:12px;">
-								Available: <span class="optimaDynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
+								Available: <span class="OORA3DynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
 							</div>
 				  							<div class="form-amount__available d-none" data-module="user-balance" data-currency="pol" style="font-size:12px;">
-								Available: <span class="optimaDynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
+								Available: <span class="OORA3DynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
 							</div>
 				  	             </div>
 	             <div class="form-amount__bottom-right">
 	
 	              <div class="top-up-balance-button-block">
-	               <button type="button" class="top-up-balance-button optimaDepositButton" >
+	               <button type="button" class="top-up-balance-button OORA3DepositButton" >
 		                 <div class="top-up-balance-button__icon">
 		                 </div>
 		                 <div class="top-up-balance-button__text">
@@ -9367,7 +9367,7 @@
 		          <div class="modal-currency-heading">
 		           <div class="modal-currency-heading__icon">
 		            <div class="currency-icon">
-		             <img class="image" data-src="https://optima.cc/assets/oora3/images/svg/currency/%5Bicon%5D.svg" alt="">
+		             <img class="image" data-src="https://OORA3.cc/assets/oora3/images/svg/currency/%5Bicon%5D.svg" alt="">
 		            </div>
 		           </div>
 		           <div class="modal-currency-heading__content">
@@ -9407,58 +9407,58 @@
 		             <div class="form-amount__bottom">
 		              <div class="form-amount__bottom-left">
 		               							<div class="form-amount__available d-none" data-module="user-balance" data-currency="usdt" style="font-size:12px;">
-								Available: <span class="optimaDynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
+								Available: <span class="OORA3DynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
 							</div>
 														<div class="form-amount__available d-none" data-module="user-balance" data-currency="usdc" style="font-size:12px;">
-								Available: <span class="optimaDynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
+								Available: <span class="OORA3DynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
 							</div>
 														<div class="form-amount__available d-none" data-module="user-balance" data-currency="btc" style="font-size:12px;">
-								Available: <span class="optimaDynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
+								Available: <span class="OORA3DynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
 							</div>
 														<div class="form-amount__available d-none" data-module="user-balance" data-currency="eth" style="font-size:12px;">
-								Available: <span class="optimaDynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
+								Available: <span class="OORA3DynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
 							</div>
 														<div class="form-amount__available d-none" data-module="user-balance" data-currency="bnb" style="font-size:12px;">
-								Available: <span class="optimaDynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
+								Available: <span class="OORA3DynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
 							</div>
 														<div class="form-amount__available d-none" data-module="user-balance" data-currency="sol" style="font-size:12px;">
-								Available: <span class="optimaDynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
+								Available: <span class="OORA3DynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
 							</div>
 														<div class="form-amount__available d-none" data-module="user-balance" data-currency="dot" style="font-size:12px;">
-								Available: <span class="optimaDynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
+								Available: <span class="OORA3DynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
 							</div>
 														<div class="form-amount__available d-none" data-module="user-balance" data-currency="ltc" style="font-size:12px;">
-								Available: <span class="optimaDynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
+								Available: <span class="OORA3DynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
 							</div>
 														<div class="form-amount__available d-none" data-module="user-balance" data-currency="doge" style="font-size:12px;">
-								Available: <span class="optimaDynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
+								Available: <span class="OORA3DynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
 							</div>
 														<div class="form-amount__available d-none" data-module="user-balance" data-currency="trx" style="font-size:12px;">
-								Available: <span class="optimaDynamicAmount text--green" data-mask="[amount]" data-round="6" data-type="currency"></span>
+								Available: <span class="OORA3DynamicAmount text--green" data-mask="[amount]" data-round="6" data-type="currency"></span>
 							</div>
 														<div class="form-amount__available d-none" data-module="user-balance" data-currency="xlm" style="font-size:12px;">
-								Available: <span class="optimaDynamicAmount text--green" data-mask="[amount]" data-round="7" data-type="currency"></span>
+								Available: <span class="OORA3DynamicAmount text--green" data-mask="[amount]" data-round="7" data-type="currency"></span>
 							</div>
 														<div class="form-amount__available d-none" data-module="user-balance" data-currency="xrp" style="font-size:12px;">
-								Available: <span class="optimaDynamicAmount text--green" data-mask="[amount]" data-round="6" data-type="currency"></span>
+								Available: <span class="OORA3DynamicAmount text--green" data-mask="[amount]" data-round="6" data-type="currency"></span>
 							</div>
 														<div class="form-amount__available d-none" data-module="user-balance" data-currency="ada" style="font-size:12px;">
-								Available: <span class="optimaDynamicAmount text--green" data-mask="[amount]" data-round="6" data-type="currency"></span>
+								Available: <span class="OORA3DynamicAmount text--green" data-mask="[amount]" data-round="6" data-type="currency"></span>
 							</div>
 														<div class="form-amount__available d-none" data-module="user-balance" data-currency="bch" style="font-size:12px;">
-								Available: <span class="optimaDynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
+								Available: <span class="OORA3DynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
 							</div>
 														<div class="form-amount__available d-none" data-module="user-balance" data-currency="link" style="font-size:12px;">
-								Available: <span class="optimaDynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
+								Available: <span class="OORA3DynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
 							</div>
 														<div class="form-amount__available d-none" data-module="user-balance" data-currency="pol" style="font-size:12px;">
-								Available: <span class="optimaDynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
+								Available: <span class="OORA3DynamicAmount text--green" data-mask="[amount]" data-round="8" data-type="currency"></span>
 							</div>
 									              </div>
 		              <div class="form-amount__bottom-right">
 		
 		               <div class="top-up-balance-button-block">
-		                <button type="button" class="top-up-balance-button optimaDepositButton" >
+		                <button type="button" class="top-up-balance-button OORA3DepositButton" >
 		                 <div class="top-up-balance-button__icon">
 		                 </div>
 		                 <div class="top-up-balance-button__text">
@@ -9701,7 +9701,7 @@
 		          <div class="modal-currency-heading">
 		           <div class="modal-currency-heading__icon">
 		            <div class="currency-icon">
-		             <img class="image" data-src="https://optima.cc/assets/oora3/images/svg/currency/%5Bicon%5D.svg" alt="">
+		             <img class="image" data-src="https://OORA3.cc/assets/oora3/images/svg/currency/%5Bicon%5D.svg" alt="">
 		            </div>
 		           </div>
 		           <div class="modal-currency-heading__content">
@@ -9960,7 +9960,7 @@
 									<div class="modal-currency-heading">
 										<div class="modal-currency-heading__icon">
 											<div class="currency-icon">
-												<img class="image" src="" data-src="https://optima.cc/assets/oora3/images/svg/currency/%5Bicon%5D.svg" alt="">
+												<img class="image" src="" data-src="https://OORA3.cc/assets/oora3/images/svg/currency/%5Bicon%5D.svg" alt="">
 											</div>
 										</div>
 										<div class="modal-currency-heading__content">
@@ -10567,52 +10567,52 @@
 													<div class="form-amount__bottom">
 														<div class="form-amount__bottom-left">
 																									                    <div class="form-amount__available form-amount__available--dark-grey d-none" data-module="user-balance" data-currency="usdt" style="font-size:12px;">
-										                     Available: <span class="optimaDynamicAmount" data-mask="[amount]" data-round="8" data-type="currency"></span>
+										                     Available: <span class="OORA3DynamicAmount" data-mask="[amount]" data-round="8" data-type="currency"></span>
 										                    </div>
 										                    										                    <div class="form-amount__available form-amount__available--dark-grey d-none" data-module="user-balance" data-currency="usdc" style="font-size:12px;">
-										                     Available: <span class="optimaDynamicAmount" data-mask="[amount]" data-round="8" data-type="currency"></span>
+										                     Available: <span class="OORA3DynamicAmount" data-mask="[amount]" data-round="8" data-type="currency"></span>
 										                    </div>
 										                    										                    <div class="form-amount__available form-amount__available--dark-grey d-none" data-module="user-balance" data-currency="btc" style="font-size:12px;">
-										                     Available: <span class="optimaDynamicAmount" data-mask="[amount]" data-round="8" data-type="currency"></span>
+										                     Available: <span class="OORA3DynamicAmount" data-mask="[amount]" data-round="8" data-type="currency"></span>
 										                    </div>
 										                    										                    <div class="form-amount__available form-amount__available--dark-grey d-none" data-module="user-balance" data-currency="eth" style="font-size:12px;">
-										                     Available: <span class="optimaDynamicAmount" data-mask="[amount]" data-round="8" data-type="currency"></span>
+										                     Available: <span class="OORA3DynamicAmount" data-mask="[amount]" data-round="8" data-type="currency"></span>
 										                    </div>
 										                    										                    <div class="form-amount__available form-amount__available--dark-grey d-none" data-module="user-balance" data-currency="bnb" style="font-size:12px;">
-										                     Available: <span class="optimaDynamicAmount" data-mask="[amount]" data-round="8" data-type="currency"></span>
+										                     Available: <span class="OORA3DynamicAmount" data-mask="[amount]" data-round="8" data-type="currency"></span>
 										                    </div>
 										                    										                    <div class="form-amount__available form-amount__available--dark-grey d-none" data-module="user-balance" data-currency="sol" style="font-size:12px;">
-										                     Available: <span class="optimaDynamicAmount" data-mask="[amount]" data-round="8" data-type="currency"></span>
+										                     Available: <span class="OORA3DynamicAmount" data-mask="[amount]" data-round="8" data-type="currency"></span>
 										                    </div>
 										                    										                    <div class="form-amount__available form-amount__available--dark-grey d-none" data-module="user-balance" data-currency="dot" style="font-size:12px;">
-										                     Available: <span class="optimaDynamicAmount" data-mask="[amount]" data-round="8" data-type="currency"></span>
+										                     Available: <span class="OORA3DynamicAmount" data-mask="[amount]" data-round="8" data-type="currency"></span>
 										                    </div>
 										                    										                    <div class="form-amount__available form-amount__available--dark-grey d-none" data-module="user-balance" data-currency="ltc" style="font-size:12px;">
-										                     Available: <span class="optimaDynamicAmount" data-mask="[amount]" data-round="8" data-type="currency"></span>
+										                     Available: <span class="OORA3DynamicAmount" data-mask="[amount]" data-round="8" data-type="currency"></span>
 										                    </div>
 										                    										                    <div class="form-amount__available form-amount__available--dark-grey d-none" data-module="user-balance" data-currency="doge" style="font-size:12px;">
-										                     Available: <span class="optimaDynamicAmount" data-mask="[amount]" data-round="8" data-type="currency"></span>
+										                     Available: <span class="OORA3DynamicAmount" data-mask="[amount]" data-round="8" data-type="currency"></span>
 										                    </div>
 										                    										                    <div class="form-amount__available form-amount__available--dark-grey d-none" data-module="user-balance" data-currency="trx" style="font-size:12px;">
-										                     Available: <span class="optimaDynamicAmount" data-mask="[amount]" data-round="6" data-type="currency"></span>
+										                     Available: <span class="OORA3DynamicAmount" data-mask="[amount]" data-round="6" data-type="currency"></span>
 										                    </div>
 										                    										                    <div class="form-amount__available form-amount__available--dark-grey d-none" data-module="user-balance" data-currency="xlm" style="font-size:12px;">
-										                     Available: <span class="optimaDynamicAmount" data-mask="[amount]" data-round="7" data-type="currency"></span>
+										                     Available: <span class="OORA3DynamicAmount" data-mask="[amount]" data-round="7" data-type="currency"></span>
 										                    </div>
 										                    										                    <div class="form-amount__available form-amount__available--dark-grey d-none" data-module="user-balance" data-currency="xrp" style="font-size:12px;">
-										                     Available: <span class="optimaDynamicAmount" data-mask="[amount]" data-round="6" data-type="currency"></span>
+										                     Available: <span class="OORA3DynamicAmount" data-mask="[amount]" data-round="6" data-type="currency"></span>
 										                    </div>
 										                    										                    <div class="form-amount__available form-amount__available--dark-grey d-none" data-module="user-balance" data-currency="ada" style="font-size:12px;">
-										                     Available: <span class="optimaDynamicAmount" data-mask="[amount]" data-round="6" data-type="currency"></span>
+										                     Available: <span class="OORA3DynamicAmount" data-mask="[amount]" data-round="6" data-type="currency"></span>
 										                    </div>
 										                    										                    <div class="form-amount__available form-amount__available--dark-grey d-none" data-module="user-balance" data-currency="bch" style="font-size:12px;">
-										                     Available: <span class="optimaDynamicAmount" data-mask="[amount]" data-round="8" data-type="currency"></span>
+										                     Available: <span class="OORA3DynamicAmount" data-mask="[amount]" data-round="8" data-type="currency"></span>
 										                    </div>
 										                    										                    <div class="form-amount__available form-amount__available--dark-grey d-none" data-module="user-balance" data-currency="link" style="font-size:12px;">
-										                     Available: <span class="optimaDynamicAmount" data-mask="[amount]" data-round="8" data-type="currency"></span>
+										                     Available: <span class="OORA3DynamicAmount" data-mask="[amount]" data-round="8" data-type="currency"></span>
 										                    </div>
 										                    										                    <div class="form-amount__available form-amount__available--dark-grey d-none" data-module="user-balance" data-currency="pol" style="font-size:12px;">
-										                     Available: <span class="optimaDynamicAmount" data-mask="[amount]" data-round="8" data-type="currency"></span>
+										                     Available: <span class="OORA3DynamicAmount" data-mask="[amount]" data-round="8" data-type="currency"></span>
 										                    </div>
 										                    														</div>
 														<div class="form-amount__bottom-right">
@@ -10657,7 +10657,7 @@
 										<div class="modal-dep-addr-heading__right">
 											<div class="modal-dep-addr-heading__icon">
 												<div class="currency-icon">
-													<img class="image" data-src="https://optima.cc/assets/oora3/images/svg/currency/%5Bicon%5D.svg" alt="">
+													<img class="image" data-src="https://OORA3.cc/assets/oora3/images/svg/currency/%5Bicon%5D.svg" alt="">
 												</div>
 											</div>
 											<div class="modal-dep-addr-heading__content">
@@ -10776,7 +10776,7 @@
 		         <div class="modal-currency-heading">
 		          <div class="modal-currency-heading__icon">
 		           <div class="currency-icon">
-			           <img class="image" src="" data-src="https://optima.cc/assets/oora3/images/svg/currency/%5Bicon%5D.svg" alt="">
+			           <img class="image" src="" data-src="https://OORA3.cc/assets/oora3/images/svg/currency/%5Bicon%5D.svg" alt="">
 		           </div>
 		          </div>
 		          <div class="modal-currency-heading__content">
@@ -12256,11 +12256,11 @@
 						<div class="modal-body">
 							<div class="modal-body-content">
 								<div class="modal-title-block">
-									<div class="modal-title h2">Download Optima App</div>
+									<div class="modal-title h2">Download OORA3 App</div>
 								</div>
 								<div class="modal-descr-block">
 									<div class="modal-descr">
-										Download the official Optima desktop app and improve your experience with ecosystem products.
+										Download the official OORA3 desktop app and improve your experience with ecosystem products.
 									</div>
 								</div>
 								<div class="modal-download-app-list-block">
@@ -12388,7 +12388,7 @@
 														</div>
 														<div class="front-policy-item__content">
 															<p>
-																This Cookie Policy is issued by the OPTIMA Transnational Group of Companies, including: Optima Co PTY LTD, Optima Business Limited and Optima Business Growth LTD and describes which cookies and similar technologies for analytics and personalization are used on the website and in mobile applications (or similarly integrated software in third-party apps) of the Group as part of the provision of custodial, investment and other credit and financial services.
+																This Cookie Policy is issued by the OORA3 Transnational Group of Companies, including: OORA3 Co PTY LTD, OORA3 Business Limited and OORA3 Business Growth LTD and describes which cookies and similar technologies for analytics and personalization are used on the website and in mobile applications (or similarly integrated software in third-party apps) of the Group as part of the provision of custodial, investment and other credit and financial services.
 															</p>
 														</div>
 													</div>
@@ -12506,7 +12506,7 @@
 																	<div class="system-message__icon"></div>
 																	<div class="system-message__content">
 																		<div class="system-message__text">
-																			OPTIMA Group of Companies complies with transparency and fair processing requirements by strictly minimizing the amount of personal data processed via cookies, utilizing data pseudonymization, tracking control tools, and data encryption during transmission and storage, as well as entering into high-quality SLA/DSA contracts with third-party service providers that include necessary requirements for the deletion and secure transfer of user data.
+																			OORA3 Group of Companies complies with transparency and fair processing requirements by strictly minimizing the amount of personal data processed via cookies, utilizing data pseudonymization, tracking control tools, and data encryption during transmission and storage, as well as entering into high-quality SLA/DSA contracts with third-party service providers that include necessary requirements for the deletion and secure transfer of user data.
 																		</div>
 																	</div>
 																</div>
@@ -12528,7 +12528,7 @@
 																If you have any questions about this document, please contact us
 															</p>
 															<div class="front-policy-mail-block">
-																<a href="https://optima.cc/cdn-cgi/l/email-protection#563e333a26163926223f3b37783535" class="front-policy-mail">
+																<a href="https://OORA3.cc/cdn-cgi/l/email-protection#563e333a26163926223f3b37783535" class="front-policy-mail">
 																	<div class="front-policy-mail__icon"></div>
 																	<div class="front-policy-mail__text">
 																		<span class="__cf_email__" data-cfemail="036b666f73436c73776a6e622d6060">[email&#160;protected]</span></div>
@@ -12606,10 +12606,10 @@
 														</div>
 														<div class="front-policy-item__content">
 															<p>
-																This User Agreement and related documents govern the relations between the User and the OPTIMA Transnational Group of Companies, including: Optima Co PTY LTD, Optima Business Limited and Optima Business Growth LTD, which provide custodial, investment and other credit and financial services. By using the website, mobile applications, API, participating in a promotional campaign, or otherwise interacting with the business lines and products of the Group in online or offline formats, the User fully and irrevocably accepts the terms of this Agreement.
+																This User Agreement and related documents govern the relations between the User and the OORA3 Transnational Group of Companies, including: OORA3 Co PTY LTD, OORA3 Business Limited and OORA3 Business Growth LTD, which provide custodial, investment and other credit and financial services. By using the website, mobile applications, API, participating in a promotional campaign, or otherwise interacting with the business lines and products of the Group in online or offline formats, the User fully and irrevocably accepts the terms of this Agreement.
 															</p>
 															<p>
-																The Agreement shall be governed by the applicable laws of the jurisdictions specified in the registration documents of the companies included in the OPTIMA Group. In the event of reorganization of the applicable legislation, the Group reserves the right to amend the terms and conditions of the services offered to comply with the new requirements without prior notice.
+																The Agreement shall be governed by the applicable laws of the jurisdictions specified in the registration documents of the companies included in the OORA3 Group. In the event of reorganization of the applicable legislation, the Group reserves the right to amend the terms and conditions of the services offered to comply with the new requirements without prior notice.
 															</p>
 														</div>
 													</div>
@@ -12625,13 +12625,13 @@
 														<div class="front-policy-item__content">
 															<ul>
 																<li>
-																	<b>Optima Co PTY LTD</b>: Australian Company Number 690 051 677, Australian Business Number 71 690 051 677, issued by the Australian Taxation Office. Jurisdictional requirements, including legal standards, corporate governance, reporting, audit, and consumer protection from misleading practices in financial services, are governed by the Corporations Act 2001 under the supervision of the Australian Securities & Investments Commission (ASIC). Located in Southport QLD 4215, Australia.
+																	<b>OORA3 Co PTY LTD</b>: Australian Company Number 690 051 677, Australian Business Number 71 690 051 677, issued by the Australian Taxation Office. Jurisdictional requirements, including legal standards, corporate governance, reporting, audit, and consumer protection from misleading practices in financial services, are governed by the Corporations Act 2001 under the supervision of the Australian Securities & Investments Commission (ASIC). Located in Southport QLD 4215, Australia.
 																</li>
 																<li>
-																	<b>Optima Business Limited</b>: Business Registration Number 79118927 in the Companies Registry issued by the Hong Kong Inland Revenue Department. Regulatory requirements regarding corporate governance, share capital, annual financial statements, statutory audits, compliance procedures, and other legislative obligations are stipulated under the Companies Ordinance (Cap. 622). Local Office: Room 701, 7/F, Lucky Centre, 165-171 Wanchai Road, Wan Chai, Hong Kong.
+																	<b>OORA3 Business Limited</b>: Business Registration Number 79118927 in the Companies Registry issued by the Hong Kong Inland Revenue Department. Regulatory requirements regarding corporate governance, share capital, annual financial statements, statutory audits, compliance procedures, and other legislative obligations are stipulated under the Companies Ordinance (Cap. 622). Local Office: Room 701, 7/F, Lucky Centre, 165-171 Wanchai Road, Wan Chai, Hong Kong.
 																</li>
 																<li>
-																	<b>Optima Business Growth LTD</b>: Company number 16864023 in Companies House. In conjunction with the jurisdictional requirements of the Consumer Rights Act in the area of ​​regulation of relations between businesses and consumers in the UK, the organization fully complies with the corporate law standards of the Companies Act 2006 with existing corporate control and liability mechanisms, compliance procedures, approval of payment transactions and disclosure of information, as well as regular reporting and mandatory financial audits. The company is registered at 23 Forrester Way, London, England E15 1GN.
+																	<b>OORA3 Business Growth LTD</b>: Company number 16864023 in Companies House. In conjunction with the jurisdictional requirements of the Consumer Rights Act in the area of ​​regulation of relations between businesses and consumers in the UK, the organization fully complies with the corporate law standards of the Companies Act 2006 with existing corporate control and liability mechanisms, compliance procedures, approval of payment transactions and disclosure of information, as well as regular reporting and mandatory financial audits. The company is registered at 23 Forrester Way, London, England E15 1GN.
 																</li>
 															</ul>
 
@@ -12646,12 +12646,12 @@
 														<div class="front-policy-item__top">
 															<div class="front-policy-item__count">03</div>
 															<div class="front-policy-item__title">
-																Optima Services
+																OORA3 Services
 															</div>
 														</div>
 														<div class="front-policy-item__content">
 															<p>
-																OPTIMA, through its own services, related products, partner services, and third-party counterparties, provides users with a variety of financial services, from custodial services and consumer investment solutions based on algorithmic and AI technologies to opening credit lines secured by crypto assets and providing access to other fintech products. The Group reserves the right to charge fees for providing such services, introduce additional service charges, establish special collateral requirements (LTV ratios and margin thresholds), liquidate collateral positions when the value of the crypto-collateral decreases, or require additional collateral.
+																OORA3, through its own services, related products, partner services, and third-party counterparties, provides users with a variety of financial services, from custodial services and consumer investment solutions based on algorithmic and AI technologies to opening credit lines secured by crypto assets and providing access to other fintech products. The Group reserves the right to charge fees for providing such services, introduce additional service charges, establish special collateral requirements (LTV ratios and margin thresholds), liquidate collateral positions when the value of the crypto-collateral decreases, or require additional collateral.
 															</p>
 
 														</div>
@@ -12671,7 +12671,7 @@
 														</div>
 														<div class="front-policy-item__content">
 															<p>
-																Access to OPTIMA services is provided without any guarantees of accuracy, completeness, continuity, or any other guarantees of profitability. The Group shall not be liable for loss of profits or any indirect, incidental, or other damages of the user to the maximum extent permitted by law. Detailed information on potential risks, rights of withdrawal, limitations of liability and the Group's Risk Management Policy is provided in the <a href="risk-warning/index.html">Risk Disclosure</a> and Scope of Liability. The <a href="risk-warning/index.html">Risk Disclosure</a> also includes user recommendations and applicability guidelines.
+																Access to OORA3 services is provided without any guarantees of accuracy, completeness, continuity, or any other guarantees of profitability. The Group shall not be liable for loss of profits or any indirect, incidental, or other damages of the user to the maximum extent permitted by law. Detailed information on potential risks, rights of withdrawal, limitations of liability and the Group's Risk Management Policy is provided in the <a href="risk-warning/index.html">Risk Disclosure</a> and Scope of Liability. The <a href="risk-warning/index.html">Risk Disclosure</a> also includes user recommendations and applicability guidelines.
 															</p>
 															<div class="system-message-block">
 																<div
@@ -12679,7 +12679,7 @@
 																	<div class="system-message__icon"></div>
 																	<div class="system-message__content">
 																		<div class="system-message__text">
-																			Despite the defined scope of liability, the Group implements sufficient technical and organizational measures to minimize investment risks and ensure the resilience of the OPTIMA infrastructure, as well as the protection of funds, payment transactions, and data: access control procedures, segregation of duties, cold storage of keys, multi-signature solutions, hardware security modules (HSM), data encryption, regular vulnerability testing, and an incident management program.
+																			Despite the defined scope of liability, the Group implements sufficient technical and organizational measures to minimize investment risks and ensure the resilience of the OORA3 infrastructure, as well as the protection of funds, payment transactions, and data: access control procedures, segregation of duties, cold storage of keys, multi-signature solutions, hardware security modules (HSM), data encryption, regular vulnerability testing, and an incident management program.
 																		</div>
 																	</div>
 																</div>
@@ -12689,7 +12689,7 @@
 																	<div class="system-message__icon"></div>
 																	<div class="system-message__content">
 																		<div class="system-message__text">
-																			The Group shall not be liable for failure to fulfill obligations due to the occurrence of force majeure events, including: natural disasters, military actions, epidemics, government bans, embargoes, major failures in network infrastructure, power outages and other extraordinary and unavoidable circumstances beyond the reasonable control of the OPTIMA Group of Companies.
+																			The Group shall not be liable for failure to fulfill obligations due to the occurrence of force majeure events, including: natural disasters, military actions, epidemics, government bans, embargoes, major failures in network infrastructure, power outages and other extraordinary and unavoidable circumstances beyond the reasonable control of the OORA3 Group of Companies.
 																		</div>
 																	</div>
 																</div>
@@ -12713,7 +12713,7 @@
 														<div class="front-policy-item__content">
 															
 															<p>
-																All media content posted on behalf of OPTIMA on its own website, mobile app, social media, third-party services, or published by partners under fair use is the exclusive property of the Group or its licensors and is protected under applicable intellectual property laws. Such content includes text, images, videos, designs, logos, trademarks, software, interfaces, documentation, analytical materials, investment research, related materials, etc. Any copying, reproduction, modification, or distribution of OPTIMA materials in any manner other than as provided for in this Agreement without the prior written consent of the Group, is prohibited.
+																All media content posted on behalf of OORA3 on its own website, mobile app, social media, third-party services, or published by partners under fair use is the exclusive property of the Group or its licensors and is protected under applicable intellectual property laws. Such content includes text, images, videos, designs, logos, trademarks, software, interfaces, documentation, analytical materials, investment research, related materials, etc. Any copying, reproduction, modification, or distribution of OORA3 materials in any manner other than as provided for in this Agreement without the prior written consent of the Group, is prohibited.
 															</p>
 														</div>
 													</div>
@@ -12735,7 +12735,7 @@
 														<div class="front-policy-item__content">
 															
 															<p>
-																Personal data processing is carried out in accordance with the corporate <a href="privacy-policy/index.html">Privacy Policy</a> and <a href="index.html">Cookie Policy</a>. These documents detail how the Group collects, uses, and stores personal and non-personal information about its clients, which legislative acts and initiatives regulate the processing of such data, and how OPTIMA protects sensitive user information within the scope of providing custodial, investment, and other credit and financial services.
+																Personal data processing is carried out in accordance with the corporate <a href="privacy-policy/index.html">Privacy Policy</a> and <a href="index.html">Cookie Policy</a>. These documents detail how the Group collects, uses, and stores personal and non-personal information about its clients, which legislative acts and initiatives regulate the processing of such data, and how OORA3 protects sensitive user information within the scope of providing custodial, investment, and other credit and financial services.
 															</p>
 														</div>
 													</div>
@@ -12753,7 +12753,7 @@
 														<div class="front-policy-item__content">
 															
 															<p>
-																The User confirms their legal capacity and that they have reached the age of majority (18 years or older, or another age according to local legislation), and undertakes to provide true, accurate, and up-to-date data required for interaction with OPTIMA. The User shall ensure the confidentiality of their credentials and immediately notify the consulting department of any loss of access or unauthorized login
+																The User confirms their legal capacity and that they have reached the age of majority (18 years or older, or another age according to local legislation), and undertakes to provide true, accurate, and up-to-date data required for interaction with OORA3. The User shall ensure the confidentiality of their credentials and immediately notify the consulting department of any loss of access or unauthorized login
 															</p>
 														</div>
 													</div>
@@ -12774,7 +12774,7 @@
 														</div>
 														<div class="front-policy-item__content">
 															<p>
-																The Group reserves the right to refuse service, restrict account functionality, or terminate the relationship unilaterally in the event of a breach of Agreement terms, regulatory requirements, suspicion of fraud, attempts to circumvent restrictions, creation of Sybil accounts, use of the service for prohibited or illegal transactions, use of automated scripts, interference with the OPTIMA infrastructure, or other criminal acts by the user, with subsequent settlement of mutual obligations through local law enforcement procedures.
+																The Group reserves the right to refuse service, restrict account functionality, or terminate the relationship unilaterally in the event of a breach of Agreement terms, regulatory requirements, suspicion of fraud, attempts to circumvent restrictions, creation of Sybil accounts, use of the service for prohibited or illegal transactions, use of automated scripts, interference with the OORA3 infrastructure, or other criminal acts by the user, with subsequent settlement of mutual obligations through local law enforcement procedures.
 															</p>
 														</div>
 													</div>
@@ -12794,7 +12794,7 @@
 														</div>
 														<div class="front-policy-item__content">
 															<p>
-																Jurisdictional requirements from government entities mandate that the OPTIMA Group of Companies comply with applicable laws and cooperate with regulatory and supervisory authorities regarding its obligations, including adherence to sanctions, PEP and export controls, Anti-Money Laundering (AML), and Counter-Terrorism Financing (CFT). The Group is obliged to comply with lawful requests from authorities and, if warranted or based on a low risk-based assessment, to conduct identification procedures (KYC/EDD), transaction monitoring, and sanctions compliance, requesting certain sensitive information from clients.
+																Jurisdictional requirements from government entities mandate that the OORA3 Group of Companies comply with applicable laws and cooperate with regulatory and supervisory authorities regarding its obligations, including adherence to sanctions, PEP and export controls, Anti-Money Laundering (AML), and Counter-Terrorism Financing (CFT). The Group is obliged to comply with lawful requests from authorities and, if warranted or based on a low risk-based assessment, to conduct identification procedures (KYC/EDD), transaction monitoring, and sanctions compliance, requesting certain sensitive information from clients.
 															</p>
 														</div>
 													</div>
@@ -12837,7 +12837,7 @@
 																If you have any questions about this document, please contact us
 															</p>
 															<div class="front-policy-mail-block">
-																<a href="https://optima.cc/cdn-cgi/l/email-protection#274f424b57674857534e4a46094444" class="front-policy-mail">
+																<a href="https://OORA3.cc/cdn-cgi/l/email-protection#274f424b57674857534e4a46094444" class="front-policy-mail">
 																	<div class="front-policy-mail__icon"></div>
 																	<div class="front-policy-mail__text">
 																		<span class="__cf_email__" data-cfemail="6e060b021e2e011e1a07030f400d0d">[email&#160;protected]</span></div>
@@ -12918,7 +12918,7 @@
 														</div>
 														<div class="front-policy-item__content">
 															<p>
-																This Privacy Policy on Personal Data Processing explains how the OPTIMA Transnational Group of Companies, including: Optima Co PTY LTD, Optima Business Limited and Optima Business Growth LTD, manages user data in the course of providing custodial, investment, and other credit and financial services. This document sets forth the detailed procedures by which the Group collects, processes, and stores personal and non-personal data of its clients, specifies the legislative acts and regulatory initiatives governing such data processing, and outlines the measures taken by OPTIMA to ensure the protection of sensitive user information.
+																This Privacy Policy on Personal Data Processing explains how the OORA3 Transnational Group of Companies, including: OORA3 Co PTY LTD, OORA3 Business Limited and OORA3 Business Growth LTD, manages user data in the course of providing custodial, investment, and other credit and financial services. This document sets forth the detailed procedures by which the Group collects, processes, and stores personal and non-personal data of its clients, specifies the legislative acts and regulatory initiatives governing such data processing, and outlines the measures taken by OORA3 to ensure the protection of sensitive user information.
 															</p>
 														</div>
 													</div>
@@ -12966,7 +12966,7 @@
 																Personal data is any information that relates to an identified person: name, login, email address, phone number, wallet addresses, financial information, and others. Non-personal data is aggregated or depersonalized information that does not allow identifying the user.
 															</p>
 															<p>
-																OPTIMA Group may collect the following types of confidential data with an incomplete list of examples:
+																OORA3 Group may collect the following types of confidential data with an incomplete list of examples:
 															</p>
 															<ul>
 																<li>
@@ -12997,7 +12997,7 @@
 														</div>
 														<div class="front-policy-item__content">
 															<p>
-																Personal data is processed on legal grounds provided by applicable law for the following purposes: provision of financial services, execution of transactions, and payment processing based on the performance of obligations and compliance with payment legislation; customer service, advisory support, and processing of inquiries within the scope of business relationships; customer identification and verification in the context of KYC/AML regulatory requirements, as well as compliance with sanctions, PEP, and export controls; fulfillment of legal mandates related to auditing, reporting, and other tax and financial regulations to ensure compliance with jurisdictional requirements; risk management, infrastructure security, fraud prevention, as well as analytics, marketing, service improvement, and other purposes based on the legitimate interests of the OPTIMA Group of companies. The data is stored for the entire period necessary to achieve the purposes of processing the information received or as required by applicable law.
+																Personal data is processed on legal grounds provided by applicable law for the following purposes: provision of financial services, execution of transactions, and payment processing based on the performance of obligations and compliance with payment legislation; customer service, advisory support, and processing of inquiries within the scope of business relationships; customer identification and verification in the context of KYC/AML regulatory requirements, as well as compliance with sanctions, PEP, and export controls; fulfillment of legal mandates related to auditing, reporting, and other tax and financial regulations to ensure compliance with jurisdictional requirements; risk management, infrastructure security, fraud prevention, as well as analytics, marketing, service improvement, and other purposes based on the legitimate interests of the OORA3 Group of companies. The data is stored for the entire period necessary to achieve the purposes of processing the information received or as required by applicable law.
 															</p>
 														</div>
 													</div>
@@ -13040,7 +13040,7 @@
 														<div class="front-policy-item__content">
 															
 															<p>
-																The User, in turn, undertakes to provide reliable, accurate, and up-to-date data required for interaction with OPTIMA, independently ensuring the confidentiality of personal access data, and to immediately notify the Consulting Department in case of loss of access to the personal account or possible unauthorized access. The Group is not liable for any damages arising from the user’s violation of security measures.
+																The User, in turn, undertakes to provide reliable, accurate, and up-to-date data required for interaction with OORA3, independently ensuring the confidentiality of personal access data, and to immediately notify the Consulting Department in case of loss of access to the personal account or possible unauthorized access. The Group is not liable for any damages arising from the user’s violation of security measures.
 															</p>
 														</div>
 													</div>
@@ -13066,7 +13066,7 @@
 																	<div class="system-message__icon"></div>
 																	<div class="system-message__content">
 																		<div class="system-message__text">
-																			OPTIMA Group is required to comply with jurisdictional requirements from government agencies and cooperate with regulatory bodies, including, among other things, KYC/AML data processing where grounds exist, legal disclosure of user data, and interaction with law enforcement. This includes collecting specific sensitive customer information for identification purposes, additional screening, sanctions compliance procedures, and the use of previously gathered data, with subsequent disclosure of information upon lawful request by courts, law enforcement, or regulators. Whenever possible, the Group shall strictly minimize the scope of disclosure and, where permitted by law, notify the user of the relevant request.
+																			OORA3 Group is required to comply with jurisdictional requirements from government agencies and cooperate with regulatory bodies, including, among other things, KYC/AML data processing where grounds exist, legal disclosure of user data, and interaction with law enforcement. This includes collecting specific sensitive customer information for identification purposes, additional screening, sanctions compliance procedures, and the use of previously gathered data, with subsequent disclosure of information upon lawful request by courts, law enforcement, or regulators. Whenever possible, the Group shall strictly minimize the scope of disclosure and, where permitted by law, notify the user of the relevant request.
 																		</div>
 																	</div>
 																</div>
@@ -13090,7 +13090,7 @@
 														</div>
 														<div class="front-policy-item__content">
 															<p>
-																OPTIMA collects and processes only the data necessary for the stated purposes and, where appropriate, anonymizes such data for analytics and storage. When developing and introducing new products, business lines and technologies that may pose a high risk to the rights and freedoms of data subjects, the Group carries out the Data Protection Impact Assessment (DPIA) in accordance with the requirements of applicable regulations.
+																OORA3 collects and processes only the data necessary for the stated purposes and, where appropriate, anonymizes such data for analytics and storage. When developing and introducing new products, business lines and technologies that may pose a high risk to the rights and freedoms of data subjects, the Group carries out the Data Protection Impact Assessment (DPIA) in accordance with the requirements of applicable regulations.
 															</p>
 														</div>
 													</div>
@@ -13108,7 +13108,7 @@
 																If you have any questions about this document, please contact us
 															</p>
 															<div class="front-policy-mail-block">
-																<a href="https://optima.cc/cdn-cgi/l/email-protection#b8d0ddd4c8f8d7c8ccd1d5d996dbdb" class="front-policy-mail">
+																<a href="https://OORA3.cc/cdn-cgi/l/email-protection#b8d0ddd4c8f8d7c8ccd1d5d996dbdb" class="front-policy-mail">
 																	<div class="front-policy-mail__icon"></div>
 																	<div class="front-policy-mail__text">
 																		<span class="__cf_email__" data-cfemail="0a626f667a4a657a7e63676b246969">[email&#160;protected]</span></div>
@@ -13190,10 +13190,10 @@
 														</div>
 														<div class="front-policy-item__content">
 															<p>
-																This Risk Disclosure and Scope of Liability document is provided by the OPTIMA Transnational Group of Companies, including: Optima Co PTY LTD, Optima Business Limited and Optima Business Growth LTD, in accordance with regulatory disclosure requirements for investors and borrowers. The jurisdictional requirements for this Disclosure are governed by the Australian Securities & Investments Commission (ASIC), the Corporations Act 2001, the Companies Ordinance (Cap. 622), the Companies Act 2006 and other international and local legal regulations.
+																This Risk Disclosure and Scope of Liability document is provided by the OORA3 Transnational Group of Companies, including: OORA3 Co PTY LTD, OORA3 Business Limited and OORA3 Business Growth LTD, in accordance with regulatory disclosure requirements for investors and borrowers. The jurisdictional requirements for this Disclosure are governed by the Australian Securities & Investments Commission (ASIC), the Corporations Act 2001, the Companies Ordinance (Cap. 622), the Companies Act 2006 and other international and local legal regulations.
 															</p>
 															<p>
-																The document includes categories of potential risks associated with the use of OPTIMA's custodial, investment, and credit-financial services, a description of the Group's risk management policy, withdrawal rights, and liability limitations, as well as recommendations for users and clarifications on applicability.
+																The document includes categories of potential risks associated with the use of OORA3's custodial, investment, and credit-financial services, a description of the Group's risk management policy, withdrawal rights, and liability limitations, as well as recommendations for users and clarifications on applicability.
 															</p>
 														</div>
 													</div>
@@ -13215,7 +13215,7 @@
 																<li><b>Regulatory uncertainty</b>: Changes in government regulations in international or local jurisdictions regarding cryptocurrencies, crypto-collateralized services, and related offerings may include new requirements, barriers, or prohibitions. Furthermore, there may be amendments to the tax regime and methods of accounting for tax liabilities affecting settlements and payments, as well as changes in the licensing system, asset storage requirements, and disclosure of information.  </li>
 																<li><b>Cybersecurity</b>: The technological infrastructure of third-party services and cryptocurrency blockchains used in trading operations may be vulnerable to hacker attacks, exploits, code errors, payment gateway and exchange failures, as well as other smart contract vulnerabilities and protocol dependencies on other online services.</li>
 																<li><b>Structural and external counterparty risks</b>: hardware or software failures, interoperability risks, risks of non-compliance with cross-border regulations on cross-service, cold, or modular asset storage, potential difficulties with compliance processes, risk of counterparty default, and dependency on third-party platforms, brokers, liquidity providers, custodial partners, and depositories.</li>
-																<li><b>Borrowed Funds</b>: Operating with borrowed money obtained through OPTIMA credit and financial services can be potentially unprofitable, and the risk of forced liquidation of collateral under adverse market conditions carries the danger of losing the entire amount of crypto collateral.</li>
+																<li><b>Borrowed Funds</b>: Operating with borrowed money obtained through OORA3 credit and financial services can be potentially unprofitable, and the risk of forced liquidation of collateral under adverse market conditions carries the danger of losing the entire amount of crypto collateral.</li>
 															</ul>
 
 														</div>
@@ -13233,7 +13233,7 @@
 														</div>
 														<div class="front-policy-item__content">
 															<p>
-																The foundation of OPTIMA’s Risk Management Policy is the systematic identification, assessment, management, and mitigation of factors that could impact the safety of invested funds and the resilience of IT infrastructure, business lines and products of the group. The management of these risks is built upon regular identification of potential hazards, their quantitative and qualitative assessment, setting risk thresholds by asset class, portfolio stress testing, and the formation of reserves and response plans. To ensure the security of capital and operations, the following measures are applied: access control procedures, segregation of duties, cold storage of keys, multi-signature solutions, hardware security modules (HSM), data encryption, regular vulnerability testing, and an incident management program. 
+																The foundation of OORA3’s Risk Management Policy is the systematic identification, assessment, management, and mitigation of factors that could impact the safety of invested funds and the resilience of IT infrastructure, business lines and products of the group. The management of these risks is built upon regular identification of potential hazards, their quantitative and qualitative assessment, setting risk thresholds by asset class, portfolio stress testing, and the formation of reserves and response plans. To ensure the security of capital and operations, the following measures are applied: access control procedures, segregation of duties, cold storage of keys, multi-signature solutions, hardware security modules (HSM), data encryption, regular vulnerability testing, and an incident management program. 
 															</p>
 															<p>
 																The organizational policy includes independent internal and external audits, in-depth compliance management, incident escalation procedures, and business continuity plans (BCP/DR), as well as daily monitoring of market and operational indicators; meanwhile, counterparty control based on legal expertise, monitoring of financial condition and conditions of trusted custodianship. 
@@ -13259,10 +13259,10 @@
 														</div>
 														<div class="front-policy-item__content">
 															<p>
-																The OPTIMA Group of Companies is not responsible for any financial losses of investors and borrowers caused by the use of Group’s deposit and credit/financial services. Any materials regarding OPTIMA business lines, products, services, investment terms, or crypto lending, whether posted online or available offline, are for informational purposes only, do not constitute a public offer or investment advice, and are published solely for educational purposes.
+																The OORA3 Group of Companies is not responsible for any financial losses of investors and borrowers caused by the use of Group’s deposit and credit/financial services. Any materials regarding OORA3 business lines, products, services, investment terms, or crypto lending, whether posted online or available offline, are for informational purposes only, do not constitute a public offer or investment advice, and are published solely for educational purposes.
 															</p>
 															<p>
-																OPTIMA does not guarantee returns and does not provide any guarantees regarding the safety of assets, declared yields or liquidity, minimum investment periods, or other stated conditions for clients. If acceptable levels of risk are reached, for example, to suppress fraudulent activity or on other grounds necessary to ensure stability, the Group reserves the right to take measures to change the composition of the investor portfolio, introduce a temporary pause on the withdrawal of funds, or revise client terms.
+																OORA3 does not guarantee returns and does not provide any guarantees regarding the safety of assets, declared yields or liquidity, minimum investment periods, or other stated conditions for clients. If acceptable levels of risk are reached, for example, to suppress fraudulent activity or on other grounds necessary to ensure stability, the Group reserves the right to take measures to change the composition of the investor portfolio, introduce a temporary pause on the withdrawal of funds, or revise client terms.
 															</p>
 														</div>
 													</div>
@@ -13290,7 +13290,7 @@
 																	<div class="system-message__icon"></div>
 																	<div class="system-message__content">
 																		<div class="system-message__text">
-																			By using OPTIMA business products, the user acknowledges that they have read this Risk Disclosure and Scope of Liability, understand the risks associated with investment and crypto-lending, accurately assess their personal risk tolerance, and accept full responsibility for their decisions following independent consultation with a qualified financial advisor.
+																			By using OORA3 business products, the user acknowledges that they have read this Risk Disclosure and Scope of Liability, understand the risks associated with investment and crypto-lending, accurately assess their personal risk tolerance, and accept full responsibility for their decisions following independent consultation with a qualified financial advisor.
 																		</div>
 																	</div>
 																</div>
@@ -13312,7 +13312,7 @@
 																If you have any questions about this document, please contact us
 															</p>
 															<div class="front-policy-mail-block">
-																<a href="https://optima.cc/cdn-cgi/l/email-protection#e38b868f93a38c93978a8e82cd8080" class="front-policy-mail">
+																<a href="https://OORA3.cc/cdn-cgi/l/email-protection#e38b868f93a38c93978a8e82cd8080" class="front-policy-mail">
 																	<div class="front-policy-mail__icon"></div>
 																	<div class="front-policy-mail__text">
 																		<span class="__cf_email__" data-cfemail="86eee3eaf6c6e9f6f2efebe7a8e5e5">[email&#160;protected]</span></div>

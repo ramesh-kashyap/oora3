@@ -75,7 +75,7 @@
                                             </a>
                                         </div>
                                         <div
-                                            class="front-page-info-top-button-wrapper d-none optimaHideTabletAndMobile">
+                                            class="front-page-info-top-button-wrapper d-none OORA3HideTabletAndMobile">
                                             <button type="button" data-bs-toggle="modal"
                                                 data-bs-target="#modalDownload"
                                                 class="download-button light-black-btn iconed-btn">
@@ -84,8 +84,8 @@
                                             </button>
                                         </div>
                                         <div
-                                            class="front-page-info-top-button-wrapper d-none optimaShowTabletAndMobile">
-                                            <a href="https://t.me/optima_crypto_bot/app?startapp=" target="_blank"
+                                            class="front-page-info-top-button-wrapper d-none OORA3ShowTabletAndMobile">
+                                            <a href="https://t.me/OORA3_crypto_bot/app?startapp=" target="_blank"
                                                 class="telegram-app-button iconed-btn">
                                                 <div class="iconed-btn__icon"></div>
                                                 <div class="iconed-btn__text">Telegram app</div>
@@ -436,6 +436,17 @@ anywhere with secure and reliable messaging.
 
                                 </div>
                             </div>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -808,7 +819,7 @@ anywhere with secure and reliable messaging.
                 </div>
 
                 <!-- DOWNLOAD / EXPLORE -->
-                <div class="front-cta-button-wrapper d-none optimaHideTabletAndMobile">
+                <div class="front-cta-button-wrapper d-none OORA3HideTabletAndMobile">
                     <button type="button"
                         class="download-button light-black-btn iconed-btn">
                         <div class="iconed-btn__text">Explore Ecosystem</div>
@@ -817,7 +828,7 @@ anywhere with secure and reliable messaging.
                 </div>
 
                 <!-- TELEGRAM -->
-                <div class="front-cta-button-wrapper d-none optimaShowTabletAndMobile">
+                <div class="front-cta-button-wrapper d-none OORA3ShowTabletAndMobile">
                     <a href="https://t.me/"
                         target="_blank"
                         class="telegram-app-button iconed-btn">
