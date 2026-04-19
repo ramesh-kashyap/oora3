@@ -97,11 +97,11 @@ management from submission to resolution.
                                                                     </div>
                                                                 </div>
                                                                 <div class="contact-department-radio__title">
-                                                                  Partnerships & Collaboration
+                                                                Strategic Partnerships
                                                                 </div>
                                                                 <div class="contact-department-radio__descr">
-                                                                    Collaborations, cross-marketing and
-                                                                    institutional cooperation.
+                                                                    Build powerful collaborations with OORA3 through blockchain integration,
+    institutional partnerships, and global ecosystem expansion initiatives.
                                                                 </div>
                                                                 <div class="contact-department-radio__mail-block">
                                                                     <div class="contact-department-radio__mail">
@@ -128,11 +128,11 @@ management from submission to resolution.
                                                                     </div>
                                                                 </div>
                                                                 <div class="contact-department-radio__title">
-                                                                    Affiliate & Bounty
+                                                                      Rewards & Network Program
                                                                 </div>
                                                                 <div class="contact-department-radio__descr">
-                                                                    Affiliate program, promotions, commissions
-                                                                    and bounty tasks.
+                                                                    Earn through referrals, commissions, staking rewards,
+    and network growth within the OORA3 ecosystem.
                                                                 </div>
                                                                 <div class="contact-department-radio__mail-block">
                                                                     <div class="contact-department-radio__mail">
@@ -159,11 +159,11 @@ management from submission to resolution.
                                                                     </div>
                                                                 </div>
                                                                 <div class="contact-department-radio__title">
-                                                                    Legal & Compliance
+                                                                   OORA3 Earning Program
                                                                 </div>
                                                                 <div class="contact-department-radio__descr">
-                                                                    Jurisdictional requirements, AML/KYC and
-                                                                    compliance control.
+                                                                     Participate in our multi-level reward system, earn commissions,
+    referral bonuses, and maximize your income through network expansion.
                                                                 </div>
                                                                 <div class="contact-department-radio__mail-block">
                                                                     <div class="contact-department-radio__mail">
