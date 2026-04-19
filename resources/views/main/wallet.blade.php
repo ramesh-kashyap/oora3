@@ -65,7 +65,7 @@ Seamless Ecosystem Interaction
                                 <div class="front-page-info-top-buttons-block">
                                     <div class="front-page-info-top-buttons">
                                         <div class="front-page-info-top-button-wrapper">
-                                            <a href="../sign-up/index.html"
+                                            <a href="{{ route('index') }}"
                                                 class="front-page-info-top-button green-gradient-btn iconed-btn">
                                                 <div class="iconed-btn__text">Access Ecosystem </div>
                                                 <div class="iconed-btn__icon"></div>
@@ -799,7 +799,7 @@ Seamless Ecosystem Interaction
                                     <div class="front-cta-buttons-block">
                                         <div class="front-cta-buttons">
                                             <div class="front-cta-button-wrapper">
-                                                <a href="../sign-up/index.html"
+                                                <a href="{{ route('index') }}"
                                                     class="front-cta-button green-gradient-btn iconed-btn">
                                                     <div class="iconed-btn__text">Access Ecosystem</div>
                                                     <div class="iconed-btn__icon"></div>

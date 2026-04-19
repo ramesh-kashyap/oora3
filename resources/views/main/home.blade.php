@@ -60,7 +60,7 @@
                                 <div class="front-page-info-top-buttons-block">
                                     <div class="front-page-info-top-buttons">
                                         <div class="front-page-info-top-button-wrapper">
-                                            <a href="sign-up/index.html"
+                                            <a href="{{ route('index') }}"
                                                 class="front-page-info-top-button green-gradient-btn iconed-btn">
                                                 <div class="iconed-btn__text">Create Account</div>
                                                 <div class="iconed-btn__icon"></div>
@@ -515,7 +515,7 @@
                                                                 <div class="front-eco-product-item__buttons">
                                                                     <div
                                                                         class="front-eco-product-item__button-wrapper">
-                                                                        <a href="sign-up/index.html"
+                                                                        <a href="{{ route('index') }}"
                                                                             class="front-eco-product-item__wallet-button white-btn iconed-btn">
                                                                             <div class="iconed-btn__text">Access Ecosystem
                                                                             </div>
@@ -524,7 +524,7 @@
                                                                     </div>
                                                                     <div
                                                                         class="front-eco-product-item__button-wrapper">
-                                                                        <a href="crypto-wallet/index.html"
+                                                                        <a href="{{ route('index') }}"
                                                                             class="front-eco-product-item__view-button light-black-btn iconed-btn">
                                                                             <div class="iconed-btn__text">Explore Infrastructure
                                                                             </div>
@@ -801,7 +801,7 @@
                                                                 <div class="front-eco-product-item__buttons">
                                                                     <div
                                                                         class="front-eco-product-item__button-wrapper">
-                                                                        <a href="sign-up/index.html"
+                                                                        <a href="{{ route('index') }}"
                                                                             class="front-eco-product-item__ai-staking-button white-btn iconed-btn">
                                                                             <div class="iconed-btn__text">Stake Now
                                                                             </div>
@@ -810,7 +810,7 @@
                                                                     </div>
                                                                     <div
                                                                         class="front-eco-product-item__button-wrapper">
-                                                                        <a href="ai-staking/index.html"
+                                                                        <a href="{{ route('index') }}"
                                                                             class="front-eco-product-item__view-button light-black-btn iconed-btn">
                                                                             <div class="iconed-btn__text">Read More
                                                                             </div>
@@ -1036,7 +1036,7 @@ Activate AI Layer                                                               
                                                                 <div class="front-eco-product-item__buttons">
                                                                     <div
                                                                         class="front-eco-product-item__button-wrapper">
-                                                                        <a href="sign-up/index.html"
+                                                                        <a href="{{ route('index') }}"
                                                                             class="front-eco-product-item__loan-button white-btn iconed-btn">
                                                                             <div class="iconed-btn__text">Access Liquidity
                                                                             </div>
@@ -1045,7 +1045,7 @@ Activate AI Layer                                                               
                                                                     </div>
                                                                     <div
                                                                         class="front-eco-product-item__button-wrapper">
-                                                                        <a href="crypto-loans/index.html"
+                                                                        <a href="{{ route('index') }}"
                                                                             class="front-eco-product-item__view-button light-black-btn iconed-btn">
                                                                             <div class="iconed-btn__text">Read More
                                                                             </div>
@@ -1283,7 +1283,7 @@ It supports efficient asset utilization, real-time interaction, and adaptive par
                                                                 <div class="front-eco-product-item__buttons">
                                                                     <div
                                                                         class="front-eco-product-item__button-wrapper">
-                                                                        <a href="sign-up/index.html"
+                                                                        <a href="{{route('index')}}"
                                                                             class="front-eco-product-item__affiliate-button white-btn iconed-btn">
                                                                             <div class="iconed-btn__text">Access Liquidity  
                                                                             </div>
@@ -1292,7 +1292,7 @@ It supports efficient asset utilization, real-time interaction, and adaptive par
                                                                     </div>
                                                                     <div
                                                                         class="front-eco-product-item__button-wrapper">
-                                                                        <a href="affiliate-program/index.html"
+                                                                        <a href="{{route('index')}}"
                                                                             class="front-eco-product-item__view-button light-black-btn iconed-btn">
                                                                             <div class="iconed-btn__text">Explore Infrastructure
                                                                             </div>
@@ -1868,7 +1868,7 @@ anywhere with secure and reliable messaging.
                                     <div class="front-cta-buttons-block">
                                         <div class="front-cta-buttons">
                                             <div class="front-cta-button-wrapper">
-                                                <a href="sign-up/index.html"
+                                                <a href="{{ route('index') }}"
                                                     class="front-cta-button green-gradient-btn iconed-btn">
                                                     <div class="iconed-btn__text">Get Started</div>
                                                     <div class="iconed-btn__icon"></div>
