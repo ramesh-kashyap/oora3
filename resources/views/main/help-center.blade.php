@@ -570,7 +570,7 @@
                                                     How to register an account?
                                                 </h3>
                                                 <div class="help-article-item__descr">
-                                                    <p>To get a wallet and start using Optima products, click
+                                                    <p>To get a wallet and start using OORA3 products, click
                                                         "Sign up" on any website page. Next, enter your email or
                                                         mobile number, create a username and a secure password
                                                         to log in, and specify your country of residence. If
@@ -588,7 +588,7 @@
                                                     <p>To log in with Telegram, click "Log In with Telegram" in
                                                         the account creation window, and then, when using the
                                                         web version of the website, log in to the TM widget that
-                                                        appears. When you log in via the Optima mini-app, your
+                                                        appears. When you log in via the OORA3 mini-app, your
                                                         wallet will be created automatically.</p>
                                                 </div>
                                             </div>
@@ -647,7 +647,7 @@
                                                     How to link a Telegram account to my wallet?
                                                 </h3>
                                                 <div class="help-article-item__descr">
-                                                    <p>You can use Optima products directly in your Telegram
+                                                    <p>You can use OORA3 products directly in your Telegram
                                                         mobile app or use it to quickly and securely log in to
                                                         your wallet. To link a Telegram account, click "Connect
                                                         Telegram" in the Settings frame of your personal account
@@ -1009,7 +1009,7 @@
                                                         transaction processing can take up to 24 hours. Further
                                                         confirmation of the transaction by the miners and the
                                                         actual transfer to the recipient's address takes place
-                                                        outside the Optima infrastructure and depends on the
+                                                        outside the OORA3 infrastructure and depends on the
                                                         workload of the blockchain network.</p>
                                                 </div>
                                             </div>
@@ -1082,7 +1082,7 @@
                                                     </p>
                                                     <p>On the Transactions page of your personal account, you
                                                         can find a log of all transactions performed in the
-                                                        wallet and interactions with Optima products, sorted by
+                                                        wallet and interactions with OORA3 products, sorted by
                                                         currency, type, or status. The log contains incoming and
                                                         outgoing crypto transfers, purchases and sales through a
                                                         currency exchange service, your staking contracts, loan
@@ -1178,7 +1178,7 @@
                                                     What is the commission for the exchange of cryptocurrencies?
                                                 </h3>
                                                 <div class="help-article-item__descr">
-                                                    <p>For using the built-in Optima exchanger, we charge a
+                                                    <p>For using the built-in OORA3 exchanger, we charge a
                                                         commission of only 1% of the amount of the exchange
                                                         transaction.</p>
                                                 </div>
@@ -1656,7 +1656,7 @@
                                                     <p>If the LTV of your loan reaches the 95% threshold (this
                                                         happens following a sharp drop in the loan's exchange
                                                         rate), your collateral is automatically sold on the open
-                                                        market to cover the loan amount and Optima commission in
+                                                        market to cover the loan amount and OORA3 commission in
                                                         the amount of the APR interest rate for the term of this
                                                         loan. The exact liquidation price of the LIQ
                                                         cryptocurrency that secures your collateral is displayed
@@ -1813,7 +1813,7 @@
                                                         account. We will identify your referral using these
                                                         links: the first is a multi-purpose link and it is used
                                                         to go to the website, the second leads to the official
-                                                        Optima mini-app inside Telegram. The referral who came
+                                                        OORA3 mini-app inside Telegram. The referral who came
                                                         using your link will receive your individual promo code
                                                         when creating an account. They can also, after receiving
                                                         this code from you directly, specify it independently,
@@ -1841,7 +1841,7 @@
                                                     How is the reward amount for an invited referral calculated?
                                                 </h3>
                                                 <div class="help-article-item__descr">
-                                                    <p>When your referral uses any Optima staking, loan, or
+                                                    <p>When your referral uses any OORA3 staking, loan, or
                                                         exchange services, the platform charges a service
                                                         commission. The affiliate percentage of the platform's
                                                         commission is your reward. The more coins your referral
@@ -1958,8 +1958,8 @@
                                                     What are the benefits of upgrading my affiliate level?
                                                 </h3>
                                                 <div class="help-article-item__descr">
-                                                    <p>Each upgrade of your affiliate status from Optima 1 to
-                                                        Optima 18 gives you an increase in the percentage of fee
+                                                    <p>Each upgrade of your affiliate status from OORA3 1 to
+                                                        OORA3 18 gives you an increase in the percentage of fee
                                                         on the referral lines of your structure and an
                                                         additional USDT bonus to your wallet. You can track your
                                                         progress in the "Next level" module on the Partners
@@ -2068,7 +2068,7 @@
 
                                                     </p>
                                                     <p>Your referral needs to contact customer support with a
-                                                        request to change the upline before using any Optima
+                                                        request to change the upline before using any OORA3
                                                         products.</p>
                                                 </div>
                                             </div>
@@ -2090,12 +2090,12 @@
                                                     </div>
                                                 </div>
                                                 <h3 class="help-article-item__title">
-                                                    Where can I download Optima promo materials?
+                                                    Where can I download OORA3 promo materials?
                                                 </h3>
                                                 <div class="help-article-item__descr">
                                                     <p>Go to the Promo materials tab on the Partners page in
                                                         your personal account. It contains promo materials about
-                                                        Optima's financial products with a unified visual
+                                                        OORA3's financial products with a unified visual
                                                         representation of the brand, which you can use to
                                                         attract referrals and conduct marketing campaigns.</p>
                                                 </div>

@@ -1896,12 +1896,12 @@ input[type="search"]::-webkit-search-results-decoration {
 	text-decoration: underline;
 }
 
-.optima-benefit-items-block {
+.OORA3-benefit-items-block {
 	padding-top: 24px;
 	margin-top: 8px;
 }
 
-.optima-benefit-items {
+.OORA3-benefit-items {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
@@ -1910,13 +1910,13 @@ input[type="search"]::-webkit-search-results-decoration {
 	margin-top: -8px;
 }
 
-.optima-benefit-item-wrapper {
+.OORA3-benefit-item-wrapper {
 	margin-top: 4px;
 	padding-left: 4px;
 	padding-right: 4px;
 }
 
-.optima-benefit-item {
+.OORA3-benefit-item {
 	cursor: default;
 	border: 1px solid rgba(255, 255, 255, 0.1);
 	border-radius: 8px;
@@ -1927,13 +1927,13 @@ input[type="search"]::-webkit-search-results-decoration {
 	background: rgba(2, 3, 5, 0.6);
 }
 
-.optima-benefit-item__icon {
+.OORA3-benefit-item__icon {
 	width: 16px;
 	height: 16px;
 	position: relative;
 }
 
-.optima-benefit-item__text {
+.OORA3-benefit-item__text {
 	font-weight: 500;
 	font-size: 14px;
 	line-height: 1.5;
@@ -1943,11 +1943,11 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 
 
-.optima-benefit-item--uptime {
+.OORA3-benefit-item--uptime {
 	border: 1px solid var(--colors-green--200);
 }
 
-.optima-benefit-item--uptime .optima-benefit-item__icon {
+.OORA3-benefit-item--uptime .OORA3-benefit-item__icon {
 	width: 8px;
 	height: 8px;
 	border-radius: 8px;
@@ -1955,15 +1955,15 @@ input[type="search"]::-webkit-search-results-decoration {
 	background: var(--colors-green-1000);
 }
 
-.optima-benefit-item--uptime .optima-benefit-item__text {
+.OORA3-benefit-item--uptime .OORA3-benefit-item__text {
 	color: var(--colors-green-1000);
 	opacity: 1;
 }
 
-.optima-benefit-item--audited {}
+.OORA3-benefit-item--audited {}
 
 
-.optima-benefit-item--audited .optima-benefit-item__icon::before {
+.OORA3-benefit-item--audited .OORA3-benefit-item__icon::before {
 	content: '';
 	position: absolute;
 	width: 16px;
@@ -1983,12 +1983,12 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 
 
-.optima-benefit-item--ai {
+.OORA3-benefit-item--ai {
 	background: rgba(10, 12, 16, 0.6);
 }
 
 
-.optima-benefit-item--ai .optima-benefit-item__icon::before {
+.OORA3-benefit-item--ai .OORA3-benefit-item__icon::before {
 	content: '';
 	position: absolute;
 	width: 16px;

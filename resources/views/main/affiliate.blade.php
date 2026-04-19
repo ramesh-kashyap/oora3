@@ -22,7 +22,7 @@
                                     </div>
                                     <div class="front-page-info-top-descr-block">
                                         <div class="front-page-info-top-descr">
-                                            Promote Optima products and earn profits from every stake, loan, or exchange
+                                            Promote OORA3 products and earn profits from every stake, loan, or exchange
                                             made by your referrals.
                                         </div>
                                     </div>
@@ -66,7 +66,7 @@
                                             </a>
                                         </div>
                                         <div
-                                            class="front-page-info-top-button-wrapper d-none optimaHideTabletAndMobile">
+                                            class="front-page-info-top-button-wrapper d-none OORA3HideTabletAndMobile">
                                             <button type="button" data-bs-toggle="modal"
                                                 data-bs-target="#modalDownload"
                                                 class="download-button light-black-btn iconed-btn">
@@ -75,8 +75,8 @@
                                             </button>
                                         </div>
                                         <div
-                                            class="front-page-info-top-button-wrapper d-none optimaShowTabletAndMobile">
-                                            <a href="https://t.me/optima_crypto_bot/app?startapp=" target="_blank"
+                                            class="front-page-info-top-button-wrapper d-none OORA3ShowTabletAndMobile">
+                                            <a href="https://t.me/OORA3_crypto_bot/app?startapp=" target="_blank"
                                                 class="telegram-app-button iconed-btn">
                                                 <div class="iconed-btn__icon"></div>
                                                 <div class="iconed-btn__text">Telegram app</div>
@@ -202,13 +202,13 @@
                                                                     <div class="fp-infographic-item__info-levels">
                                                                         <div
                                                                             class="fp-infographic-item__info-level fp-infographic-item__info-level--current">
-                                                                            Optima 1 </div>
+                                                                            OORA3 1 </div>
                                                                         <div
                                                                             class="fp-infographic-item__info-level-arrow">
                                                                         </div>
                                                                         <div
                                                                             class="fp-infographic-item__info-level fp-infographic-item__info-level--next">
-                                                                            Optima 2</div>
+                                                                            OORA3 2</div>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -260,7 +260,7 @@
                                                     Why should you join the affiliate club?
                                                 </h2>
                                                 <div class="front-features-top__descr">
-                                                    Key benefits of the Optima affiliate program for those looking to
+                                                    Key benefits of the OORA3 affiliate program for those looking to
                                                     earn by promoting our products.
                                                 </div>
 
@@ -753,7 +753,7 @@
                                                                         <div
                                                                             class="aff-commission-t-i-cell__name-wrapper">
                                                                             <div class="aff-commission-t-i-cell__name">
-                                                                                Optima 1</div>
+                                                                                OORA3 1</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -851,7 +851,7 @@
                                                                         <div
                                                                             class="aff-commission-t-i-cell__name-wrapper">
                                                                             <div class="aff-commission-t-i-cell__name">
-                                                                                Optima 2</div>
+                                                                                OORA3 2</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -949,7 +949,7 @@
                                                                         <div
                                                                             class="aff-commission-t-i-cell__name-wrapper">
                                                                             <div class="aff-commission-t-i-cell__name">
-                                                                                Optima 3</div>
+                                                                                OORA3 3</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -1047,7 +1047,7 @@
                                                                         <div
                                                                             class="aff-commission-t-i-cell__name-wrapper">
                                                                             <div class="aff-commission-t-i-cell__name">
-                                                                                Optima 4</div>
+                                                                                OORA3 4</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -1145,7 +1145,7 @@
                                                                         <div
                                                                             class="aff-commission-t-i-cell__name-wrapper">
                                                                             <div class="aff-commission-t-i-cell__name">
-                                                                                Optima 5</div>
+                                                                                OORA3 5</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -1243,7 +1243,7 @@
                                                                         <div
                                                                             class="aff-commission-t-i-cell__name-wrapper">
                                                                             <div class="aff-commission-t-i-cell__name">
-                                                                                Optima 6</div>
+                                                                                OORA3 6</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -1341,7 +1341,7 @@
                                                                         <div
                                                                             class="aff-commission-t-i-cell__name-wrapper">
                                                                             <div class="aff-commission-t-i-cell__name">
-                                                                                Optima 7</div>
+                                                                                OORA3 7</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -1439,7 +1439,7 @@
                                                                         <div
                                                                             class="aff-commission-t-i-cell__name-wrapper">
                                                                             <div class="aff-commission-t-i-cell__name">
-                                                                                Optima 8</div>
+                                                                                OORA3 8</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -1537,7 +1537,7 @@
                                                                         <div
                                                                             class="aff-commission-t-i-cell__name-wrapper">
                                                                             <div class="aff-commission-t-i-cell__name">
-                                                                                Optima 9</div>
+                                                                                OORA3 9</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -1635,7 +1635,7 @@
                                                                         <div
                                                                             class="aff-commission-t-i-cell__name-wrapper">
                                                                             <div class="aff-commission-t-i-cell__name">
-                                                                                Optima 10</div>
+                                                                                OORA3 10</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -1733,7 +1733,7 @@
                                                                         <div
                                                                             class="aff-commission-t-i-cell__name-wrapper">
                                                                             <div class="aff-commission-t-i-cell__name">
-                                                                                Optima 11</div>
+                                                                                OORA3 11</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -1831,7 +1831,7 @@
                                                                         <div
                                                                             class="aff-commission-t-i-cell__name-wrapper">
                                                                             <div class="aff-commission-t-i-cell__name">
-                                                                                Optima 12</div>
+                                                                                OORA3 12</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -1929,7 +1929,7 @@
                                                                         <div
                                                                             class="aff-commission-t-i-cell__name-wrapper">
                                                                             <div class="aff-commission-t-i-cell__name">
-                                                                                Optima 13</div>
+                                                                                OORA3 13</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -2027,7 +2027,7 @@
                                                                         <div
                                                                             class="aff-commission-t-i-cell__name-wrapper">
                                                                             <div class="aff-commission-t-i-cell__name">
-                                                                                Optima 14</div>
+                                                                                OORA3 14</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -2125,7 +2125,7 @@
                                                                         <div
                                                                             class="aff-commission-t-i-cell__name-wrapper">
                                                                             <div class="aff-commission-t-i-cell__name">
-                                                                                Optima 15</div>
+                                                                                OORA3 15</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -2223,7 +2223,7 @@
                                                                         <div
                                                                             class="aff-commission-t-i-cell__name-wrapper">
                                                                             <div class="aff-commission-t-i-cell__name">
-                                                                                Optima 16</div>
+                                                                                OORA3 16</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -2321,7 +2321,7 @@
                                                                         <div
                                                                             class="aff-commission-t-i-cell__name-wrapper">
                                                                             <div class="aff-commission-t-i-cell__name">
-                                                                                Optima 17</div>
+                                                                                OORA3 17</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -2420,7 +2420,7 @@
                                                                             class="aff-commission-t-i-cell__name-wrapper">
                                                                             <div
                                                                                 class="aff-commission-t-i-cell__name">
-                                                                                Optima 18</div>
+                                                                                OORA3 18</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -2585,7 +2585,7 @@
                                                                     <div class="aff-bonus-t-i-cell__name-panel">
                                                                         <div class="aff-bonus-t-i-cell__name-wrapper">
                                                                             <div class="aff-bonus-t-i-cell__name">
-                                                                                Optima 1</div>
+                                                                                OORA3 1</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -2628,7 +2628,7 @@
                                                                     <div class="aff-bonus-t-i-cell__name-panel">
                                                                         <div class="aff-bonus-t-i-cell__name-wrapper">
                                                                             <div class="aff-bonus-t-i-cell__name">
-                                                                                Optima 2</div>
+                                                                                OORA3 2</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -2671,7 +2671,7 @@
                                                                     <div class="aff-bonus-t-i-cell__name-panel">
                                                                         <div class="aff-bonus-t-i-cell__name-wrapper">
                                                                             <div class="aff-bonus-t-i-cell__name">
-                                                                                Optima 3</div>
+                                                                                OORA3 3</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -2714,7 +2714,7 @@
                                                                     <div class="aff-bonus-t-i-cell__name-panel">
                                                                         <div class="aff-bonus-t-i-cell__name-wrapper">
                                                                             <div class="aff-bonus-t-i-cell__name">
-                                                                                Optima 4</div>
+                                                                                OORA3 4</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -2757,7 +2757,7 @@
                                                                     <div class="aff-bonus-t-i-cell__name-panel">
                                                                         <div class="aff-bonus-t-i-cell__name-wrapper">
                                                                             <div class="aff-bonus-t-i-cell__name">
-                                                                                Optima 5</div>
+                                                                                OORA3 5</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -2800,7 +2800,7 @@
                                                                     <div class="aff-bonus-t-i-cell__name-panel">
                                                                         <div class="aff-bonus-t-i-cell__name-wrapper">
                                                                             <div class="aff-bonus-t-i-cell__name">
-                                                                                Optima 6</div>
+                                                                                OORA3 6</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -2843,7 +2843,7 @@
                                                                     <div class="aff-bonus-t-i-cell__name-panel">
                                                                         <div class="aff-bonus-t-i-cell__name-wrapper">
                                                                             <div class="aff-bonus-t-i-cell__name">
-                                                                                Optima 7</div>
+                                                                                OORA3 7</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -2886,7 +2886,7 @@
                                                                     <div class="aff-bonus-t-i-cell__name-panel">
                                                                         <div class="aff-bonus-t-i-cell__name-wrapper">
                                                                             <div class="aff-bonus-t-i-cell__name">
-                                                                                Optima 8</div>
+                                                                                OORA3 8</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -2929,7 +2929,7 @@
                                                                     <div class="aff-bonus-t-i-cell__name-panel">
                                                                         <div class="aff-bonus-t-i-cell__name-wrapper">
                                                                             <div class="aff-bonus-t-i-cell__name">
-                                                                                Optima 9</div>
+                                                                                OORA3 9</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -2972,7 +2972,7 @@
                                                                     <div class="aff-bonus-t-i-cell__name-panel">
                                                                         <div class="aff-bonus-t-i-cell__name-wrapper">
                                                                             <div class="aff-bonus-t-i-cell__name">
-                                                                                Optima 10</div>
+                                                                                OORA3 10</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -3015,7 +3015,7 @@
                                                                     <div class="aff-bonus-t-i-cell__name-panel">
                                                                         <div class="aff-bonus-t-i-cell__name-wrapper">
                                                                             <div class="aff-bonus-t-i-cell__name">
-                                                                                Optima 11</div>
+                                                                                OORA3 11</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -3058,7 +3058,7 @@
                                                                     <div class="aff-bonus-t-i-cell__name-panel">
                                                                         <div class="aff-bonus-t-i-cell__name-wrapper">
                                                                             <div class="aff-bonus-t-i-cell__name">
-                                                                                Optima 12</div>
+                                                                                OORA3 12</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -3101,7 +3101,7 @@
                                                                     <div class="aff-bonus-t-i-cell__name-panel">
                                                                         <div class="aff-bonus-t-i-cell__name-wrapper">
                                                                             <div class="aff-bonus-t-i-cell__name">
-                                                                                Optima 13</div>
+                                                                                OORA3 13</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -3144,7 +3144,7 @@
                                                                     <div class="aff-bonus-t-i-cell__name-panel">
                                                                         <div class="aff-bonus-t-i-cell__name-wrapper">
                                                                             <div class="aff-bonus-t-i-cell__name">
-                                                                                Optima 14</div>
+                                                                                OORA3 14</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -3187,7 +3187,7 @@
                                                                     <div class="aff-bonus-t-i-cell__name-panel">
                                                                         <div class="aff-bonus-t-i-cell__name-wrapper">
                                                                             <div class="aff-bonus-t-i-cell__name">
-                                                                                Optima 15</div>
+                                                                                OORA3 15</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -3230,7 +3230,7 @@
                                                                     <div class="aff-bonus-t-i-cell__name-panel">
                                                                         <div class="aff-bonus-t-i-cell__name-wrapper">
                                                                             <div class="aff-bonus-t-i-cell__name">
-                                                                                Optima 16</div>
+                                                                                OORA3 16</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -3273,7 +3273,7 @@
                                                                     <div class="aff-bonus-t-i-cell__name-panel">
                                                                         <div class="aff-bonus-t-i-cell__name-wrapper">
                                                                             <div class="aff-bonus-t-i-cell__name">
-                                                                                Optima 17</div>
+                                                                                OORA3 17</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -3316,7 +3316,7 @@
                                                                     <div class="aff-bonus-t-i-cell__name-panel">
                                                                         <div class="aff-bonus-t-i-cell__name-wrapper">
                                                                             <div class="aff-bonus-t-i-cell__name">
-                                                                                Optima 18</div>
+                                                                                OORA3 18</div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -3373,7 +3373,7 @@
                                             <div class="front-section-descr-block">
                                                 <div class="front-section-descr">
                                                     Calculate the potential profit from your invited users by simulating
-                                                    different usage scenarios for Optima products.
+                                                    different usage scenarios for OORA3 products.
                                                 </div>
                                             </div>
 
@@ -3558,60 +3558,60 @@
                                                                                 class="select">
 
                                                                                 <option
-                                                                                    data-content='<div class="select-item"><div class="select-item-text">Optima 1</div></div>'
-                                                                                    value="0">Optima 1</option>
+                                                                                    data-content='<div class="select-item"><div class="select-item-text">OORA3 1</div></div>'
+                                                                                    value="0">OORA3 1</option>
 
                                                                                 <option
-                                                                                    data-content='<div class="select-item"><div class="select-item-text">Optima 2</div></div>'
-                                                                                    value="1">Optima 2</option>
+                                                                                    data-content='<div class="select-item"><div class="select-item-text">OORA3 2</div></div>'
+                                                                                    value="1">OORA3 2</option>
                                                                                 <option
-                                                                                    data-content='<div class="select-item"><div class="select-item-text">Optima 3</div></div>'
-                                                                                    value="2">Optima 3</option>
+                                                                                    data-content='<div class="select-item"><div class="select-item-text">OORA3 3</div></div>'
+                                                                                    value="2">OORA3 3</option>
                                                                                 <option
-                                                                                    data-content='<div class="select-item"><div class="select-item-text">Optima 4</div></div>'
-                                                                                    value="3">Optima 4</option>
+                                                                                    data-content='<div class="select-item"><div class="select-item-text">OORA3 4</div></div>'
+                                                                                    value="3">OORA3 4</option>
                                                                                 <option
-                                                                                    data-content='<div class="select-item"><div class="select-item-text">Optima 5</div></div>'
-                                                                                    value="4">Optima 5</option>
+                                                                                    data-content='<div class="select-item"><div class="select-item-text">OORA3 5</div></div>'
+                                                                                    value="4">OORA3 5</option>
                                                                                 <option
-                                                                                    data-content='<div class="select-item"><div class="select-item-text">Optima 6</div></div>'
-                                                                                    value="5">Optima 6</option>
+                                                                                    data-content='<div class="select-item"><div class="select-item-text">OORA3 6</div></div>'
+                                                                                    value="5">OORA3 6</option>
                                                                                 <option
-                                                                                    data-content='<div class="select-item"><div class="select-item-text">Optima 7</div></div>'
-                                                                                    value="6">Optima 7</option>
+                                                                                    data-content='<div class="select-item"><div class="select-item-text">OORA3 7</div></div>'
+                                                                                    value="6">OORA3 7</option>
                                                                                 <option
-                                                                                    data-content='<div class="select-item"><div class="select-item-text">Optima 8</div></div>'
-                                                                                    value="7">Optima 8</option>
+                                                                                    data-content='<div class="select-item"><div class="select-item-text">OORA3 8</div></div>'
+                                                                                    value="7">OORA3 8</option>
                                                                                 <option
-                                                                                    data-content='<div class="select-item"><div class="select-item-text">Optima 9</div></div>'
-                                                                                    value="8">Optima 9</option>
+                                                                                    data-content='<div class="select-item"><div class="select-item-text">OORA3 9</div></div>'
+                                                                                    value="8">OORA3 9</option>
                                                                                 <option
-                                                                                    data-content='<div class="select-item"><div class="select-item-text">Optima 10</div></div>'
-                                                                                    value="9">Optima 10</option>
+                                                                                    data-content='<div class="select-item"><div class="select-item-text">OORA3 10</div></div>'
+                                                                                    value="9">OORA3 10</option>
                                                                                 <option
-                                                                                    data-content='<div class="select-item"><div class="select-item-text">Optima 11</div></div>'
-                                                                                    value="10">Optima 11</option>
+                                                                                    data-content='<div class="select-item"><div class="select-item-text">OORA3 11</div></div>'
+                                                                                    value="10">OORA3 11</option>
                                                                                 <option
-                                                                                    data-content='<div class="select-item"><div class="select-item-text">Optima 12</div></div>'
-                                                                                    value="11">Optima 12</option>
+                                                                                    data-content='<div class="select-item"><div class="select-item-text">OORA3 12</div></div>'
+                                                                                    value="11">OORA3 12</option>
                                                                                 <option
-                                                                                    data-content='<div class="select-item"><div class="select-item-text">Optima 13</div></div>'
-                                                                                    value="12">Optima 13</option>
+                                                                                    data-content='<div class="select-item"><div class="select-item-text">OORA3 13</div></div>'
+                                                                                    value="12">OORA3 13</option>
                                                                                 <option
-                                                                                    data-content='<div class="select-item"><div class="select-item-text">Optima 14</div></div>'
-                                                                                    value="13">Optima 14</option>
+                                                                                    data-content='<div class="select-item"><div class="select-item-text">OORA3 14</div></div>'
+                                                                                    value="13">OORA3 14</option>
                                                                                 <option
-                                                                                    data-content='<div class="select-item"><div class="select-item-text">Optima 15</div></div>'
-                                                                                    value="14">Optima 15</option>
+                                                                                    data-content='<div class="select-item"><div class="select-item-text">OORA3 15</div></div>'
+                                                                                    value="14">OORA3 15</option>
                                                                                 <option
-                                                                                    data-content='<div class="select-item"><div class="select-item-text">Optima 16</div></div>'
-                                                                                    value="15">Optima 16</option>
+                                                                                    data-content='<div class="select-item"><div class="select-item-text">OORA3 16</div></div>'
+                                                                                    value="15">OORA3 16</option>
                                                                                 <option
-                                                                                    data-content='<div class="select-item"><div class="select-item-text">Optima 17</div></div>'
-                                                                                    value="16">Optima 17</option>
+                                                                                    data-content='<div class="select-item"><div class="select-item-text">OORA3 17</div></div>'
+                                                                                    value="16">OORA3 17</option>
                                                                                 <option
-                                                                                    data-content='<div class="select-item"><div class="select-item-text">Optima 18</div></div>'
-                                                                                    value="17">Optima 18</option>
+                                                                                    data-content='<div class="select-item"><div class="select-item-text">OORA3 18</div></div>'
+                                                                                    value="17">OORA3 18</option>
                                                                             </select>
                                                                         </div>
 
@@ -4875,7 +4875,7 @@
                                                                                                     <div
                                                                                                         class="front-earn-calc-form-calc-return__amount">
                                                                                                         <span
-                                                                                                            class="text--green optimaDynamicAmount globalPageAffiliateProgramFormCalcMinRealAmount"></span>
+                                                                                                            class="text--green OORA3DynamicAmount globalPageAffiliateProgramFormCalcMinRealAmount"></span>
                                                                                                     </div>
                                                                                                     <div
                                                                                                         class="front-earn-calc-form-calc-return__currency">
@@ -5010,7 +5010,7 @@
                                                                                                     <div
                                                                                                         class="front-earn-calc-form-calc-return__amount">
                                                                                                         <span
-                                                                                                            class="text--green optimaDynamicAmount globalPageAffiliateProgramFormCalcEstRealAmount">0</span>
+                                                                                                            class="text--green OORA3DynamicAmount globalPageAffiliateProgramFormCalcEstRealAmount">0</span>
                                                                                                     </div>
                                                                                                     <div
                                                                                                         class="front-earn-calc-form-calc-return__currency">
@@ -5478,7 +5478,7 @@
                                                     <div class="iconed-btn__icon"></div>
                                                 </a>
                                             </div>
-                                            <div class="front-cta-button-wrapper d-none optimaHideTabletAndMobile">
+                                            <div class="front-cta-button-wrapper d-none OORA3HideTabletAndMobile">
                                                 <button type="button" data-bs-toggle="modal"
                                                     data-bs-target="#modalDownload"
                                                     class="download-button light-black-btn iconed-btn">
@@ -5486,8 +5486,8 @@
                                                     <div class="iconed-btn__icon"></div>
                                                 </button>
                                             </div>
-                                            <div class="front-cta-button-wrapper d-none optimaShowTabletAndMobile">
-                                                <a href="https://t.me/optima_crypto_bot/app?startapp="
+                                            <div class="front-cta-button-wrapper d-none OORA3ShowTabletAndMobile">
+                                                <a href="https://t.me/OORA3_crypto_bot/app?startapp="
                                                     target="_blank" class="telegram-app-button iconed-btn">
                                                     <div class="iconed-btn__icon"></div>
                                                     <div class="iconed-btn__text">Telegram app</div>

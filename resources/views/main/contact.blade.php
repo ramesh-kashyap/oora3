@@ -288,12 +288,12 @@ management from submission to resolution.
                                                         </div>
                                                         <div class="front-contact-items">
                                                             <div class="front-contact-item-wrapper">
-                                                                <a href="https://optima.cc/en/contact-us/@optima_help_center"
+                                                                <a href="https://OORA3.cc/en/contact-us/@OORA3_help_center"
                                                                     target="_blank"
                                                                     class="front-contact-item front-contact-item--telegram">
                                                                     <div class="front-contact-item__icon"></div>
                                                                     <div class="front-contact-item__content">
-                                                                        @optima_help_center</div>
+                                                                        @OORA3_help_center</div>
                                                                 </a>
                                                             </div>
                                                             <div class="front-contact-item-wrapper">
@@ -315,11 +315,11 @@ management from submission to resolution.
                                                         </div>
                                                         <div class="front-contact-items">
                                                             <div class="front-contact-item-wrapper">
-                                                                <a href="https://x.com/optima_updates"
+                                                                <a href="https://x.com/OORA3_updates"
                                                                     class="front-contact-item front-contact-item--x">
                                                                     <div class="front-contact-item__image">
                                                                         <img class="image"
-                                                                            src="../../assets/optima/images/svg/dashboard/db-task-item-icon--twitter.svg"
+                                                                            src="../../assets/OORA3/images/svg/dashboard/db-task-item-icon--twitter.svg"
                                                                             alt="">
                                                                     </div>
                                                                     <div class="front-contact-item__content">X
@@ -327,7 +327,7 @@ management from submission to resolution.
                                                                 </a>
                                                             </div>
                                                             <div class="front-contact-item-wrapper">
-                                                                <a href="https://t.me/optima_updates"
+                                                                <a href="https://t.me/OORA3_updates"
                                                                     class="front-contact-item front-contact-item--telegram">
                                                                     <div class="front-contact-item__icon"></div>
                                                                     <div class="front-contact-item__content">
@@ -335,11 +335,11 @@ management from submission to resolution.
                                                                 </a>
                                                             </div>
                                                             <div class="front-contact-item-wrapper">
-                                                                <a href="https://www.youtube.com/@optima_updates"
+                                                                <a href="https://www.youtube.com/@OORA3_updates"
                                                                     class="front-contact-item front-contact-item--youtube">
                                                                     <div class="front-contact-item__image">
                                                                         <img class="image"
-                                                                            src="../../assets/optima/images/svg/dashboard/db-task-item-icon--youtube.svg"
+                                                                            src="../../assets/OORA3/images/svg/dashboard/db-task-item-icon--youtube.svg"
                                                                             alt="">
                                                                     </div>
                                                                     <div class="front-contact-item__content">

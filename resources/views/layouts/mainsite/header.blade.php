@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Optima - Home</title>
+    <title>OORA3 - Home</title>
     <meta charset="utf-8" />
     <meta name="viewport"
         content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -20,7 +20,7 @@
     <link rel="icon" type="image/svg+xml" href="{{ asset('') }}assets/oora3/fav/favicon.svg" />
     <link rel="shortcut icon" href="{{ asset('') }}assets/oora3/fav/favicon.ico" />
     <link rel="apple-touch-icon" sizes="180x180" href="{{ asset('') }}assets/oora3/fav/apple-touch-icon.png" />
-    <meta name="apple-mobile-web-app-title" content="Optima" />
+    <meta name="apple-mobile-web-app-title" content="OORA3" />
 
     <style>
         .blog-detail-content a {
@@ -51,7 +51,7 @@
                                     <div class="topline-social-block">
                                         <div class="topline-social">
                                             <div class="topline-social-item">
-                                                <a href="https://x.com/optima_updates" target="_blank"
+                                                <a href="https://x.com/OORA3_updates" target="_blank"
                                                     class="topline-social-link topline-social-link--x">
                                                     <img class="image"
                                                         src="{{ asset('') }}assets/oora3/images/svg/social/social-link-icon--x.svg"
@@ -59,7 +59,7 @@
                                                 </a>
                                             </div>
                                             <div class="topline-social-item">
-                                                <a href="https://t.me/optima_updates" target="_blank"
+                                                <a href="https://t.me/OORA3_updates" target="_blank"
                                                     class="topline-social-link topline-social-link--telegram">
                                                     <img class="image"
                                                         src="{{ asset('') }}assets/oora3/images/svg/social/social-link-icon--telegram.svg"
@@ -67,7 +67,7 @@
                                                 </a>
                                             </div>
                                             <div class="topline-social-item">
-                                                <a href="https://www.youtube.com/@optima_updates" target="_blank"
+                                                <a href="https://www.youtube.com/@OORA3_updates" target="_blank"
                                                     class="topline-social-link topline-social-link--youtube">
                                                     <img class="image"
                                                         src="{{ asset('') }}assets/oora3/images/svg/social/social-link-icon--youtube.svg"
@@ -171,7 +171,9 @@
                                         <a href="{{ asset('') }}" class="logo">
                                             <div class="logo-img">
                                                 <img class="image"
-                                                    src="{{ asset('') }}assets/oora3/images/svg/logo.svg">
+                                                    src="{{ asset('') }}assets/oora3/images/svg/logo.png" alt="OORA3" style="
+    width: 115px;
+">
                                             </div>
                                         </a>
                                     </div>
@@ -234,7 +236,7 @@
                                     <div class="topline-social-block">
                                         <div class="topline-social">
                                             <div class="topline-social-item">
-                                                <a href="https://x.com/optima_updates" target="_blank"
+                                                <a href="https://x.com/OORA3_updates" target="_blank"
                                                     class="topline-social-link topline-social-link--x">
                                                     <img class="image"
                                                         src="{{ asset('') }}assets/oora3/images/svg/social/social-link-icon--x.svg"
@@ -242,7 +244,7 @@
                                                 </a>
                                             </div>
                                             <div class="topline-social-item">
-                                                <a href="https://t.me/optima_updates" target="_blank"
+                                                <a href="https://t.me/OORA3_updates" target="_blank"
                                                     class="topline-social-link topline-social-link--telegram">
                                                     <img class="image"
                                                         src="{{ asset('') }}assets/oora3/images/svg/social/social-link-icon--telegram.svg"
@@ -250,7 +252,7 @@
                                                 </a>
                                             </div>
                                             <div class="topline-social-item">
-                                                <a href="https://www.youtube.com/@optima_updates" target="_blank"
+                                                <a href="https://www.youtube.com/@OORA3_updates" target="_blank"
                                                     class="topline-social-link topline-social-link--youtube">
                                                     <img class="image"
                                                         src="{{ asset('') }}assets/oora3/images/svg/social/social-link-icon--youtube.svg"

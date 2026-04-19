@@ -67,7 +67,7 @@
                                             </a>
                                         </div>
                                         <div
-                                            class="front-page-info-top-button-wrapper d-none optimaHideTabletAndMobile">
+                                            class="front-page-info-top-button-wrapper d-none OORA3HideTabletAndMobile">
                                             <button type="button" data-bs-toggle="modal"
                                                 data-bs-target="#modalDownload"
                                                 class="download-button light-black-btn iconed-btn">
@@ -76,8 +76,8 @@
                                             </button>
                                         </div>
                                         <div
-                                            class="front-page-info-top-button-wrapper d-none optimaShowTabletAndMobile">
-                                            <a href="https://t.me/optima_crypto_bot/app?startapp=" target="_blank"
+                                            class="front-page-info-top-button-wrapper d-none OORA3ShowTabletAndMobile">
+                                            <a href="https://t.me/OORA3_crypto_bot/app?startapp=" target="_blank"
                                                 class="telegram-app-button iconed-btn">
                                                 <div class="iconed-btn__icon"></div>
                                                 <div class="iconed-btn__text">Telegram app</div>
@@ -85,7 +85,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="front-page-info-top-currency-change-items-block optimaPrice24Change">
+                                <div class="front-page-info-top-currency-change-items-block OORA3Price24Change">
                                     <div class="front-page-info-top-currency-change-items">
                                         <div class="front-page-info-top-currency-change-item-wrapper">
                                             <div class="front-page-info-top-currency-change-item d-none"
@@ -1438,13 +1438,13 @@ It supports efficient asset utilization, real-time interaction, and adaptive par
                                                                                                 class="fp-infographic-item__info-levels">
                                                                                                 <div
                                                                                                     class="fp-infographic-item__info-level fp-infographic-item__info-level--current">
-                                                                                                    Optima 1 </div>
+                                                                                                    OORA3 1 </div>
                                                                                                 <div
                                                                                                     class="fp-infographic-item__info-level-arrow">
                                                                                                 </div>
                                                                                                 <div
                                                                                                     class="fp-infographic-item__info-level fp-infographic-item__info-level--next">
-                                                                                                    Optima 2</div>
+                                                                                                    OORA3 2</div>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
@@ -1479,175 +1479,216 @@ It supports efficient asset utilization, real-time interaction, and adaptive par
 
 
 
-                            
+                          
+
+<div class="front-page-block">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="front-page">
+                    <div class="front-page__fullwidth">
+                        <div class="front-page__content">
+
                             <div class="front-section-block">
-                                <div class="front-section-top-block">
-                                    <div class="front-section-top">
-                                        <div class="front-section-top__left">
-                                            <div class="front-section-title-block">
-                                                <h2 class="front-section-title">
-                                                    Latest posts
-                                                </h2>
-                                            </div>
-                                            <div class="front-section-descr-block">
-                                                <div class="front-section-descr">
-                                                    Read our corporate media magazine featuring expert articles from the
-                                                    Optima team, product press releases, and the latest platform
-                                                    updates.
+                                <div class="front-section-title-block">
+                                    <h2 class="front-section-title">
+                                       Coming Soon 🚀
+                                    </h2>
+                                </div>
+                                <div class="front-section-descr-block">
+                                    <div class="front-section-descr">
+                                          OORA3 ecosystem is launching soon. Stay connected with us for updates,
+        announcements, and early access.
+                                    </div>
+                                </div>
+
+                                <div class="front-section">
+
+                                    <div class="front-direction-items-block">
+                                        <div class="front-direction-items">
+                                            <div class="front-direction-item-wrapper">
+                                                
+                                                <div class="front-direction-item front-direction-item--custody">
+
+                                                    <div class="front-direction-item-infographic">
+                                                        <div class="fdi-infographic-custody">
+                                                            <div class="fdi-infographic-custody-back-line"></div>
+                                                            <div
+                                                                class="fdi-infographic-custody-circle fdi-infographic-custody-circle--outer">
+                                                            </div>
+                                                            <div
+                                                                class="fdi-infographic-custody-circle fdi-infographic-custody-circle--middle">
+                                                            </div>
+                                                            <div
+                                                                class="fdi-infographic-custody-circle fdi-infographic-custody-circle--inner">
+                                                            </div>
+                                                            <div class="fdi-infographic-custody-icon"></div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="front-direction-item-content">
+                                                        <div class="front-direction-item-title-block">
+                                                            <div class="front-direction-item-title">
+                                                                <div class="front-direction-item-title__icon">
+                                                                    <div
+                                                                        class="front-direction-item-title__icon-image">
+                                                                    </div>
+                                                                </div>
+                                                                <div class="front-direction-item-title__text">
+                                                                OORA3 Meet
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="front-direction-item-descr">
+                                                           A decentralized video conferencing platform designed for secure and seamless
+online meetings. OORA3 Meet enables high-quality video calls, real-time
+collaboration, and global communication without relying on centralized servers,
+ensuring privacy, security, and uninterrupted connectivity.
+                                                        </div>
+                                                        <div class="front-direction-item-tags-block">
+                                                            <div class="front-direction-item-tags">
+                                                                <div class="front-direction-item-tag-wrapper">
+                                                                    <div class="front-direction-item-tag">
+                                                                       Video Meetings
+                                                                    </div>
+                                                                </div>
+                                                                <div class="front-direction-item-tag-wrapper">
+                                                                    <div class="front-direction-item-tag">
+                                                                         End-to-End Encryption
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
                                                 </div>
                                             </div>
-                                        </div>
-                                        <div class="front-section-top__right">
-                                            <div class="more-link-block">
-                                                <a href="news/index.html" class="more-link">All posts</a>
+                                            <div class="front-direction-item-wrapper">
+                                                <div class="front-direction-item front-direction-item--credit">
+
+
+
+
+                                                   <div class="front-direction-item-infographic">
+                                                        <div class="fdi-infographic-custody">
+                                                            <div class="fdi-infographic-custody-back-line"></div>
+                                                            <div
+                                                                class="fdi-infographic-custody-circle fdi-infographic-custody-circle--outer">
+                                                            </div>
+                                                            <div
+                                                                class="fdi-infographic-custody-circle fdi-infographic-custody-circle--middle">
+                                                            </div>
+                                                            <div
+                                                                class="fdi-infographic-custody-circle fdi-infographic-custody-circle--inner">
+                                                            </div>
+                                                            <div class="fdi-infographic-custody-icon"></div>
+                                                        </div>
+                                                    </div>
+
+
+
+
+
+                                                    <div class="front-direction-item-content">
+                                                        <div class="front-direction-item-title-block">
+                                                            <div class="front-direction-item-title">
+                                                                <div class="front-direction-item-title__icon">
+                                                                    <div
+                                                                        class="front-direction-item-title__icon-image">
+                                                                    </div>
+                                                                </div>
+                                                                <div class="front-direction-item-title__text">
+                                                                    OORA3 WhatsApp
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="front-direction-item-descr">
+                                                          Stay connected with OORA3 through WhatsApp for instant updates,
+real-time communication, and community support. Get quick access
+to announcements, assistance, and important information anytime,
+anywhere with secure and reliable messaging.
+                                                        </div>
+                                                        <div class="front-direction-item-tags-block">
+                                                            <div class="front-direction-item-tags">
+                                                                <div class="front-direction-item-tag-wrapper">
+                                                                    <div class="front-direction-item-tag">
+                                                                          Instant Messaging
+                                                                    </div>
+                                                                </div>
+                                                                <div class="front-direction-item-tag-wrapper">
+                                                                    <div class="front-direction-item-tag">
+                                                                          24/7 Support
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
                                             </div>
-                                        </div>
+                                            <div class="front-direction-item-wrapper">
+                                                <div class="front-direction-item front-direction-item--staking">
+                                                    <div class="front-direction-item-infographic">
+                                                        <div class="fdi-infographic-custody">
+                                                            <div class="fdi-infographic-custody-back-line"></div>
+                                                            <div
+                                                                class="fdi-infographic-custody-circle fdi-infographic-custody-circle--outer">
+                                                            </div>
+                                                            <div
+                                                                class="fdi-infographic-custody-circle fdi-infographic-custody-circle--middle">
+                                                            </div>
+                                                            <div
+                                                                class="fdi-infographic-custody-circle fdi-infographic-custody-circle--inner">
+                                                            </div>
+                                                            <div class="fdi-infographic-custody-icon"></div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="front-direction-item-content">
+                                                        <div class="front-direction-item-title-block">
+                                                            <div class="front-direction-item-title">
+                                                                <div class="front-direction-item-title__icon">
+                                                                    <div
+                                                                        class="front-direction-item-title__icon-image">
+                                                                    </div>
+                                                                </div>
+                                                                <div class="front-direction-item-title__text">
+                                                                     OORA3 Email
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="front-direction-item-descr">
+                                                          Stay connected with OORA3 through secure and reliable email communication.
+                Receive important updates, announcements, and support directly in your inbox,
+                ensuring seamless interaction with the ecosystem anytime, anywhere.
+                                                        </div>
+                                                        <div class="front-direction-item-tags-block">
+                                                            <div class="front-direction-item-tags">
+                                                                <div class="front-direction-item-tag-wrapper">
+                                                                    <div class="front-direction-item-tag">
+                                                                      Email Support
+                                                                    </div>
+                                                                </div>
+                                                                <div class="front-direction-item-tag-wrapper">
+                                                                    <div class="front-direction-item-tag">
+                                                                       Instant Updates
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                          
                                     </div>
-                                </div>
-                                <div class="front-section">
-                                    <div class="latest-news-items-block">
-                                        <div class="latest-news-items">
-                                            <div class="blog-item-wrapper ">
-                                                <a href="news/language-support-hindi/index.html" class="blog-item ">
-                                                    <div class="blog-item__inner">
 
-
-                                                        <div class="blog-item__tags-block">
-                                                            <div class="blog-item__tags">
-                                                                <div class="blog-item__tag-wrapper">
-                                                                    <div class="blog-item__tag">News</div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="blog-item__image">
-                                                            <img class="image"
-                                                                src="{{ asset('') }}assets/oora3/promo/n3-846-490.png"
-                                                                alt="">
-                                                        </div>
-                                                        <div class="blog-item__content">
-
-                                                            <div class="blog-item__title-block">
-                                                                <h4 class="blog-item__title">
-                                                                    Language support: Hindi
-                                                                </h4>
-                                                            </div>
-                                                            <div class="blog-item__descr-block">
-                                                                <div class="blog-item__descr">
-                                                                    Language support: Hindi
-                                                                </div>
-                                                            </div>
-                                                            <div class="blog-item__info-block">
-                                                                <div class="blog-item__info">
-                                                                    <div class="blog-item__info-date">
-                                                                        Apr 2, 2026
-                                                                    </div>
-                                                                    <div class="blog-item__info-sep d-none"></div>
-                                                                    <div class="blog-item__info-read-time d-none">
-
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-
-                                                    </div>
-                                                </a>
-                                            </div>
-                                            <div class="blog-item-wrapper ">
-                                                <a href="news/press-release-global-launch/index.html"
-                                                    class="blog-item ">
-                                                    <div class="blog-item__inner">
-
-
-                                                        <div class="blog-item__tags-block">
-                                                            <div class="blog-item__tags">
-                                                                <div class="blog-item__tag-wrapper">
-                                                                    <div class="blog-item__tag">News</div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="blog-item__image">
-                                                            <img class="image"
-                                                                src="{{ asset('') }}assets/oora3/promo/n2-site-p-846-490.png"
-                                                                alt="">
-                                                        </div>
-                                                        <div class="blog-item__content">
-
-                                                            <div class="blog-item__title-block">
-                                                                <h4 class="blog-item__title">
-                                                                    Press Release: Global Launch
-                                                                </h4>
-                                                            </div>
-                                                            <div class="blog-item__descr-block">
-                                                                <div class="blog-item__descr">
-                                                                    Press Release: Global Launch
-                                                                </div>
-                                                            </div>
-                                                            <div class="blog-item__info-block">
-                                                                <div class="blog-item__info">
-                                                                    <div class="blog-item__info-date">
-                                                                        Mar 29, 2026
-                                                                    </div>
-                                                                    <div class="blog-item__info-sep d-none"></div>
-                                                                    <div class="blog-item__info-read-time d-none">
-
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-
-                                                    </div>
-                                                </a>
-                                            </div>
-                                            <div class="blog-item-wrapper ">
-                                                <a href="news/press-release-soft-launch/index.html"
-                                                    class="blog-item ">
-                                                    <div class="blog-item__inner">
-
-
-                                                        <div class="blog-item__tags-block">
-                                                            <div class="blog-item__tags">
-                                                                <div class="blog-item__tag-wrapper">
-                                                                    <div class="blog-item__tag">News</div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="blog-item__image">
-                                                            <img class="image"
-                                                                src="{{ asset('') }}assets/oora3/promo/n1-site-p-846-490.png"
-                                                                alt="">
-                                                        </div>
-                                                        <div class="blog-item__content">
-
-                                                            <div class="blog-item__title-block">
-                                                                <h4 class="blog-item__title">
-                                                                    Press Release: Soft Launch
-                                                                </h4>
-                                                            </div>
-                                                            <div class="blog-item__descr-block">
-                                                                <div class="blog-item__descr">
-                                                                    Press Release: Soft Launch
-                                                                </div>
-                                                            </div>
-                                                            <div class="blog-item__info-block">
-                                                                <div class="blog-item__info">
-                                                                    <div class="blog-item__info-date">
-                                                                        Mar 6, 2026
-                                                                    </div>
-                                                                    <div class="blog-item__info-sep d-none"></div>
-                                                                    <div class="blog-item__info-read-time d-none">
-
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
                                 </div>
                             </div>
+
+
+
+
+
+
+
+
+                            
 
                             <div class="front-section-block front-section-block--partners">
 
@@ -1833,7 +1874,7 @@ It supports efficient asset utilization, real-time interaction, and adaptive par
                                                     <div class="iconed-btn__icon"></div>
                                                 </a>
                                             </div>
-                                            <div class="front-cta-button-wrapper d-none optimaHideTabletAndMobile">
+                                            <div class="front-cta-button-wrapper d-none OORA3HideTabletAndMobile">
                                                 <button type="button" data-bs-toggle="modal"
                                                     data-bs-target="#modalDownload"
                                                     class="download-button light-black-btn iconed-btn">
@@ -1841,8 +1882,8 @@ It supports efficient asset utilization, real-time interaction, and adaptive par
                                                     <div class="iconed-btn__icon"></div>
                                                 </button>
                                             </div>
-                                            <div class="front-cta-button-wrapper d-none optimaShowTabletAndMobile">
-                                                <a href="https://t.me/optima_crypto_bot/app?startapp=" target="_blank"
+                                            <div class="front-cta-button-wrapper d-none OORA3ShowTabletAndMobile">
+                                                <a href="https://t.me/OORA3_crypto_bot/app?startapp=" target="_blank"
                                                     class="telegram-app-button iconed-btn">
                                                     <div class="iconed-btn__icon"></div>
                                                     <div class="iconed-btn__text">Telegram app</div>

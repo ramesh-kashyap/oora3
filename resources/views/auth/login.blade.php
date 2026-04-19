@@ -3,6 +3,7 @@
 
 <head>
     <title>OORA3 - Log In</title>
+    <title>OORA3 - Log In</title>
     <meta charset="utf-8" />
     <meta name="viewport"
         content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -19,6 +20,7 @@
     <link rel="icon" type="image/svg+xml" href="{{ asset('') }}assets/oora3/fav/favicon.svg" />
     <link rel="shortcut icon" href="{{ asset('') }}assets/oora3/fav/favicon.ico" />
     <link rel="apple-touch-icon" sizes="180x180" href="{{ asset('') }}assets/oora3/fav/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-title" content="OORA3" />
     <meta name="apple-mobile-web-app-title" content="OORA3" />
     <link rel="manifest" href="{{ asset('') }}assets/oora3/fav/site.webmanifest.txt" />
 
@@ -75,6 +77,7 @@
                                         </div>
                                         <div class="form-subtitle-block">
                                             <div class="form-subtitle">
+                                                Log in to access OORA3 products
                                                 Log in to access OORA3 products
                                             </div>
                                         </div>

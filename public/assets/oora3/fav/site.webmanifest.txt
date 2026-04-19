@@ -1,6 +1,6 @@
 {
-  "name": "Optima",
-  "short_name": "Optima",
+  "name": "OORA3",
+  "short_name": "OORA3",
   "icons": [
     {
       "src": "/assets/oora3/fav/web-app-manifest-192x192.png",
