@@ -68,7 +68,7 @@
                                 <div class="front-page-info-top-buttons-block">
                                     <div class="front-page-info-top-buttons">
                                         <div class="front-page-info-top-button-wrapper">
-                                            <a href="../sign-up/index.html"
+                                            <a href="{{route('index')}}"
                                                 class="front-page-info-top-button green-gradient-btn iconed-btn">
                                                 <div class="iconed-btn__text">Create Account</div>
                                                 <div class="iconed-btn__icon"></div>

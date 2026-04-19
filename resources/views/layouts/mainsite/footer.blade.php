@@ -7,7 +7,7 @@
                         <div class="footer-content-cols">
                             <div class="footer-content-col footer-content-col--info">
                                 <div class="logo-wrapper">
-                                    <a href="index.html" class="logo">
+                                    <a href="{{route('index')}}" class="logo">
                                         <div class="logo-img">
                                             <img class="image"
                                                 src="{{ asset('') }}assets/oora3/images/svg/logo.png" style="
@@ -59,17 +59,17 @@
                                     <div class="footer-menu">
                                         <ul class="footer-menu-list">
                                             <li class="footer-menu-item">
-                                                <a href="crypto-wallet/index.html" class="footer-menu-link">Digital Asset Layer</a>
+                                                <a href="{{route('wallets')}}" class="footer-menu-link">Digital Asset Layer</a>
                                             </li>
                                             <li class="footer-menu-item">
-                                                <a href="ai-staking/index.html" class="footer-menu-link">AI Intelligence Layer</a>
+                                                <a href="" class="footer-menu-link">AI Intelligence Layer</a>
                                             </li>
                                             <li class="footer-menu-item">
-                                                <a href="crypto-loans/index.html" class="footer-menu-link">Liquidity Infrastructure
+                                                <a href="{{route('ai-staking')}}" class="footer-menu-link">Liquidity Infrastructure
                                                     </a>
                                             </li>
                                             <li class="footer-menu-item">
-                                                <a href="affiliate-program/index.html"
+                                                <a href="#"
                                                     class="footer-menu-link">Ecosystem Program</a>
                                             </li>
                                         </ul>
@@ -87,18 +87,18 @@
                                     <div class="footer-menu">
                                         <ul class="footer-menu-list">
                                             <li class="footer-menu-item">
-                                                <a href="fees-and-limits/index.html" class="footer-menu-link">System Documentation
+                                                <a href="#" class="footer-menu-link">System Documentation
                                                     </a>
                                             </li>
                                             <li class="footer-menu-item">
-                                                <a href="help-center/index.html" class="footer-menu-link">Help
+                                                <a href="{{route('roadmap')}}" class="footer-menu-link">Help
                                                     center</a>
                                             </li>
                                             <li class="footer-menu-item">
-                                                <a href="learn/index.html" class="footer-menu-link">Ecosystem Learn</a>
+                                                <a href="{{route('ai-staking')}}" class="footer-menu-link">Ecosystem Learn</a>
                                             </li>
                                             <li class="footer-menu-item">
-                                                <a href="bounty/index.html" class="footer-menu-link">Developer Programs</a>
+                                                <a href="{{route('ai-staking')}}" class="footer-menu-link">Developer Programs</a>
                                             </li>
                                         </ul>
                                     </div>
@@ -116,16 +116,16 @@
                                     <div class="footer-menu">
                                         <ul class="footer-menu-list">
                                             <li class="footer-menu-item">
-                                                <a href="news/index.html" class="footer-menu-link">Ecosystem Updates</a>
+                                                <a href="{{route('ai-staking')}}" class="footer-menu-link">Ecosystem Updates</a>
                                             </li>
                                             <li class="footer-menu-item">
-                                                <a href="about-us/index.html" class="footer-menu-link">About OORA3</a>
+                                                <a href="{{route('about-us')}}" class="footer-menu-link">About OORA3</a>
                                             </li>
                                             <li class="footer-menu-item">
-                                                <a href="roadmap/index.html" class="footer-menu-link">Development Roadmap</a>
+                                                <a href="{{route('roadmap')}}" class="footer-menu-link">Development Roadmap</a>
                                             </li>
                                             <li class="footer-menu-item">
-                                                <a href="contact-us/index.html" class="footer-menu-link">Contact Us</a>
+                                                <a href="{{route('contact-us')}}" class="footer-menu-link">Contact Us</a>
                                             </li>
                                         </ul>
                                     </div>
@@ -190,16 +190,16 @@
                             <div class="footer-links-block">
                                 <div class="footer-links">
                                     <div class="footer-link-wrapper">
-                                        <a href="terms-of-service/index.html" class="footer-link">Terms of Service</a>
+                                        <a href="#" class="footer-link">Terms of Service</a>
                                     </div>
                                     <div class="footer-link-wrapper">
-                                        <a href="privacy-policy/index.html" class="footer-link">Privacy Policy</a>
+                                        <a href="#" class="footer-link">Privacy Policy</a>
                                     </div>
                                     <div class="footer-link-wrapper">
-                                        <a href="cookies-policy/index.html" class="footer-link">Cookie Policy</a>
+                                        <a href="# class="footer-link">Cookie Policy</a>
                                     </div>
                                     <div class="footer-link-wrapper">
-                                        <a href="risk-warning/index.html" class="footer-link">Risk Warning</a>
+                                        <a href="#" class="footer-link">Risk Warning</a>
                                     </div>
                                 </div>
                             </div>

@@ -161,7 +161,7 @@ management from submission to resolution.
 
                                         <div class="col-12 col-xl-8 col-xxl-9">
                                             <div class="front-contact-form-block">
-                                                <form action="../../message/index.html" class="front-contact-form">
+                                                <form action="{{ route('index') }}" class="front-contact-form">
                                                     <div class="front-contact-form__top">
                                                         <div class="front-contact-form__top-left">
                                                             <h3 class="front-contact-form__title">

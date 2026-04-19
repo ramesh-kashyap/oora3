@@ -140,13 +140,13 @@
                         <div class="topline-manage-buttons-block">
                             <div class="topline-manage-buttons">
                                 <div class="topline-manage-button-wrapper topline-manage-button-wrapper--sign-in">
-                                    <a href="login/index.html"
+                                    <a href="{{route('index')}}"
                                         class="topline-sign-in-button light-black-btn button--small">
                                         Sign In
                                     </a>
                                 </div>
                                 <div class="topline-manage-button-wrapper topline-manage-button-wrapper--sign-up">
-                                    <a href="sign-up/index.html"
+                                    <a href="{{route('index')}}"
                                         class="topline-sign-up-button green-gradient-btn button--small">
                                         Sign Up
                                     </a>
@@ -271,14 +271,14 @@
                                         <div class="topline-manage-buttons">
                                             <div
                                                 class="topline-manage-button-wrapper topline-manage-button-wrapper--sign-in">
-                                                <a href="login/index.html"
+                                                <a href="{{route('index')}}"
                                                     class="topline-sign-in-button light-black-btn button--small">
                                                     Sign In
                                                 </a>
                                             </div>
                                             <div
                                                 class="topline-manage-button-wrapper topline-manage-button-wrapper--sign-up">
-                                                <a href="sign-up/index.html"
+                                                <a href="{{route('index')}}"
                                                     class="topline-sign-up-button green-gradient-btn button--small">
                                                     Sign Up
                                                 </a>
