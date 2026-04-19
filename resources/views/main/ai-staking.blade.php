@@ -16,18 +16,17 @@
 
                                     <div class="front-page-info-top-title-block">
                                         <h1 class="front-page-info-top-title">
-                                            AI Staking.
+                                            AI-Powered Staking. 
                                             <div class="gradient-text-wrapper">
                                                 <div class="gradient-text">
-                                                    Hold and Earn.
+                                                   Smarter Growth.
                                                 </div>
                                             </div>
                                         </h1>
                                     </div>
                                     <div class="front-page-info-top-descr-block">
                                         <div class="front-page-info-top-descr">
-                                            Stake your coins under the management of our AI-driven trading models and
-                                            earn profits from market trades executed on your active contracts.
+                                          Let your assets work intelligently with AI-driven strategies designed to maximize returns while maintaining stability and risk control.
                                         </div>
                                     </div>
                                 </div>
@@ -37,8 +36,8 @@
                                             <div
                                                 class="front-page-info-feature-item front-page-info-feature-item--ai-staking-potential">
                                                 <div class="front-page-info-feature-item__icon"></div>
-                                                <div class="front-page-info-feature-item__text">Ultra-high potential
-                                                    profit
+                                                <div class="front-page-info-feature-item__text">
+                                                  High-Yield Profit Engine  
                                                 </div>
                                             </div>
                                         </div>
@@ -46,15 +45,14 @@
                                             <div
                                                 class="front-page-info-feature-item front-page-info-feature-item--home-audited">
                                                 <div class="front-page-info-feature-item__icon"></div>
-                                                <div class="front-page-info-feature-item__text">Protection against
-                                                    capital loss</div>
+                                                <div class="front-page-info-feature-item__text">Capital Protection System </div>
                                             </div>
                                         </div>
                                         <div class="front-page-info-feature-item-wrapper">
                                             <div
                                                 class="front-page-info-feature-item front-page-info-feature-item--home-ai-active">
                                                 <div class="front-page-info-feature-item__icon"></div>
-                                                <div class="front-page-info-feature-item__text">AI Trading Engine</div>
+                                                <div class="front-page-info-feature-item__text">Autonomous AI Trading  </div>
                                             </div>
                                         </div>
                                     </div>
@@ -64,7 +62,7 @@
                                         <div class="front-page-info-top-button-wrapper">
                                             <a href="../sign-up/index.html"
                                                 class="front-page-info-top-button green-gradient-btn iconed-btn">
-                                                <div class="iconed-btn__text">Stake Now</div>
+                                                <div class="iconed-btn__text">Start Earning Now </div>
                                                 <div class="iconed-btn__icon"></div>
                                             </a>
                                         </div>
@@ -73,7 +71,8 @@
                                             <button type="button" data-bs-toggle="modal"
                                                 data-bs-target="#modalDownload"
                                                 class="download-button light-black-btn iconed-btn">
-                                                <div class="iconed-btn__text">Download</div>
+                                                <div class="iconed-btn__text">Download App  
+</div>
                                                 <div class="iconed-btn__icon"></div>
                                             </button>
                                         </div>
@@ -82,7 +81,7 @@
                                             <a href="https://t.me/optima_crypto_bot/app?startapp=" target="_blank"
                                                 class="telegram-app-button iconed-btn">
                                                 <div class="iconed-btn__icon"></div>
-                                                <div class="iconed-btn__text">Telegram app</div>
+                                                <div class="iconed-btn__text">Estimate Returns  </div>
                                             </a>
                                         </div>
                                         <div class="front-page-info-top-button-wrapper">
@@ -141,7 +140,7 @@
                                                             </div>
                                                             <div class="fp-infographic-item__info__content">
                                                                 <div class="fp-infographic-item__info__value">
-                                                                    Algorithmic trading
+                                                                    AI Algorithmic Execution
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -160,7 +159,8 @@
                                                             </div>
                                                             <div class="fp-infographic-item__info__content">
                                                                 <div class="fp-infographic-item__info__value">
-                                                                    Medium term trading
+                                                                   High-Frequency Trading
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -179,7 +179,7 @@
                                                             </div>
                                                             <div class="fp-infographic-item__info__content">
                                                                 <div class="fp-infographic-item__info__value">
-                                                                    Short term trading
+                                                                   Long-Term Growth Engine
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -226,145 +226,18 @@
                     <div class="front-page__fullwidth">
                         <div class="front-page__content">
 
-                            <div class="front-features-block">
-                                <div class="front-features">
-                                    <div class="front-features-top-block">
-                                        <div class="front-features-top">
-                                            <div class="front-features-top__left">
-                                                <h2 class="front-features-top__title">
-                                                    Key advantages of AI Staking
-                                                </h2>
-                                                <div class="front-features-top__descr">
-                                                    Why Choose AI Staking Over Simply Holding Your Coins?
-                                                </div>
-
-                                            </div>
-                                            <div class="front-features-top__right">
-                                                <div class="more-link-block">
-                                                    <a href="javascript:void(0)"
-                                                        data-scroll=".globalPageAIStakingStrategies"
-                                                        class="more-link">Available strategies</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="front-feature-items-block">
-                                        <div class="front-feature-items">
-                                            <div class="front-feature-item-wrapper">
-                                                <div class="front-feature-item">
-                                                    <div class="front-feature-item__icon">
-                                                        <img class="image"
-                                                            src="{{asset('')}}assets/oora3/images/svg/front/front-feature-item-icon--trending-up.svg"
-                                                            alt="">
-                                                    </div>
-                                                    <div class="front-feature-item__title">
-                                                        High potential yield
-                                                    </div>
-                                                    <div class="front-feature-item__descr">
-                                                        Consistently high, predictable staking rewards powered by a
-                                                        robust trading engine, trend-following strategies, and AI models
-                                                        that dynamically adapt to market conditions.
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="front-feature-item-wrapper">
-                                                <div class="front-feature-item">
-                                                    <div class="front-feature-item__icon">
-                                                        <img class="image"
-                                                            src="{{asset('')}}assets/oora3/images/svg/front/front-feature-item-icon--shield-check.svg"
-                                                            alt="">
-                                                    </div>
-                                                    <div class="front-feature-item__title">
-                                                        Protection against capital loss
-                                                    </div>
-                                                    <div class="front-feature-item__descr">
-                                                        Maintaining staking strategy yields above a certain threshold by
-                                                        compensating stakeholders' operational losses from the Optima
-                                                        insurance reserve.
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="front-feature-item-wrapper">
-                                                <div class="front-feature-item">
-                                                    <div class="front-feature-item__icon">
-                                                        <img class="image"
-                                                            src="{{asset('')}}assets/oora3/images/svg/front/front-feature-item-icon--infinity.svg"
-                                                            alt="">
-                                                    </div>
-                                                    <div class="front-feature-item__title">
-                                                        Unlimited profit
-                                                    </div>
-                                                    <div class="front-feature-item__descr">
-                                                        Floating staking rewards with no upper limit on potential
-                                                        profits or artificial constraints limiting the yield of AI
-                                                        agents in a free market.
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="front-feature-item-wrapper">
-                                                <div class="front-feature-item">
-                                                    <div class="front-feature-item__icon">
-                                                        <img class="image"
-                                                            src="{{asset('')}}assets/oora3/images/svg/front/front-feature-item-icon--zap.svg"
-                                                            alt="">
-                                                    </div>
-                                                    <div class="front-feature-item__title">
-                                                        Instant staking activation
-                                                    </div>
-                                                    <div class="front-feature-item__descr">
-                                                        Instant contract activation after staking, without execution
-                                                        delays.
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="front-feature-item-wrapper">
-                                                <div class="front-feature-item">
-                                                    <div class="front-feature-item__icon">
-                                                        <img class="image"
-                                                            src="{{asset('')}}assets/oora3/images/svg/front/front-feature-item-icon--lock-open.svg"
-                                                            alt="">
-                                                    </div>
-                                                    <div class="front-feature-item__title">
-                                                        Rapid release
-                                                    </div>
-                                                    <div class="front-feature-item__descr">
-                                                        Full or partial unstaking to your wallet balance with a short
-                                                        waiting period.
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="front-feature-item-wrapper">
-                                                <div class="front-feature-item">
-                                                    <div class="front-feature-item__icon">
-                                                        <img class="image"
-                                                            src="{{asset('')}}assets/oora3/images/svg/front/front-feature-item-icon--plus.svg"
-                                                            alt="">
-                                                    </div>
-                                                    <div class="front-feature-item__title">
-                                                        Top-up of an active contract
-                                                    </div>
-                                                    <div class="front-feature-item__descr">
-                                                        Top up your active contract balance at any time for a controlled
-                                                        increase in staking yields.
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                         
 
 
                             <div class="front-section-block globalPageAIStakingStrategies">
                                 <div class="front-section-title-block">
                                     <h2 class="front-section-title">
-                                        Available AI Staking Strategies
+                                       AI Staking Strategies Engine
                                     </h2>
                                 </div>
                                 <div class="front-section-descr-block">
                                     <div class="front-section-descr">
-                                        Evaluate how the choice of staking strategy affects your contract's trading
-                                        patterns, transaction frequency, and expected yield.
+                                       Explore how different AI-powered strategies shape your trading performance, execution speed, and earning potential.
                                     </div>
                                 </div>
                                 <div class="front-section">
@@ -380,14 +253,12 @@
                                                             </div>
                                                             <div class="front-ai-strategy-item__title-block">
                                                                 <div class="front-ai-strategy-item__title h1">
-                                                                    Algorithmic trading
+                                                                   AI Algorithmic Trading Engine
                                                                 </div>
                                                             </div>
                                                             <div class="front-ai-strategy-item__descr-block">
                                                                 <div class="front-ai-strategy-item__descr">
-                                                                    Immediate market transactions with your crypto
-                                                                    assets in a staking pool with per-second reward
-                                                                    accruals.
+                                                                 Execute real-time market operations through an AI-powered staking pool designed for continuous trading, precision execution, and optimized reward generation.
                                                                 </div>
                                                             </div>
                                                             <div class="front-ai-strategy-item__features-block">
@@ -400,9 +271,8 @@
                                                                             </div>
                                                                             <div
                                                                                 class="front-ai-strategy-item__feature__text">
-                                                                                Profits accrue <span
-                                                                                    class="text--white">every
-                                                                                    second</span>
+                                                                               Real-time <span
+                                                                                    class="text--white"> profit generation with continuous execution cycles </span>
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -414,9 +284,9 @@
                                                                             </div>
                                                                             <div
                                                                                 class="front-ai-strategy-item__feature__text">
-                                                                                Average daily return: <span
-                                                                                    class="text--white">≈1%</span>
-                                                                                (before fees)
+                                                                                  AI-optimized: <span
+                                                                                    class="text--white"></span>
+                                                                               daily returns  
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -428,8 +298,7 @@
                                                                             </div>
                                                                             <div
                                                                                 class="front-ai-strategy-item__feature__text">
-                                                                                Full or partial principal release at any
-                                                                                time without fees
+                                                                                Instant withdrawal flexibility
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -441,8 +310,8 @@
                                                                             </div>
                                                                             <div
                                                                                 class="front-ai-strategy-item__feature__text">
-                                                                                Hold time: <span class="text--white">8
-                                                                                    hours after release request</span>
+                                                                                Fast: <span class="text--white">
+                                                                                     processing time</span>
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -468,7 +337,7 @@
                                                                             data-scroll=".globalPageAIStakingCalc"
                                                                             data-strategy="algo"
                                                                             class="front-ai-strategy-item__calc-button white-btn iconed-btn">
-                                                                            <div class="iconed-btn__text">Calculate
+                                                                            <div class="iconed-btn__text">Estimate Returns
                                                                             </div>
                                                                             <div class="iconed-btn__icon"></div>
                                                                         </button>
@@ -479,7 +348,7 @@
                                                                             data-scroll=".globalPageAIStakingTrades"
                                                                             data-strategy-trades="algo"
                                                                             class="front-ai-strategy-item__view-button light-black-btn iconed-btn">
-                                                                            <div class="iconed-btn__text">Latest Trades
+                                                                            <div class="iconed-btn__text">Live Trade Activity
                                                                             </div>
                                                                             <div class="iconed-btn__icon"></div>
                                                                         </button>
@@ -523,8 +392,9 @@
                                                                             </div>
                                                                             <div
                                                                                 class="ai-strategy-infographic-return__content">
-                                                                                Release at any time <div
-                                                                                    class="text--yellow">without fees
+                                                                               Instant Withdrawal 
+ <div
+                                                                                    class="text--yellow">Flexibility
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -539,7 +409,6 @@
                                                                                     class="ai-strategy-infographic-daily-top__left">
                                                                                     <div
                                                                                         class="ai-strategy-infographic-daily-top__percent">
-                                                                                        ≈1%
                                                                                     </div>
                                                                                     <div
                                                                                         class="ai-strategy-infographic-daily-top__descr">
@@ -629,13 +498,12 @@
                                                             </div>
                                                             <div class="front-ai-strategy-item__title-block">
                                                                 <div class="front-ai-strategy-item__title h1">
-                                                                    Short term trading
+                                                                   Short-Term AI Trading Strategy
                                                                 </div>
                                                             </div>
                                                             <div class="front-ai-strategy-item__descr-block">
                                                                 <div class="front-ai-strategy-item__descr">
-                                                                    Fast-paced intraday swaps targeting momentum-driven
-                                                                    exchange quotes with short holding periods.
+                                                                   Fast-executing AI-powered trading designed to capture short-term market opportunities with precision and speed. This strategy focuses on high-frequency trades with optimized risk control and consistent performance
                                                                 </div>
                                                             </div>
                                                             <div class="front-ai-strategy-item__features-block">
@@ -649,8 +517,7 @@
                                                                             <div
                                                                                 class="front-ai-strategy-item__feature__text">
                                                                                 Average trading speed: <span
-                                                                                    class="text--white">3 trades per
-                                                                                    day</span>
+                                                                                    class="text--white">3–5 trades per day</span>
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -663,8 +530,8 @@
                                                                             <div
                                                                                 class="front-ai-strategy-item__feature__text">
                                                                                 Average trade return: <span
-                                                                                    class="text--white">≈0.42%</span>
-                                                                                (before fees)
+                                                                                    class="text--white">~0.3% – 0.5% per trade</span>
+                                                                               
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -677,7 +544,7 @@
                                                                             <div
                                                                                 class="front-ai-strategy-item__feature__text">
                                                                                 Average daily return: <span
-                                                                                    class="text--white">≈1.25%</span>
+                                                                                    class="text--white">~1% – 1.3% </span>
                                                                                 (before fees)
                                                                             </div>
                                                                         </div>
@@ -690,8 +557,7 @@
                                                                             </div>
                                                                             <div
                                                                                 class="front-ai-strategy-item__feature__text">
-                                                                                Full or partial principal release at any
-                                                                                time without fees
+                                                                                Smart risk management with real-time market analysis
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -703,8 +569,7 @@
                                                                             </div>
                                                                             <div
                                                                                 class="front-ai-strategy-item__feature__text">
-                                                                                Hold time: <span class="text--white">12
-                                                                                    hours after release request</span>
+                                                                                Instant liquidity: <span class="text--white"> with no lock-in restrictions</span>
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -716,7 +581,7 @@
                                                                             </div>
                                                                             <div
                                                                                 class="front-ai-strategy-item__feature__text">
-                                                                                Add funds to active contract at any time
+                                                                               Flexible capital management — add or withdraw anytime
                                                                             </div>
                                                                         </div>
                                                                     </div>
