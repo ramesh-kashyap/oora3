@@ -326,28 +326,18 @@ ensuring privacy, security, and uninterrupted connectivity.
                                             <div class="front-direction-item-wrapper">
                                                 <div class="front-direction-item front-direction-item--credit">
                                                     <div class="front-direction-item-infographic">
-                                                        <div class="fdi-infographic-credit-wrapper">
-                                                            <div class="fdi-infographic-credit">
-                                                                <div class="fdi-infographic-credit-top">
-                                                                    <div class="fdi-infographic-credit-top__left">
-                                                                        <div class="fdi-infographic-credit__rectangle">
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="fdi-infographic-credit-top__right">
-                                                                        <div class="fdi-infographic-credit__icon">
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="fdi-infographic-credit-bottom">
-                                                                    <div class="fdi-infographic-credit__title">
-                                                                        Available
-                                                                    </div>
-                                                                    <div class="fdi-infographic-credit__value">
-                                                                        $250,000<span class="text--blue">.00</span>
-                                                                    </div>
-                                                                </div>
+                                                        <div class="fdi-infographic-custody">
+                                                            <div class="fdi-infographic-custody-back-line"></div>
+                                                            <div
+                                                                class="fdi-infographic-custody-circle fdi-infographic-custody-circle--outer">
                                                             </div>
-                                                            <div class="fdi-infographic-credit-back"></div>
+                                                            <div
+                                                                class="fdi-infographic-custody-circle fdi-infographic-custody-circle--middle">
+                                                            </div>
+                                                            <div
+                                                                class="fdi-infographic-custody-circle fdi-infographic-custody-circle--inner">
+                                                            </div>
+                                                            <div class="fdi-infographic-custody-icon"></div>
                                                         </div>
                                                     </div>
                                                     <div class="front-direction-item-content">
@@ -388,12 +378,19 @@ anywhere with secure and reliable messaging.
                                             </div>
                                             <div class="front-direction-item-wrapper">
                                                 <div class="front-direction-item front-direction-item--staking">
-                                                    <div class="front-direction-item-infographic">
-                                                        <div class="fdi-infographic-staking-wrapper">
-                                                            <div class="fdi-infographic-staking">
-                                                                <div class="fdi-infographic-staking__icon"></div>
+                                                   <div class="front-direction-item-infographic">
+                                                        <div class="fdi-infographic-custody">
+                                                            <div class="fdi-infographic-custody-back-line"></div>
+                                                            <div
+                                                                class="fdi-infographic-custody-circle fdi-infographic-custody-circle--outer">
                                                             </div>
-                                                            <div class="fdi-infographic-staking-percent">+5.2%</div>
+                                                            <div
+                                                                class="fdi-infographic-custody-circle fdi-infographic-custody-circle--middle">
+                                                            </div>
+                                                            <div
+                                                                class="fdi-infographic-custody-circle fdi-infographic-custody-circle--inner">
+                                                            </div>
+                                                            <div class="fdi-infographic-custody-icon"></div>
                                                         </div>
                                                     </div>
                                                     <div class="front-direction-item-content">
