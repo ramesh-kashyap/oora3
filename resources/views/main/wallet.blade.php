@@ -293,12 +293,10 @@ Seamless Ecosystem Interaction
                                                             alt="">
                                                     </div>
                                                     <div class="front-feature-item__title">
-                                                        Multicurrency
+                                                       Multi-Asset Ecosystem
                                                     </div>
                                                     <div class="front-feature-item__descr">
-                                                        Support for major and most popular cryptocurrencies, with the
-                                                        scheduled integration of new coins and networks into the wallet
-                                                        interface.
+                                                       Support for diverse digital assets within a unified ecosystem, enabling seamless interaction and integration across decentralized infrastructure layers.
                                                     </div>
                                                 </div>
                                             </div>
@@ -310,11 +308,10 @@ Seamless Ecosystem Interaction
                                                             alt="">
                                                     </div>
                                                     <div class="front-feature-item__title">
-                                                        Privacy-first architecture
+                                                       Privacy-Centric Architecture
                                                     </div>
                                                     <div class="front-feature-item__descr">
-                                                        Absolute privacy of data and holder activity within the Optima
-                                                        ecosystem, ensured at the infrastructural level.
+                                                      A system designed with privacy at its core, ensuring secure data handling and protected user activity through advanced decentralized frameworks.
                                                     </div>
                                                 </div>
                                             </div>
@@ -326,11 +323,10 @@ Seamless Ecosystem Interaction
                                                             alt="">
                                                     </div>
                                                     <div class="front-feature-item__title">
-                                                        Malicious address warnings
+                                                       Risk Monitoring System
                                                     </div>
                                                     <div class="front-feature-item__descr">
-                                                        Automatic detection and alerting of high-risk addresses to
-                                                        prevent unwanted transactions and protect your reputation.
+                                                       Intelligent detection mechanisms that identify and flag potential risks, ensuring secure and reliable asset interaction across the ecosystem.
                                                     </div>
                                                 </div>
                                             </div>
@@ -342,12 +338,10 @@ Seamless Ecosystem Interaction
                                                             alt="">
                                                     </div>
                                                     <div class="front-feature-item__title">
-                                                        Ultimate Asset Protection
+                                                       Advanced Asset Protection
                                                     </div>
                                                     <div class="front-feature-item__descr">
-                                                        TLS data encryption, RBAC principles, incident control,
-                                                        compliance and risk management procedures comparable to the
-                                                        security measures of institutional depositories.
+                                                       A multi-layered security framework with encryption, access control, and risk management systems to ensure maximum asset safety and system integrity.
 
                                                     </div>
                                                 </div>
@@ -360,12 +354,10 @@ Seamless Ecosystem Interaction
                                                             alt="">
                                                     </div>
                                                     <div class="front-feature-item__title">
-                                                        Web & apps
+                                                        Cross-Platform Access
                                                     </div>
                                                     <div class="front-feature-item__descr">
-                                                        Convenient access to the platform directly from your mobile or
-                                                        desktop device via the official Optima app, as well as using the
-                                                        web version of the wallet.
+                                                      Seamless access across web and mobile environments, enabling consistent and efficient interaction with the ecosystem from any device.
                                                     </div>
                                                 </div>
                                             </div>
@@ -377,11 +369,10 @@ Seamless Ecosystem Interaction
                                                             alt="">
                                                     </div>
                                                     <div class="front-feature-item__title">
-                                                        Built-in crypto exchange
+                                                       Seamless Value Exchange
                                                     </div>
                                                     <div class="front-feature-item__descr">
-                                                        Instant off-chain crypto swaps within your wallet with low
-                                                        service fees and zero transaction confirmation time.
+                                                        Efficient and real-time value movement across the ecosystem, ensuring smooth interaction and optimized system performance.
                                                     </div>
                                                 </div>
                                             </div>
@@ -398,338 +389,12 @@ Seamless Ecosystem Interaction
 
 
 
-                            <div class="front-section-block">
-                                <div class="front-section-title-block">
-                                    <h2 class="front-section-title">
-                                        Available coins
-                                    </h2>
-                                </div>
-                                <div class="front-section-descr-block">
-                                    <div class="front-section-descr">
-                                        We support the most popular blockchains and regularly work on integrating new
-                                        coins into our infrastructure.
-                                    </div>
-                                </div>
-                                <div class="front-section">
-                                    <div class="front-currency-list-block">
-                                        <div class="front-currency-list">
-
-                                            <div class="front-currency-list-item-wrapper">
-                                                <div class="front-currency-list-item">
-                                                    <div class="currency-item">
-                                                        <div class="currency-icon currency-icon--usdt">
-                                                            <img class="image"
-                                                                src="{{asset('')}}assets/oora3/images/svg/currency/usdt.svg"
-                                                                alt="">
-                                                        </div>
-                                                        <div class="currency-item__content">
-                                                            <div class="currency-item__title">
-                                                                Tether
-                                                            </div>
-                                                            <div class="currency-item__abbr">
-                                                                USDT
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="front-currency-list-item-wrapper">
-                                                <div class="front-currency-list-item">
-                                                    <div class="currency-item">
-                                                        <div class="currency-icon currency-icon--usdc">
-                                                            <img class="image"
-                                                                src="{{asset('')}}assets/oora3/images/svg/currency/usdc.svg"
-                                                                alt="">
-                                                        </div>
-                                                        <div class="currency-item__content">
-                                                            <div class="currency-item__title">
-                                                                USDC
-                                                            </div>
-                                                            <div class="currency-item__abbr">
-                                                                USDC
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="front-currency-list-item-wrapper">
-                                                <div class="front-currency-list-item">
-                                                    <div class="currency-item">
-                                                        <div class="currency-icon currency-icon--btc">
-                                                            <img class="image"
-                                                                src="{{asset('')}}assets/oora3/images/svg/currency/btc.svg"
-                                                                alt="">
-                                                        </div>
-                                                        <div class="currency-item__content">
-                                                            <div class="currency-item__title">
-                                                                Bitcoin
-                                                            </div>
-                                                            <div class="currency-item__abbr">
-                                                                BTC
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="front-currency-list-item-wrapper">
-                                                <div class="front-currency-list-item">
-                                                    <div class="currency-item">
-                                                        <div class="currency-icon currency-icon--eth">
-                                                            <img class="image"
-                                                                src="{{asset('')}}assets/oora3/images/svg/currency/eth.svg"
-                                                                alt="">
-                                                        </div>
-                                                        <div class="currency-item__content">
-                                                            <div class="currency-item__title">
-                                                                Ethereum
-                                                            </div>
-                                                            <div class="currency-item__abbr">
-                                                                ETH
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="front-currency-list-item-wrapper">
-                                                <div class="front-currency-list-item">
-                                                    <div class="currency-item">
-                                                        <div class="currency-icon currency-icon--bnb">
-                                                            <img class="image"
-                                                                src="{{asset('')}}assets/oora3/images/svg/currency/bnb.svg"
-                                                                alt="">
-                                                        </div>
-                                                        <div class="currency-item__content">
-                                                            <div class="currency-item__title">
-                                                                BNB
-                                                            </div>
-                                                            <div class="currency-item__abbr">
-                                                                BNB
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="front-currency-list-item-wrapper">
-                                                <div class="front-currency-list-item">
-                                                    <div class="currency-item">
-                                                        <div class="currency-icon currency-icon--sol">
-                                                            <img class="image"
-                                                                src="{{asset('')}}assets/oora3/images/svg/currency/sol.svg"
-                                                                alt="">
-                                                        </div>
-                                                        <div class="currency-item__content">
-                                                            <div class="currency-item__title">
-                                                                Solana
-                                                            </div>
-                                                            <div class="currency-item__abbr">
-                                                                SOL
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="front-currency-list-item-wrapper">
-                                                <div class="front-currency-list-item">
-                                                    <div class="currency-item">
-                                                        <div class="currency-icon currency-icon--dot">
-                                                            <img class="image"
-                                                                src="{{asset('')}}assets/oora3/images/svg/currency/dot.svg"
-                                                                alt="">
-                                                        </div>
-                                                        <div class="currency-item__content">
-                                                            <div class="currency-item__title">
-                                                                Polkadot
-                                                            </div>
-                                                            <div class="currency-item__abbr">
-                                                                DOT
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="front-currency-list-item-wrapper">
-                                                <div class="front-currency-list-item">
-                                                    <div class="currency-item">
-                                                        <div class="currency-icon currency-icon--ltc">
-                                                            <img class="image"
-                                                                src="{{asset('')}}assets/oora3/images/svg/currency/ltc.svg"
-                                                                alt="">
-                                                        </div>
-                                                        <div class="currency-item__content">
-                                                            <div class="currency-item__title">
-                                                                Litecoin
-                                                            </div>
-                                                            <div class="currency-item__abbr">
-                                                                LTC
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="front-currency-list-item-wrapper">
-                                                <div class="front-currency-list-item">
-                                                    <div class="currency-item">
-                                                        <div class="currency-icon currency-icon--doge">
-                                                            <img class="image"
-                                                                src="{{asset('')}}assets/oora3/images/svg/currency/doge.svg"
-                                                                alt="">
-                                                        </div>
-                                                        <div class="currency-item__content">
-                                                            <div class="currency-item__title">
-                                                                Dogecoin
-                                                            </div>
-                                                            <div class="currency-item__abbr">
-                                                                DOGE
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="front-currency-list-item-wrapper">
-                                                <div class="front-currency-list-item">
-                                                    <div class="currency-item">
-                                                        <div class="currency-icon currency-icon--trx">
-                                                            <img class="image"
-                                                                src="{{asset('')}}assets/oora3/images/svg/currency/trx.svg"
-                                                                alt="">
-                                                        </div>
-                                                        <div class="currency-item__content">
-                                                            <div class="currency-item__title">
-                                                                TRON
-                                                            </div>
-                                                            <div class="currency-item__abbr">
-                                                                TRX
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="front-currency-list-item-wrapper">
-                                                <div class="front-currency-list-item">
-                                                    <div class="currency-item">
-                                                        <div class="currency-icon currency-icon--xlm">
-                                                            <img class="image"
-                                                                src="{{asset('')}}assets/oora3/images/svg/currency/xlm.svg"
-                                                                alt="">
-                                                        </div>
-                                                        <div class="currency-item__content">
-                                                            <div class="currency-item__title">
-                                                                Stellar
-                                                            </div>
-                                                            <div class="currency-item__abbr">
-                                                                XLM
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="front-currency-list-item-wrapper">
-                                                <div class="front-currency-list-item">
-                                                    <div class="currency-item">
-                                                        <div class="currency-icon currency-icon--xrp">
-                                                            <img class="image"
-                                                                src="{{asset('')}}assets/oora3/images/svg/currency/xrp.svg"
-                                                                alt="">
-                                                        </div>
-                                                        <div class="currency-item__content">
-                                                            <div class="currency-item__title">
-                                                                XRP
-                                                            </div>
-                                                            <div class="currency-item__abbr">
-                                                                XRP
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="front-currency-list-item-wrapper">
-                                                <div class="front-currency-list-item">
-                                                    <div class="currency-item">
-                                                        <div class="currency-icon currency-icon--ada">
-                                                            <img class="image"
-                                                                src="{{asset('')}}assets/oora3/images/svg/currency/ada.svg"
-                                                                alt="">
-                                                        </div>
-                                                        <div class="currency-item__content">
-                                                            <div class="currency-item__title">
-                                                                Cardano
-                                                            </div>
-                                                            <div class="currency-item__abbr">
-                                                                ADA
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="front-currency-list-item-wrapper">
-                                                <div class="front-currency-list-item">
-                                                    <div class="currency-item">
-                                                        <div class="currency-icon currency-icon--bch">
-                                                            <img class="image"
-                                                                src="{{asset('')}}assets/oora3/images/svg/currency/bch.svg"
-                                                                alt="">
-                                                        </div>
-                                                        <div class="currency-item__content">
-                                                            <div class="currency-item__title">
-                                                                Bitcoin Cash
-                                                            </div>
-                                                            <div class="currency-item__abbr">
-                                                                BCH
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="front-currency-list-item-wrapper">
-                                                <div class="front-currency-list-item">
-                                                    <div class="currency-item">
-                                                        <div class="currency-icon currency-icon--chainlink">
-                                                            <img class="image"
-                                                                src="{{asset('')}}assets/oora3/images/svg/currency/chainlink.svg"
-                                                                alt="">
-                                                        </div>
-                                                        <div class="currency-item__content">
-                                                            <div class="currency-item__title">
-                                                                Chainlink
-                                                            </div>
-                                                            <div class="currency-item__abbr">
-                                                                LINK
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="front-currency-list-item-wrapper">
-                                                <div class="front-currency-list-item">
-                                                    <div class="currency-item">
-                                                        <div class="currency-icon currency-icon--pol">
-                                                            <img class="image"
-                                                                src="{{asset('')}}assets/oora3/images/svg/currency/pol.svg"
-                                                                alt="">
-                                                        </div>
-                                                        <div class="currency-item__content">
-                                                            <div class="currency-item__title">
-                                                                Polygon
-                                                            </div>
-                                                            <div class="currency-item__abbr">
-                                                                POL
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-
-
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                          
 
 
 
 
-                            <div class="front-section-block">
+                            <!-- <div class="front-section-block">
 
                                 <div class="front-section-title-block">
                                     <h2 class="front-section-title">
@@ -1081,7 +746,7 @@ Seamless Ecosystem Interaction
 
 
                                 </div>
-                            </div>
+                            </div> -->
 
 
 
@@ -1093,13 +758,13 @@ Seamless Ecosystem Interaction
                                 <div class="front-cta">
                                     <div class="front-cta__title-block">
                                         <div class="h1 front-cta__title">
-                                            More than just a wallet.
+                                          More than an asset layer.
                                         </div>
                                     </div>
                                     <div class="front-cta__descr-block">
                                         <div class="front-cta__descr">
-                                            Basic wallet features alongside advanced AI-generation fintech tools in a
-                                            single interface.
+                                           A unified environment combining secure asset management with intelligent system capabilities, enabling seamless interaction across a decentralized ecosystem.
+
                                         </div>
                                     </div>
                                     <div class="front-cta-features-block">
@@ -1108,7 +773,7 @@ Seamless Ecosystem Interaction
                                                 <div class="front-cta-feature">
                                                     <div class="front-cta-feature__icon"></div>
                                                     <div class="front-cta-feature__text">
-                                                        15+ cryptocurrencies
+                                                      Multi-Asset Support
                                                     </div>
                                                 </div>
                                             </div>
@@ -1116,7 +781,7 @@ Seamless Ecosystem Interaction
                                                 <div class="front-cta-feature">
                                                     <div class="front-cta-feature__icon"></div>
                                                     <div class="front-cta-feature__text">
-                                                        Safe & Secure
+                                                       Secure Architecture
                                                     </div>
                                                 </div>
                                             </div>
@@ -1124,7 +789,7 @@ Seamless Ecosystem Interaction
                                                 <div class="front-cta-feature">
                                                     <div class="front-cta-feature__icon"></div>
                                                     <div class="front-cta-feature__text">
-                                                        Built-in crypto exchange
+                                                      Seamless Interaction
                                                     </div>
                                                 </div>
                                             </div>
@@ -1136,7 +801,7 @@ Seamless Ecosystem Interaction
                                             <div class="front-cta-button-wrapper">
                                                 <a href="../sign-up/index.html"
                                                     class="front-cta-button green-gradient-btn iconed-btn">
-                                                    <div class="iconed-btn__text">Get wallet</div>
+                                                    <div class="iconed-btn__text">Access Ecosystem</div>
                                                     <div class="iconed-btn__icon"></div>
                                                 </a>
                                             </div>
@@ -1144,7 +809,7 @@ Seamless Ecosystem Interaction
                                                 <button type="button" data-bs-toggle="modal"
                                                     data-bs-target="#modalDownload"
                                                     class="download-button light-black-btn iconed-btn">
-                                                    <div class="iconed-btn__text">Download</div>
+                                                    <div class="iconed-btn__text">Download Overview</div>
                                                     <div class="iconed-btn__icon"></div>
                                                 </button>
                                             </div>
