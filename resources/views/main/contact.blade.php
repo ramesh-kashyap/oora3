@@ -17,13 +17,14 @@
                     </div>
                     <div class="front-page-top-title-block">
                         <h1 class="front-page-top-title">
-                            Contact Us
+                         Contact OORA3 Team
                         </h1>
                     </div>
                     <div class="front-page-top-subtitle-block">
                         <div class="front-page-top-subtitle">
-                            Multi-channel support with rapid expert assistance, a personalized approach, a
-                            history of requests, and end-to-end case management until resolution.
+                         Connect with the OORA3 decentralized ecosystem for fast, secure, and reliable support.
+Our team provides expert assistance, personalized solutions, and complete request
+management from submission to resolution.
                         </div>
                     </div>
                 </div>
@@ -65,11 +66,11 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="contact-department-radio__title">
-                                                                    Customer Support
+                                                                     OORA3 User Support
                                                                 </div>
                                                                 <div class="contact-department-radio__descr">
-                                                                    Questions about your wallet, platform
-                                                                    features, and Optima products.
+                                                                       Get assistance with your wallet, staking, transactions, and OORA3 ecosystem services.
+
                                                                 </div>
                                                                 <div class="contact-department-radio__mail-block">
                                                                     <div class="contact-department-radio__mail">
@@ -96,12 +97,11 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="contact-department-radio__title">
-                                                                    Business & Partnerships
+                                                                  Partnerships & Collaboration
                                                                 </div>
                                                                 <div class="contact-department-radio__descr">
-                                                                    Collaborations, cross-marketing and
-                                                                    institutional cooperation.
-                                                                </div>
+                                                                    Explore blockchain integrations, strategic partnerships,
+    and global collaboration opportunities within the OORA3 ecosystem.
                                                                 <div class="contact-department-radio__mail-block">
                                                                     <div class="contact-department-radio__mail">
                                                                         <a href="https://optima.cc/cdn-cgi/l/email-protection"
@@ -127,11 +127,11 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="contact-department-radio__title">
-                                                                    Affiliate & Bounty
+                                                                 OORA3 Earning Program
                                                                 </div>
                                                                 <div class="contact-department-radio__descr">
-                                                                    Affiliate program, promotions, commissions
-                                                                    and bounty tasks.
+                                                                   Participate in our multi-level reward system, earn commissions,
+    referral bonuses, and maximize your income through network expansion.
                                                                 </div>
                                                                 <div class="contact-department-radio__mail-block">
                                                                     <div class="contact-department-radio__mail">
@@ -180,6 +180,8 @@
                                                 </div>
                                             </div>
                                         </div>
+
+
                                         <div class="col-12 col-xl-8 col-xxl-9">
                                             <div class="front-contact-form-block">
                                                 <form action="../../message/index.html" class="front-contact-form">
@@ -379,170 +381,7 @@
 
 
 
-                            <div class="front-contact-offices-block">
-                                <div class="front-contact-offices-title-block">
-                                    <h3 class="front-contact-offices-title">
-                                        Optima Companies & Legal Entities
-                                    </h3>
-                                </div>
-
-
-
-
-                                <div class="front-contact-office-items-block">
-                                    <div class="front-contact-office-items">
-                                        <div class="front-contact-office-item-wrapper">
-                                            <div class="front-contact-office-item">
-                                                <div class="front-contact-office-item__inner">
-                                                    <div class="front-contact-office-item__top">
-                                                        <div class="front-contact-office-item__top-left">
-                                                            <div class="front-contact-office-item__flag">
-                                                                <div class="flag-icon flag-icon--hk">
-                                                                    <img class="image"
-                                                                        src="../../assets/optima/images/svg/flags/hk.svg"
-                                                                        alt="">
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="front-contact-office-item__top-right">
-                                                            <div class="front-contact-office-item__time-zone">
-                                                                UTC+8
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="front-contact-office-item__country">
-                                                        Hong Kong
-                                                    </div>
-                                                    <div class="front-contact-office-item__descr">
-                                                        Optima Business Limited
-                                                    </div>
-                                                    <div class="front-contact-office-item__info">
-                                                        <div class="front-contact-office-item__address">
-                                                            BRN 79118927
-                                                        </div>
-                                                        <div class="front-contact-office-item__mail-block">
-                                                            <a href="https://optima.cc/cdn-cgi/l/email-protection#dfb7b49fb0afabb6b2bef1bcbc"
-                                                                class="front-contact-office-item__mail"><span
-                                                                    class="__cf_email__"
-                                                                    data-cfemail="31595a715e4145585c501f5252">[email&#160;protected]</span></a>
-                                                        </div>
-                                                    </div>
-                                                    <div class="front-contact-office-item__check-button-block">
-                                                        <a href="index.html"
-                                                            class="front-contact-office-item__check-button iconed-btn  light-black-btn">
-                                                            <div class="iconed-btn__icon"></div>
-                                                            <div class="iconed-btn__text">Check the official
-                                                                documents</div>
-                                                            <div class="iconed-btn__icon"></div>
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="front-contact-office-item-wrapper">
-                                            <div class="front-contact-office-item">
-                                                <div class="front-contact-office-item__inner">
-                                                    <div class="front-contact-office-item__top">
-                                                        <div class="front-contact-office-item__top-left">
-                                                            <div class="front-contact-office-item__flag">
-                                                                <div class="flag-icon flag-icon--au">
-                                                                    <img class="image"
-                                                                        src="../../assets/optima/images/svg/flags/au.svg"
-                                                                        alt="">
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="front-contact-office-item__top-right">
-                                                            <div class="front-contact-office-item__time-zone">
-                                                                UTC+10
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="front-contact-office-item__country">
-                                                        Australia
-                                                    </div>
-                                                    <div class="front-contact-office-item__descr">
-                                                        Optima Co PTY LTD
-                                                    </div>
-                                                    <div class="front-contact-office-item__info">
-                                                        <div class="front-contact-office-item__address">
-                                                            ACN 690 051 677
-                                                        </div>
-                                                        <div class="front-contact-office-item__mail-block">
-                                                            <a href="https://optima.cc/cdn-cgi/l/email-protection#157460557a65617c78743b7676"
-                                                                class="front-contact-office-item__mail"><span
-                                                                    class="__cf_email__"
-                                                                    data-cfemail="a9c8dce9c6d9ddc0c4c887caca">[email&#160;protected]</span></a>
-                                                        </div>
-                                                    </div>
-                                                    <div class="front-contact-office-item__check-button-block">
-                                                        <a href="index.html"
-                                                            class="front-contact-office-item__check-button iconed-btn  light-black-btn">
-                                                            <div class="iconed-btn__icon"></div>
-                                                            <div class="iconed-btn__text">Check the official
-                                                                documents</div>
-                                                            <div class="iconed-btn__icon"></div>
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="front-contact-office-item-wrapper">
-                                            <div class="front-contact-office-item">
-                                                <div class="front-contact-office-item__inner">
-                                                    <div class="front-contact-office-item__top">
-                                                        <div class="front-contact-office-item__top-left">
-                                                            <div class="front-contact-office-item__flag">
-                                                                <div class="flag-icon flag-icon--uk">
-                                                                    <img class="image"
-                                                                        src="../../assets/optima/images/svg/flags/gb.svg"
-                                                                        alt="">
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="front-contact-office-item__top-right">
-                                                            <div class="front-contact-office-item__time-zone">
-                                                                UTC+0
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="front-contact-office-item__country">
-                                                        United Kingdom
-                                                    </div>
-                                                    <div class="front-contact-office-item__descr">
-                                                        Optima Business Growth LTD
-                                                    </div>
-                                                    <div class="front-contact-office-item__info">
-                                                        <div class="front-contact-office-item__address">
-                                                            16864023
-                                                        </div>
-                                                        <div class="front-contact-office-item__mail-block">
-                                                            <a href="https://optima.cc/cdn-cgi/l/email-protection#d3a6b893bca3a7babeb2fdb0b0"
-                                                                class="front-contact-office-item__mail"><span
-                                                                    class="__cf_email__"
-                                                                    data-cfemail="c0b5ab80afb0b4a9ada1eea3a3">[email&#160;protected]</span></a>
-                                                        </div>
-                                                    </div>
-                                                    <div class="front-contact-office-item__check-button-block">
-                                                        <a href="index.html"
-                                                            class="front-contact-office-item__check-button iconed-btn  light-black-btn">
-                                                            <div class="iconed-btn__icon"></div>
-                                                            <div class="iconed-btn__text">Check the official
-                                                                documents</div>
-                                                            <div class="iconed-btn__icon"></div>
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-
-
-                            </div>
+                           
 
 
 
