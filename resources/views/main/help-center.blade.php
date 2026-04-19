@@ -8,12 +8,12 @@
                 <div class="front-page-top front-page-top--help-center">
                     <div class="front-page-top-title-block">
                         <h1 class="front-page-top-title">
-                            Help center
+                            OORA3 Help Center
                         </h1>
                     </div>
                     <div class="front-page-top-subtitle-block">
                         <div class="front-page-top-subtitle">
-                            Optima Ecosystem: Core Product Manual
+                           OORA3 Ecosystem: User Guide & Support Center
                         </div>
                     </div>
                     <div class="front-page-top-search-block">
