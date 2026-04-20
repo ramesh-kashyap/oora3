@@ -3,7 +3,6 @@
 
 <head>
     <title>OORA3 - Log In</title>
-    <title>OORA3 - Log In</title>
     <meta charset="utf-8" />
     <meta name="viewport"
         content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -78,11 +77,13 @@
                                         <div class="form-subtitle-block">
                                             <div class="form-subtitle">
                                                 Log in to access OORA3 products
-                                                Log in to access OORA3 products
                                             </div>
                                         </div>
                                         <div class="form-wrapper">
-                                            <form action="../../auth/index.html" method="post" class="form login-form">
+                                            <form action="{{ route('loginAction') }}" method="post" class="form login-form">
+
+                                                 @csrf
+
                                                 <div class="login-type-tabs-block">
                                                     <div class="login-type-tabs">
                                                         <div class="login-type-tab-wrapper" style="width:66.66%;"
@@ -116,7 +117,7 @@
                                                                     class="field field--input field--has-icon field--username">
                                                                     <input class="authEmailOrLogin"
                                                                         placeholder="Email or Username" type="text"
-                                                                        name="login" maxlength="255"
+                                                                        name="username" maxlength="255"
                                                                         autocomplete="off">
                                                                     <div class="field-icon"></div>
                                                                 </div>
@@ -796,24 +797,24 @@
                                 </div>
                             </div>
 
-                            <div class="optima-benefit-items-block">
-								<div class="optima-benefit-items">
-									<div class="optima-benefit-item-wrapper">
-										<div class="optima-benefit-item optima-benefit-item--uptime">
-											<div class="optima-benefit-item__icon"></div>
-											<div class="optima-benefit-item__text">OORA3 Products</div>
+                           <div class="OORA3-benefit-items-block">
+								<div class="OORA3-benefit-items">
+									<div class="OORA3-benefit-item-wrapper">
+										<div class="OORA3-benefit-item OORA3-benefit-item--uptime">
+											<div class="OORA3-benefit-item__icon"></div>
+											<div class="OORA3-benefit-item__text">Fintech Products</div>
 										</div>
 									</div>
-									<div class="optima-benefit-item-wrapper">
-										<div class="optima-benefit-item optima-benefit-item--audited">
-											<div class="optima-benefit-item__icon"></div>
-											<div class="optima-benefit-item__text">Secure Custodian</div>
+									<div class="OORA3-benefit-item-wrapper">
+										<div class="OORA3-benefit-item OORA3-benefit-item--audited">
+											<div class="OORA3-benefit-item__icon"></div>
+											<div class="OORA3-benefit-item__text">Secure Custodian</div>
 										</div>
 									</div>
-									<div class="optima-benefit-item-wrapper">
-										<div class="optima-benefit-item optima-benefit-item--ai">
-											<div class="optima-benefit-item__icon"></div>
-											<div class="optima-benefit-item__text">AI Tech</div>
+									<div class="OORA3-benefit-item-wrapper">
+										<div class="OORA3-benefit-item OORA3-benefit-item--ai">
+											<div class="OORA3-benefit-item__icon"></div>
+											<div class="OORA3-benefit-item__text">AI Tech</div>
 										</div>
 									</div>
 								</div>
@@ -872,7 +873,7 @@
 
 
 
-
+@include('partials.notify')
     <script src="https://js.pusher.com/8.2.0/pusher.min.js"></script>
 
     <script type="text/javascript">
