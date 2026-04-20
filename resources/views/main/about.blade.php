@@ -349,12 +349,12 @@ ensuring privacy, security, and uninterrupted connectivity.
                                                                     </div>
                                                                 </div>
                                                                 <div class="front-direction-item-title__text">
-                                                                    OORA3 WhatsApp
+                                                                    OORA3 Chat
                                                                 </div>
                                                             </div>
                                                         </div>
                                                         <div class="front-direction-item-descr">
-                                                          Stay connected with OORA3 through WhatsApp for instant updates,
+                                                          Stay connected with OORA3 through OORA3 Chat for instant updates,
 real-time communication, and community support. Get quick access
 to announcements, assistance, and important information anytime,
 anywhere with secure and reliable messaging.

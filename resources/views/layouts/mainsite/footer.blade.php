@@ -147,7 +147,7 @@
                                                 class="footer-contact-item footer-contact-item--mail">
                                                 <div class="footer-contact-item__icon"></div>
                                                 <div class="footer-contact-item__text"><span class="__cf_email__"
-                                                        data-cfemail="ff979a938fbf908f8b96929ed19c9c">[email&#160;protected]</span>
+                                                        data-cfemail="ff979a938fbf908f8b96929ed19c9c">[email&#160;info@oora3.com]</span>
                                                 </div>
                                             </a>
                                         </div>
@@ -183,7 +183,7 @@
                     <div class="footer-bottom">
                         <div class="footer-bottom__left">
                             <div class="footer-copy">
-                                © 2026 All rights reserved.
+                                ©{{siteName()}} 2026 All rights reserved.
                             </div>
                         </div>
                         <div class="footer-bottom__right">
