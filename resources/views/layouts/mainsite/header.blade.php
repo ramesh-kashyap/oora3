@@ -172,9 +172,7 @@
                                         <a href="{{ asset('') }}" class="logo">
                                             <div class="logo-img">
                                                 <img class="image"
-                                                    src="{{ asset('') }}assets/oora3/images/svg/logo.png" alt="OORA3" style="
-    width: 115px;
-">
+                                                    src="{{ asset('') }}assets/oora3/images/svg/logo.png" alt="OORA3" style="width: 115px;">
                                             </div>
                                         </a>
                                     </div>

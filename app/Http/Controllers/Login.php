@@ -19,80 +19,76 @@ use App\Models\UserLogin;
 class Login extends Controller
 {
 
-  public function loginAction(Request $request)
-{
-    try {
+    public function loginAction(Request $request)
+    {
+        try {
 
-        // Step 1: Validate (at least one required)
-        $validation = Validator::make($request->all(), [
-            'login'    => 'nullable',
-            'login2'   => 'nullable',
-            'password' => 'required|string',
-        ]);
+            // Step 1: Validate (at least one required)
+            $validation = Validator::make($request->all(), [
+                'login' => 'nullable',
+                'password' => 'required|string',
+            ]);
 
-        if ($validation->fails()) {
-            return Redirect::back()
-                ->withErrors($validation->getMessageBag()->first())
-                ->withInput();
-        }
-
-        // Step 2: Ensure at least one login field is filled
-        if (!$request->filled('login') && !$request->filled('login2')) {
-            return Redirect::back()
-                ->withErrors(['Please enter Email/Username or Phone']);
-        }
-
-        $credentials = [];
-
-        // Step 3: If login (email/username) is used
-        if ($request->filled('login')) {
-            $loginInput = $request->input('login');
-
-            if (filter_var($loginInput, FILTER_VALIDATE_EMAIL)) {
-                $credentials['email'] = $loginInput;
-            } else {
-                $credentials['username'] = $loginInput;
-            }
-        }
-
-        // Step 4: If phone is used
-        if ($request->filled('login2')) {
-            $credentials['phone'] = $request->input('login2');
-        }
-
-        $credentials['password'] = $request->password;
-
-        // Step 5: Attempt login
-        if (Auth::attempt($credentials)) {
-
-            $user = Auth::user();
-
-            // Block check
-            if ($user->active_status === "Block") {
-                Auth::logout();
-
+            if ($validation->fails()) {
                 return Redirect::back()
-                    ->withErrors(['You are Blocked by admin']);
+                    ->withErrors($validation->getMessageBag()->first())
+                    ->withInput();
             }
 
-            session()->flash('success', 'Login successfully');
+            // Step 2: Ensure at least one login field is filled
+            if (!$request->filled('login') && !$request->filled('login2')) {
+                return Redirect::back()
+                    ->withErrors(['Please enter Email/Username or Phone']);
+            }
 
-            return redirect()->route('user.dashboard');
+            $credentials = [];
+
+            // Step 3: If login (email/username) is used
+            if ($request->filled('login')) {
+                $loginInput = $request->input('login');
+                if (filter_var($loginInput, FILTER_VALIDATE_EMAIL)) {
+                    $credentials['email'] = $loginInput;
+                } elseif (preg_match('/^[0-9]{10,15}$/', $loginInput)) {
+                    $credentials['phone'] = $loginInput;
+                } else {
+                    $credentials['username'] = $loginInput;
+                }
+            }
+
+
+            $credentials['password'] = $request->password;
+
+            // Step 5: Attempt login
+            if (Auth::attempt($credentials)) {
+
+                $user = Auth::user();
+
+                // Block check
+                if ($user->active_status === "Block") {
+                    Auth::logout();
+
+                    return Redirect::back()
+                        ->withErrors(['You are Blocked by admin']);
+                }
+
+                session()->flash('success', 'Login successfully');
+
+                return redirect()->route('user.dashboard');
+            }
+
+            return Redirect::back()
+                ->withErrors(['Invalid credentials']);
+
+        } catch (\Exception $e) {
+
+            Log::error("Login Error", [
+                'message' => $e->getMessage(),
+            ]);
+
+            return Redirect::back()
+                ->withErrors(['Something went wrong']);
         }
-
-        return Redirect::back()
-            ->withErrors(['Invalid credentials']);
-
-    } catch (\Exception $e) {
-
-        Log::error("Login Error", [
-            'message' => $e->getMessage(),
-        ]);
-
-        return Redirect::back()
-            ->withErrors(['Something went wrong']);
     }
-}
     // public function loginAction(Request $request)
     // {
     //     try {
@@ -139,7 +135,7 @@ class Login extends Controller
 
     public function forgot_password_submit(Request $request)
     {
-        $validation =  Validator::make($request->all(), [
+        $validation = Validator::make($request->all(), [
             'username' => 'required|unique:users',
 
         ]);
@@ -224,39 +220,39 @@ class Login extends Controller
     }
 
 
-   public function sendResetCode(Request $request)
-{
-    $request->validate([
-        'email' => 'required|email|exists:users,email',
-    ]);
+    public function sendResetCode(Request $request)
+    {
+        $request->validate([
+            'email' => 'required|email|exists:users,email',
+        ]);
 
-    $code = rand(100000, 999999); // 6 digit code
+        $code = rand(100000, 999999); // 6 digit code
 
-    // save code into password_resets table
-    DB::table('password_resets')->updateOrInsert(
-        ['email' => $request->email],
-        [
-            'token' => $code,
-            'created_at' => Carbon::now(),
-        ]
-    );
+        // save code into password_resets table
+        DB::table('password_resets')->updateOrInsert(
+            ['email' => $request->email],
+            [
+                'token' => $code,
+                'created_at' => Carbon::now(),
+            ]
+        );
 
-    // get user details
-    $credentials = \App\Models\User::where('email', $request->email)->first();
+        // get user details
+        $credentials = \App\Models\User::where('email', $request->email)->first();
 
-    // send email
-    sendEmail($credentials->email, 'Recovery Password', [
-        'name' => $credentials->name,
-        'browser' => request()->header('User-Agent'),   // agar aapke paas browser info capture hai
-        'ip' => $request->ip(),
-        'time' => now()->toDateTimeString(),
-        'operating_system' => PHP_OS,
-        'code' => $code,
-        'viewpage' => 'forgot_sucess',
-    ]);
+        // send email
+        sendEmail($credentials->email, 'Recovery Password', [
+            'name' => $credentials->name,
+            'browser' => request()->header('User-Agent'),   // agar aapke paas browser info capture hai
+            'ip' => $request->ip(),
+            'time' => now()->toDateTimeString(),
+            'operating_system' => PHP_OS,
+            'code' => $code,
+            'viewpage' => 'forgot_sucess',
+        ]);
 
-    return response()->json(['message' => 'Verification code sent successfully.']);
-}
+        return response()->json(['message' => 'Verification code sent successfully.']);
+    }
 
     public function submitResetPassword(Request $request)
     {

@@ -95,7 +95,7 @@
                                                             </div>
                                                         </div>
                                                         <div class="login-type-tab-wrapper"
-                                                            onclick="$(this).closest('form').find('.authEmailOrLogin').attr('name','login2');$(this).closest('form').find('.authPhone').attr('name','login');">
+                                                            onclick="$(this).closest('form').find('.authEmailOrLogin').attr('name','login');$(this).closest('form').find('.authPhone').attr('name','login');">
                                                             <div class="login-type-tab">
                                                                 <div class="login-type-tab__text">
                                                                     Mobile
@@ -117,7 +117,7 @@
                                                                     class="field field--input field--has-icon field--username">
                                                                     <input class="authEmailOrLogin"
                                                                         placeholder="Email or Username" type="text"
-                                                                        name="username" maxlength="255"
+                                                                        name="login" maxlength="255"
                                                                         autocomplete="off">
                                                                     <div class="field-icon"></div>
                                                                 </div>

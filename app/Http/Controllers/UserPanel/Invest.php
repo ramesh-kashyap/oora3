@@ -14,6 +14,9 @@ use Illuminate\Support\Facades\Log;
 use Illuminate\Support\Facades\Redirect;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\Http;
+
+use Illuminate\Support\Str;
 
 class Invest extends Controller
 {
@@ -21,6 +24,68 @@ class Invest extends Controller
 
 
   private $downline = "";
+
+    public function generate(Request $request)
+
+    {
+
+        $request->validate([
+
+            'amount' => 'required|numeric|min:100',
+            'network' => 'required'
+
+        ]);
+
+        $refId = Str::random(10);
+
+        // Decide API based on network
+
+        if (str_contains($request->network, 'tether_trc-20_usdt')) {
+
+            $url = 'https://api.cryptapi.io/trc20/usdt/create/';
+
+            $walletAddress = generalDetail()->usdtTrc20;
+
+        } else {
+
+            $url = 'https://api.cryptapi.io/bep20/usdt/create/';
+             $walletAddress = generalDetail()->usdtBep20;
+
+        }
+
+        $response = Http::get($url, [
+
+            'callback'      => url('/dynamicUpiCallback?refid=' . $refId),
+
+            'address'       => $walletAddress,
+
+            'pending'       => 0,
+
+            'confirmations' => 1,
+
+        ]);
+
+        $data = $response->json();
+        if (!isset($data['status']) || $data['status'] !== 'success') {
+
+            return response()->json([
+
+                'status' => 'error'
+
+            ]);
+
+        }
+
+        return response()->json([
+
+            'status'  => 'success',
+
+            'address' => $data['address_in']
+
+        ]);
+
+    }
+
 
   public function index()
   {

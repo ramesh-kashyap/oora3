@@ -131,10 +131,12 @@ Route::get('/wallets', [App\Http\Controllers\UserPanel\Profile::class, 'wallets'
 Route::get('/AddFund', [App\Http\Controllers\UserPanel\AddFund::class, 'index'])->name('user.AddFund');
 Route::get('/fundHistory', [App\Http\Controllers\UserPanel\AddFund::class, 'fundHistory'])->name('user.fundHistory');
 Route::any('/SubmitBuyFund', [App\Http\Controllers\UserPanel\AddFund::class, 'SubmitBuyFund'])->name('user.SubmitBuyFund');
+
 // end add fund
 
 // invest
 Route::get('/invest', [App\Http\Controllers\UserPanel\Invest::class, 'index'])->name('user.invest');
+Route::post('/deposit-address', [App\Http\Controllers\UserPanel\Invest::class, 'generate'])->name('user.deposit-address');
 Route::get('/ecopay', [App\Http\Controllers\UserPanel\Invest::class, 'ecoPay'])->name('user.ecopay');
 Route::get('/topup', [App\Http\Controllers\UserPanel\Invest::class, 'topup'])->name('user.topup');
 Route::post('/confirm-Topup', [App\Http\Controllers\UserPanel\Invest::class, 'confirmTopup'])->name('user.confirmTopup');

@@ -6,50 +6,49 @@
 <script>
 "use strict";
 
-/**
- * Global Notify Function
- * status: success | error | warning | info
- * message: string
- * type: modal | toast
- */
+/* GLOBAL FUNCTION */
 function notify(status, message, type = 'modal') {
 
     if (type === 'modal') {
 
         if (status === 'success') {
 
-            document.querySelector('.modalSuccessText').innerHTML = message;
+            let el = document.querySelector('.modalSuccessText');
+            if (el) el.innerHTML = message;
 
-            let successModal = new bootstrap.Modal(document.getElementById('modalSuccess'));
-            successModal.show();
+            let modalEl = document.getElementById('modalSuccess');
+            if (modalEl) {
+                new bootstrap.Modal(modalEl).show();
+            }
 
         } else {
 
-            document.querySelector('.modalErrorText').innerHTML = message;
+            let el = document.querySelector('.modalErrorText');
+            if (el) el.innerHTML = message;
 
-            let errorModal = new bootstrap.Modal(document.getElementById('modalError'));
-            errorModal.show();
+            let modalEl = document.getElementById('modalError');
+            if (modalEl) {
+                new bootstrap.Modal(modalEl).show();
+            }
         }
 
     } else {
-
         iziToast[status]({
             message: message,
             position: "topRight"
         });
-
     }
 }
 </script>
 
-
 <!-- Laravel Session Notify -->
 @if(session()->has('notify'))
 <script>
-"use strict";
-@foreach(session('notify') as $msg)
-    notify("{{ $msg[0] }}", "{{ __($msg[1]) }}", "modal");
-@endforeach
+document.addEventListener("DOMContentLoaded", function () {
+    @foreach(session('notify') as $msg)
+        notify("{{ $msg[0] }}", "{{ __($msg[1]) }}", "modal");
+    @endforeach
+});
 </script>
 @endif
 
@@ -57,13 +56,13 @@ function notify(status, message, type = 'modal') {
 <!-- Laravel Validation Errors -->
 @if ($errors->any())
 <script>
-"use strict";
-@foreach($errors->all() as $error)
-    notify('error', "{{ __($error) }}", "modal");
-@endforeach
+document.addEventListener("DOMContentLoaded", function () {
+    @foreach($errors->all() as $error)
+        notify('error', "{{ __($error) }}", "modal");
+    @endforeach
+});
 </script>
 @endif
-
 
 
 <!-- ================= ERROR MODAL ================= -->
